@@ -21,7 +21,7 @@ except:
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-FDA_API_KEY = "XnBhtWS9u7fMNOTqDdHUQQUzLkdafHTiDvRfOqcn"
+FDA_API_KEY = ""
 
 # Configuration Constants
 RANDOM_SEED = 42

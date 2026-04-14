@@ -111,7 +111,15 @@ class PredictionService:
                 self._load_errors[task].append(f"{algorithm}: {type(exc).__name__}: {exc}")
                 predictor = None
             if predictor is not None:
-                return predictor, algorithm
+                # Validate runtime inference once so we don't select a model that
+                # loads but fails during predict on this deployment environment.
+                try:
+                    _ = predictor.predict_probability(feature_defaults())
+                    return predictor, algorithm
+                except Exception as exc:
+                    self._load_errors[task].append(
+                        f"{algorithm}: runtime predict failed: {type(exc).__name__}: {exc}"
+                    )
             self._load_errors[task].append(f"{algorithm}: model unavailable")
         return None, None
 

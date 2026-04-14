@@ -120,8 +120,11 @@ def predict():
     drug_name = request.form.get("drug_name", "Cisplatin").strip() or "Cisplatin"
     try:
         result = service.predict_response(features, drug_name=drug_name)
-    except Exception:
+    except Exception as exc:
         app.logger.exception("Prediction request failed")
+        load_errors = service.status().get("load_errors", {})
+        response_err = "; ".join((load_errors.get("response") or [])[:2])
+        mortality_err = "; ".join((load_errors.get("mortality") or [])[:2])
         result = {
             "probability": None,
             "label": "Prediction unavailable",
@@ -133,7 +136,10 @@ def predict():
             "model_type": "runtime-error",
             "response_algorithm": None,
             "mortality_algorithm": None,
-            "mortality_message": "An internal prediction error occurred. Please retry shortly.",
+            "mortality_message": (
+                f"Runtime error: {type(exc).__name__}: {exc}. "
+                f"Response load: {response_err or 'none'}. Mortality load: {mortality_err or 'none'}."
+            ),
             "response_conformal": None,
             "mortality_conformal": None,
             "drug_info": None,

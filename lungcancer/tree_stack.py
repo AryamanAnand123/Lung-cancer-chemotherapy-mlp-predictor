@@ -578,7 +578,7 @@ class TreePredictor:
     mapie: Any | None
 
     @classmethod
-    def load(cls, task: str, algorithm: str) -> "TreePredictor | None":
+    def load(cls, task: str, algorithm: str, strict: bool = False) -> "TreePredictor | None":
         model_path = MODELS_DIR / f"{task}_{algorithm}_model.joblib"
         if not model_path.exists():
             return None
@@ -588,6 +588,8 @@ class TreePredictor:
             mapie = joblib.load(mapie_path) if mapie_path.exists() else None
             return cls(model=model, mapie=mapie)
         except Exception:
+            if strict:
+                raise
             # Keep inference service available even if one serialized model
             # cannot be loaded on the current runtime environment.
             return None

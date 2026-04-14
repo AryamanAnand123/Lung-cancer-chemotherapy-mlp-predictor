@@ -16,9 +16,11 @@ try:
     from .tree_stack import TreePredictor
 
     TREE_STACK_AVAILABLE = True
+    TREE_STACK_IMPORT_ERROR = None
 except Exception:
     TreePredictor = None  # type: ignore[assignment]
     TREE_STACK_AVAILABLE = False
+    TREE_STACK_IMPORT_ERROR = "tree_stack import failed"
 
 
 RESPONSE_DECISION_THRESHOLD = 0.50
@@ -47,6 +49,7 @@ class PredictionService:
     """Provide tree-stack predictions and model status for the Flask app."""
 
     def __init__(self) -> None:
+        self._load_errors: Dict[str, List[str]] = {"response": [], "mortality": []}
         self._response_tree_predictor, self._response_algorithm = self._load_tree_predictor(task="response")
         self._mortality_tree_predictor, self._mortality_algorithm = self._load_tree_predictor(task="mortality")
         self._response_threshold = self._load_task_threshold(
@@ -87,6 +90,8 @@ class PredictionService:
 
     def _load_tree_predictor(self, task: str) -> tuple[TreePredictor | None, str | None]:
         if not TREE_STACK_AVAILABLE:
+            if TREE_STACK_IMPORT_ERROR:
+                self._load_errors[task].append(TREE_STACK_IMPORT_ERROR)
             return None, None
 
         ranked_algorithms: list[tuple[float, float, str]] = []
@@ -101,11 +106,13 @@ class PredictionService:
 
         for _, _, algorithm in sorted(ranked_algorithms, reverse=True):
             try:
-                predictor = TreePredictor.load(task=task, algorithm=algorithm)
-            except Exception:
+                predictor = TreePredictor.load(task=task, algorithm=algorithm, strict=True)
+            except Exception as exc:
+                self._load_errors[task].append(f"{algorithm}: {type(exc).__name__}: {exc}")
                 predictor = None
             if predictor is not None:
                 return predictor, algorithm
+            self._load_errors[task].append(f"{algorithm}: model unavailable")
         return None, None
 
     def _load_task_threshold(self, task: str, algorithm: str | None, default: float) -> float:
@@ -142,6 +149,7 @@ class PredictionService:
             "mortality_algorithm": self._mortality_algorithm,
             "response_report": self._response_report,
             "mortality_report": self._mortality_report,
+            "load_errors": self._load_errors,
             "mode": mode,
         }
 
@@ -149,6 +157,8 @@ class PredictionService:
         """Predict both treatment response and mortality."""
 
         if not self.response_ready or not self.mortality_ready:
+            response_err = "; ".join(self._load_errors.get("response", [])[:2])
+            mortality_err = "; ".join(self._load_errors.get("mortality", [])[:2])
             return {
                 "probability": None,
                 "label": "Model not trained",
@@ -158,7 +168,7 @@ class PredictionService:
                 "mortality_label": "Model not trained",
                 "drug_name": drug_name,
                 "model_type": "tree-stack-unavailable",
-                "mortality_message": "Train tree-stack response and mortality models to enable both outputs.",
+                "mortality_message": f"Model unavailable. Response load: {response_err or 'none'}. Mortality load: {mortality_err or 'none'}.",
                 "drug_info": None,
             }
 

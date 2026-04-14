@@ -577,6 +577,45 @@ class TreePredictor:
     model: Any
     mapie: Any | None
 
+    @staticmethod
+    def _repair_imputer_fill_dtype(obj: Any) -> None:
+        """Best-effort repair for sklearn SimpleImputer state across versions."""
+
+        seen: set[int] = set()
+
+        def _visit(node: Any) -> None:
+            if node is None:
+                return
+            node_id = id(node)
+            if node_id in seen:
+                return
+            seen.add(node_id)
+
+            # Newer sklearn versions may expect this private attribute.
+            if node.__class__.__name__ == "SimpleImputer":
+                if not hasattr(node, "_fill_dtype") and hasattr(node, "statistics_"):
+                    try:
+                        stats = np.asarray(node.statistics_)
+                        node._fill_dtype = stats.dtype  # type: ignore[attr-defined]
+                    except Exception:
+                        node._fill_dtype = np.asarray([], dtype=object).dtype  # type: ignore[attr-defined]
+
+            if hasattr(node, "steps") and isinstance(getattr(node, "steps"), list):
+                for _, step in node.steps:
+                    _visit(step)
+
+            if hasattr(node, "transformers") and isinstance(getattr(node, "transformers"), list):
+                for transformer in node.transformers:
+                    if len(transformer) >= 2:
+                        _visit(transformer[1])
+
+            if hasattr(node, "named_steps"):
+                try:
+                    for step in node.named_steps.values():
+                        _visit(step)
+                except Exception:
+                    pass
+
     @classmethod
     def load(cls, task: str, algorithm: str, strict: bool = False) -> "TreePredictor | None":
         model_path = MODELS_DIR / f"{task}_{algorithm}_model.joblib"
@@ -598,7 +637,13 @@ class TreePredictor:
         normalized = normalize_payload(payload)
         X = pd.DataFrame([normalized], columns=FEATURE_ORDER)
         X = _coerce_feature_types(X)
-        return float(self.model.predict_proba(X)[:, 1][0])
+        try:
+            return float(self.model.predict_proba(X)[:, 1][0])
+        except AttributeError as exc:
+            if "_fill_dtype" not in str(exc):
+                raise
+            self._repair_imputer_fill_dtype(self.model)
+            return float(self.model.predict_proba(X)[:, 1][0])
 
     def predict_interval(self, payload: Dict[str, Any], alpha: float = 0.1) -> Dict[str, float] | None:
         if self.mapie is None:
@@ -608,8 +653,17 @@ class TreePredictor:
         X = _coerce_feature_types(X)
         try:
             # MAPIE classification returns set predictions; expose score bounds when available.
-            y_pred, y_ps = self.mapie.predict(X, alpha=alpha)
-            prob = float(self.model.predict_proba(X)[:, 1][0])
+            try:
+                y_pred, y_ps = self.mapie.predict(X, alpha=alpha)
+                prob = float(self.model.predict_proba(X)[:, 1][0])
+            except AttributeError as exc:
+                if "_fill_dtype" not in str(exc):
+                    raise
+                self._repair_imputer_fill_dtype(self.model)
+                if self.mapie is not None:
+                    self._repair_imputer_fill_dtype(self.mapie)
+                y_pred, y_ps = self.mapie.predict(X, alpha=alpha)
+                prob = float(self.model.predict_proba(X)[:, 1][0])
             return {
                 "prediction": float(y_pred[0]),
                 "probability": prob,

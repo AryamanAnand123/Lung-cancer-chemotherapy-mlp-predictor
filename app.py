@@ -7,13 +7,9 @@ predictions through the current model service.
 
 from __future__ import annotations
 
-import json
 import os
-from functools import lru_cache
-from pathlib import Path
 from typing import Dict, List, Sequence
 
-import joblib
 import pandas as pd
 from flask import Flask, flash, redirect, render_template, request, url_for
 
@@ -25,9 +21,14 @@ app = Flask(__name__)
 app.secret_key = os.environ.get("FLASK_SECRET_KEY", "dev-secret-key")
 
 service = PredictionService()
-PROJECT_ROOT = Path(__file__).resolve().parent
-REPORTS_DIR = PROJECT_ROOT / "data" / "reports"
-MODELS_DIR = PROJECT_ROOT / "data" / "models"
+# Ranked from previous SHAP analysis across deployed response/mortality models.
+SHAP_TOP_EXTRA_FEATURES: List[str] = [
+    "tumor_size_mm",
+    "treatment_delay_days",
+    "mets_lung_dx",
+    "performance_status",
+    "egfr_mutation",
+]
 
 
 def _shared_feature_names(status: Dict) -> List[str]:
@@ -46,49 +47,10 @@ def _shared_feature_names(status: Dict) -> List[str]:
     return FEATURE_ORDER
 
 
-@lru_cache(maxsize=1)
 def _shap_top_missing_features(limit: int = 5) -> List[str]:
-    """Return top missing schema features ranked by aggregated SHAP importance."""
+    """Return cached SHAP-ranked extras without loading model artifacts at request time."""
 
-    status = service.status()
-    shared = _shared_feature_names(status)
-    missing = [name for name in FEATURE_ORDER if name not in set(shared)]
-    if not missing:
-        return []
-
-    scores = {name: 0.0 for name in FEATURE_ORDER}
-    selected = [
-        ("response", status.get("response_algorithm")),
-        ("mortality", status.get("mortality_algorithm")),
-    ]
-
-    for task, algorithm in selected:
-        if not algorithm:
-            continue
-
-        shap_path = REPORTS_DIR / f"{task}_{algorithm}_shap_summary.json"
-        model_path = MODELS_DIR / f"{task}_{algorithm}_model.joblib"
-        if not shap_path.exists() or not model_path.exists():
-            continue
-
-        try:
-            payload = json.loads(shap_path.read_text(encoding="utf-8"))
-            values = payload.get("mean_abs_shap", [])
-            model = joblib.load(model_path)
-            prep = model.named_steps.get("prep")
-            feature_names = prep.get_feature_names_out().tolist() if prep is not None else []
-            for transformed_name, shap_value in zip(feature_names, values):
-                for raw_name in FEATURE_ORDER:
-                    if transformed_name == f"num__{raw_name}" or transformed_name.startswith(
-                        f"cat__{raw_name}_"
-                    ):
-                        scores[raw_name] += float(shap_value)
-                        break
-        except Exception:
-            continue
-
-    ranked = sorted(missing, key=lambda name: scores.get(name, 0.0), reverse=True)
-    return ranked[:limit]
+    return [name for name in SHAP_TOP_EXTRA_FEATURES if name in FEATURE_ORDER][:limit]
 
 
 def _active_feature_names() -> List[str]:

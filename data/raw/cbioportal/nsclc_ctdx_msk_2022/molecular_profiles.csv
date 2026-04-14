@@ -1,0 +1,5 @@
+﻿"molecularAlterationType","datatype","name","description","showProfileInAnalysisTab","patientLevel","molecularProfileId","studyId"
+"COPY_NUMBER_ALTERATION","DISCRETE","Copy Number Alterations (MSK-IMPACT, HEME)","Copy number alterations from targeted sequencing via MK-IMPACT, HEME on Illumina HiSeq sequencers.","True","False","nsclc_ctdx_msk_2022_cna","nsclc_ctdx_msk_2022"
+"COPY_NUMBER_ALTERATION","CONTINUOUS","Copy Number Alterations (Resbio Lung ctDx)","Copy number changes called by Resbio Lung ctDx","False","False","nsclc_ctdx_msk_2022_linear_CNA","nsclc_ctdx_msk_2022"
+"MUTATION_EXTENDED","MAF","Mutations","Mutation data","True","False","nsclc_ctdx_msk_2022_mutations","nsclc_ctdx_msk_2022"
+"STRUCTURAL_VARIANT","SV","SV data","Structural variants data.","True","False","nsclc_ctdx_msk_2022_structural_variants","nsclc_ctdx_msk_2022"

@@ -135,3 +135,8 @@ Thumbs.db
 # *.csv
 # *.json
 # data/
+
+# Large local datasets (keep local, do not push)
+data/raw/seer/
+data/processed/harmonized_real_world.csv
+data/processed/mortality_training_ready.csv

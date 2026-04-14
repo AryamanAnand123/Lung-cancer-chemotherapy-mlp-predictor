@@ -1,0 +1,524 @@
+﻿[
+    {
+        "displayName":  "Diagnosis Age",
+        "description":  "Age at which a condition or disease was first diagnosed.",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "AGE",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Age at Which Sequencing was Reported (Years)",
+        "description":  "Age (in years) at which sequencing was reported",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "0",
+        "clinicalAttributeId":  "AGE_AT_SEQ_REPORTED_YEARS",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Patient Current Age",
+        "description":  "Patient Current Age",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "AGE_CURRENT",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Archer Panel",
+        "description":  "Archer Panel",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "0",
+        "clinicalAttributeId":  "ARCHER",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Cancer Type",
+        "description":  "Cancer Type",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "CANCER_TYPE",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Cancer Type Detailed",
+        "description":  "Cancer Type Detailed",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "CANCER_TYPE_DETAILED",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "CRDB_ADJ_TXT",
+        "description":  "Has the patient received adjuvant systemic therapy?",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "CRDB_ADJ_TXT",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "CRDB_BASIC_COMMENTS",
+        "description":  "The basic comments at enrollment for 12-245.",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "CRDB_BASIC_COMMENTS",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "CRDB_BRAINMET",
+        "description":  "Does the patient have brain metastases?",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "CRDB_BRAINMET",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "CRDB_CONSENT_DATE_DAYS",
+        "description":  "12-245 consent date.",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "CRDB_CONSENT_DATE_DAYS",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "CRDB_ECOG",
+        "description":  "What is the patient\u0027s ECOG status?",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "CRDB_ECOG",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "CRDB_NOSYSTXT",
+        "description":  "What is the number of prior systemic therapies (Inclusion of endocrine, cytotoxic, biologic therapies)?",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "CRDB_NOSYSTXT",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "CRDB_OFF_STUDY_DAYS",
+        "description":  "The patient\u0027s 12-245 off study date.",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "CRDB_OFF_STUDY_DAYS",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "CRDB_PRIOR_RX",
+        "description":  "Has the patient received prior radiotherapy?",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "CRDB_PRIOR_RX",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "CRDB_SURVEY_COMMENTS",
+        "description":  "The survey comments at enrollment for 12-245.",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "0",
+        "clinicalAttributeId":  "CRDB_SURVEY_COMMENTS",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "CRDB_SURVIVAL_STATUS",
+        "description":  "The patient\u0027s survival status.",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "CRDB_SURVIVAL_STATUS",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "CRDB_TREATMENT_END_DAYS",
+        "description":  "The patient\u0027s 12-245 treatment end date.",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "CRDB_TREATMENT_END_DAYS",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Date added to cBioPortal",
+        "description":  "Date added to cBioPortal",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "0",
+        "clinicalAttributeId":  "DATE_ADDED",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Disease Free (Months)",
+        "description":  "Disease free (months) since initial treatment.",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "DFS_MONTHS",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Disease Free Status",
+        "description":  "Disease free status since initial treatment.",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "DFS_STATUS",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Ethnicity Category",
+        "description":  "The text for reporting information about ethnicity.",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "ETHNICITY",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Fraction Genome Altered",
+        "description":  "Fraction Genome Altered",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "20",
+        "clinicalAttributeId":  "FRACTION_GENOME_ALTERED",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Gene Panel",
+        "description":  "Gene panel.",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "GENE_PANEL",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Neoplasm Histologic Type Name",
+        "description":  "Text term for the structural pattern of cancer cells used to define a microscopic diagnosis.",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "HISTOLOGICAL_DIAGNOSIS",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Institute Source",
+        "description":  "Institute Source",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "INSTITUTE",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Metastatic Site",
+        "description":  "The anatomic location to which the cancer has spread.",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "0",
+        "clinicalAttributeId":  "METASTATIC_SITE",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "MGMT Status",
+        "description":  "MGMT Status",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "0",
+        "clinicalAttributeId":  "MGMT_STATUS",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Month added to cBioPortal",
+        "description":  "Month added to cBioPortal",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "0",
+        "clinicalAttributeId":  "MONTH_ADDED",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "MSI Comment",
+        "description":  "MSI Comment",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "0",
+        "clinicalAttributeId":  "MSI_COMMENT",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "MSI Score",
+        "description":  "MSI Score",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "MSI_SCORE",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "MSI Type",
+        "description":  "MSI Type",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "MSI_TYPE",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "MSK Slide ID",
+        "description":  "MSK Slide ID",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "0",
+        "clinicalAttributeId":  "MSK_SLIDE_ID",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Mutation Count",
+        "description":  "Mutation Count",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "30",
+        "clinicalAttributeId":  "MUTATION_COUNT",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Oncotree Code",
+        "description":  "Oncotree Code",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "0",
+        "clinicalAttributeId":  "ONCOTREE_CODE",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Overall Survival (Months)",
+        "description":  "Overall survival in months since date of sequencing. If patient died before sequencing overall survival in months is set to \u00270\u0027. If patient is alive and last contact date is before date of sequencing, overall survival in months is set to \u0027NA\u0027",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "OS_MONTHS",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Overall Survival Months Reported by DMT",
+        "description":  "Overall Survival Months Reported by DMT",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "OS_MONTHS_DMT",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Overall Survival Status",
+        "description":  "Overall patient survival status.",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "OS_STATUS",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Overall Status Reported by DMT",
+        "description":  "Overall Status reported by DMT",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "OS_STATUS_DMT",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Other Patient ID",
+        "description":  "Legacy DMP patient identifier (DMPnnnn)",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "OTHER_PATIENT_ID",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "12-245 Part A Consented",
+        "description":  "12-245 Part A Consented Status",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "PARTA_CONSENTED_12_245",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "12-245 Part C Consented",
+        "description":  "12-245 Part C Consented",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "PARTC_CONSENTED_12_245",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "MSK Pathology Slide Available",
+        "description":  "Indicates the existence of a MSK Pathology slide. ",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "0",
+        "clinicalAttributeId":  "PATH_SLIDE_EXISTS",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Pediatric Case Indicator",
+        "description":  "Indication on whether this case is a pediatric patient or not",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "PED_IND",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Primary Tumor Site",
+        "description":  "Text term to describe the organ sub-division in an individual with cancer.",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "0",
+        "clinicalAttributeId":  "PRIMARY_SITE",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Race Category",
+        "description":  "The text for reporting information about race.",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "RACE",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Religion",
+        "description":  "Religion",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "RELIGION",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Sample Class",
+        "description":  "The sample classification (i.e., tumor, cellline, xenograph).",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "0",
+        "clinicalAttributeId":  "SAMPLE_CLASS",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Number of Samples Per Patient",
+        "description":  "Number of Samples Per Patient",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "SAMPLE_COUNT",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Sample coverage",
+        "description":  "Sample coverage",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "SAMPLE_COVERAGE",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Sample Type",
+        "description":  "The type of sample (i.e., normal, primary, met, recurrence).",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "SAMPLE_TYPE",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Sex",
+        "description":  "Sex",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "SEX",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Sex Reported by DMT",
+        "description":  "Sex Reported by DMT",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "SEX_DMT",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Somatic Status",
+        "description":  "Somatic Status",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "SOMATIC_STATUS",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "SO comments",
+        "description":  "Sign-out comments",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "0",
+        "clinicalAttributeId":  "SO_COMMENTS",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "TMB (nonsynonymous)",
+        "description":  "TMB (nonsynonymous)",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "TMB_NONSYNONYMOUS",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Tumor Purity",
+        "description":  "Tumor Purity",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "TUMOR_PURITY",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "Week added to cBioPortal",
+        "description":  "Week added to cBioPortal",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "0",
+        "clinicalAttributeId":  "WEEK_ADDED",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "displayName":  "WHO Grade",
+        "description":  "WHO Grade",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "0",
+        "clinicalAttributeId":  "WHO_GRADE",
+        "studyId":  "luad_mskimpact_2021"
+    }
+]

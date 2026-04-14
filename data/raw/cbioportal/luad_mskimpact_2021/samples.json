@@ -1,0 +1,1490 @@
+﻿[
+    {
+        "uniqueSampleKey":  "UC0wMDAwOTEzLVQwMi1JTTU6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDAwOTEzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0000913-T02-IM5",
+        "patientId":  "P-0000913",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDAwOTEzLVQwNC1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDAwOTEzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0000913-T04-IM6",
+        "patientId":  "P-0000913",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDAxNDQyLVQwMi1JTTU6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDAxNDQyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0001442-T02-IM5",
+        "patientId":  "P-0001442",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDAxNDQyLVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDAxNDQyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0001442-T03-IM6",
+        "patientId":  "P-0001442",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDAxODE3LVQwMi1JTTU6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDAxODE3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0001817-T02-IM5",
+        "patientId":  "P-0001817",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDAxODE3LVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDAxODE3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0001817-T03-IM6",
+        "patientId":  "P-0001817",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDAyNzY4LVQwMS1JTTM6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDAyNzY4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0002768-T01-IM3",
+        "patientId":  "P-0002768",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDAyNzY4LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDAyNzY4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0002768-T02-IM6",
+        "patientId":  "P-0002768",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDAzNTUxLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDAzNTUxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0003551-T02-IM6",
+        "patientId":  "P-0003551",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDAzNTUxLVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDAzNTUxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0003551-T03-IM6",
+        "patientId":  "P-0003551",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA0NzM5LVQwMS1JTTU6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA0NzM5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0004739-T01-IM5",
+        "patientId":  "P-0004739",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA0NzM5LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA0NzM5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0004739-T02-IM6",
+        "patientId":  "P-0004739",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA1MTE0LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA1MTE0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0005114-T02-IM6",
+        "patientId":  "P-0005114",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA1MTE0LVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA1MTE0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0005114-T03-IM6",
+        "patientId":  "P-0005114",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA1NDY3LVQwMS1JTTU6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA1NDY3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0005467-T01-IM5",
+        "patientId":  "P-0005467",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA1NDY3LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA1NDY3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0005467-T02-IM6",
+        "patientId":  "P-0005467",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA1ODEzLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA1ODEzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0005813-T02-IM6",
+        "patientId":  "P-0005813",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA1ODEzLVQwNS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA1ODEzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0005813-T05-IM6",
+        "patientId":  "P-0005813",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA2NTYxLVQwMi1JTTU6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA2NTYxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0006561-T02-IM5",
+        "patientId":  "P-0006561",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA2NTYxLVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA2NTYxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0006561-T03-IM6",
+        "patientId":  "P-0006561",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA2OTk1LVQwMS1JTTU6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA2OTk1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0006995-T01-IM5",
+        "patientId":  "P-0006995",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA2OTk1LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA2OTk1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0006995-T02-IM6",
+        "patientId":  "P-0006995",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA3Nzg4LVQwNC1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA3Nzg4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0007788-T04-IM6",
+        "patientId":  "P-0007788",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA3Nzg4LVQwNS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA3Nzg4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0007788-T05-IM6",
+        "patientId":  "P-0007788",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA4OTc4LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA4OTc4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0008978-T02-IM6",
+        "patientId":  "P-0008978",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA4OTc4LVQwNS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA4OTc4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0008978-T05-IM6",
+        "patientId":  "P-0008978",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA5MzQ2LVQwMS1JTTU6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA5MzQ2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0009346-T01-IM5",
+        "patientId":  "P-0009346",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA5MzQ2LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA5MzQ2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0009346-T02-IM6",
+        "patientId":  "P-0009346",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA5NTM1LVQwMS1JTTU6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA5NTM1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0009535-T01-IM5",
+        "patientId":  "P-0009535",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA5NTM1LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA5NTM1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0009535-T02-IM6",
+        "patientId":  "P-0009535",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA5ODI0LVQwMS1JTTU6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA5ODI0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0009824-T01-IM5",
+        "patientId":  "P-0009824",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDA5ODI0LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDA5ODI0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0009824-T02-IM6",
+        "patientId":  "P-0009824",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDEwNTYzLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDEwNTYzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0010563-T02-IM6",
+        "patientId":  "P-0010563",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDEwNTYzLVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDEwNTYzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0010563-T03-IM6",
+        "patientId":  "P-0010563",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDEwNjQwLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDEwNjQwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0010640-T02-IM6",
+        "patientId":  "P-0010640",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDEwNjQwLVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDEwNjQwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0010640-T03-IM6",
+        "patientId":  "P-0010640",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDEyMDc2LVQwMS1JTTU6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDEyMDc2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0012076-T01-IM5",
+        "patientId":  "P-0012076",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDEyMDc2LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDEyMDc2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0012076-T02-IM6",
+        "patientId":  "P-0012076",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDEyMDk4LVQwMS1JTTU6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDEyMDk4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0012098-T01-IM5",
+        "patientId":  "P-0012098",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDEyMDk4LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDEyMDk4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0012098-T02-IM6",
+        "patientId":  "P-0012098",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDEyMzkzLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDEyMzkzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0012393-T02-IM6",
+        "patientId":  "P-0012393",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDEyMzkzLVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDEyMzkzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0012393-T03-IM6",
+        "patientId":  "P-0012393",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDEzNDg0LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDEzNDg0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0013484-T02-IM6",
+        "patientId":  "P-0013484",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDEzNDg0LVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDEzNDg0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0013484-T03-IM6",
+        "patientId":  "P-0013484",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDEzNTgyLVQwMS1JTTU6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDEzNTgyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0013582-T01-IM5",
+        "patientId":  "P-0013582",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDEzNTgyLVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDEzNTgyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0013582-T03-IM6",
+        "patientId":  "P-0013582",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDEzNzE5LVQwMS1JTTU6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDEzNzE5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0013719-T01-IM5",
+        "patientId":  "P-0013719",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDEzNzE5LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDEzNzE5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0013719-T02-IM6",
+        "patientId":  "P-0013719",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE0NzY5LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE0NzY5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0014769-T02-IM6",
+        "patientId":  "P-0014769",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE0NzY5LVQwNS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE0NzY5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0014769-T05-IM6",
+        "patientId":  "P-0014769",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE0ODg1LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE0ODg1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0014885-T01-IM6",
+        "patientId":  "P-0014885",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE0ODg1LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE0ODg1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0014885-T02-IM6",
+        "patientId":  "P-0014885",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE1MTI5LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE1MTI5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0015129-T01-IM6",
+        "patientId":  "P-0015129",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE1MTI5LVQwNC1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE1MTI5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0015129-T04-IM6",
+        "patientId":  "P-0015129",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE1MzYzLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE1MzYzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0015363-T01-IM6",
+        "patientId":  "P-0015363",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE1MzYzLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE1MzYzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0015363-T02-IM6",
+        "patientId":  "P-0015363",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE1OTIxLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE1OTIxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0015921-T02-IM6",
+        "patientId":  "P-0015921",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE1OTIxLVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE1OTIxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0015921-T03-IM6",
+        "patientId":  "P-0015921",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE2MDU0LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE2MDU0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0016054-T01-IM6",
+        "patientId":  "P-0016054",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE2MDU0LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE2MDU0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0016054-T02-IM6",
+        "patientId":  "P-0016054",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE2MzUwLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE2MzUwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0016350-T01-IM6",
+        "patientId":  "P-0016350",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE2MzUwLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE2MzUwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0016350-T02-IM6",
+        "patientId":  "P-0016350",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE2NTQ5LVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE2NTQ5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0016549-T03-IM6",
+        "patientId":  "P-0016549",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE2NTQ5LVQwNC1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE2NTQ5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0016549-T04-IM6",
+        "patientId":  "P-0016549",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE2OTE3LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE2OTE3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0016917-T02-IM6",
+        "patientId":  "P-0016917",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE2OTE3LVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE2OTE3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0016917-T03-IM6",
+        "patientId":  "P-0016917",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE3MTc0LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE3MTc0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0017174-T02-IM6",
+        "patientId":  "P-0017174",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE3MTc0LVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE3MTc0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0017174-T03-IM6",
+        "patientId":  "P-0017174",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE3MzI2LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE3MzI2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0017326-T01-IM6",
+        "patientId":  "P-0017326",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE3MzI2LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE3MzI2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0017326-T02-IM6",
+        "patientId":  "P-0017326",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE3Mzg2LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE3Mzg2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0017386-T01-IM6",
+        "patientId":  "P-0017386",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE3Mzg2LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE3Mzg2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0017386-T02-IM6",
+        "patientId":  "P-0017386",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE3NDc5LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE3NDc5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0017479-T01-IM6",
+        "patientId":  "P-0017479",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE3NDc5LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE3NDc5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0017479-T02-IM6",
+        "patientId":  "P-0017479",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE3NjI3LVQwMS1JTTU6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE3NjI3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0017627-T01-IM5",
+        "patientId":  "P-0017627",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE3NjI3LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE3NjI3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0017627-T02-IM6",
+        "patientId":  "P-0017627",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE3ODE3LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE3ODE3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0017817-T01-IM6",
+        "patientId":  "P-0017817",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE3ODE3LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE3ODE3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0017817-T02-IM6",
+        "patientId":  "P-0017817",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE4NjQ1LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE4NjQ1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0018645-T01-IM6",
+        "patientId":  "P-0018645",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE4NjQ1LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE4NjQ1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0018645-T02-IM6",
+        "patientId":  "P-0018645",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE5MzAzLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE5MzAzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0019303-T01-IM6",
+        "patientId":  "P-0019303",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE5MzAzLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE5MzAzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0019303-T02-IM6",
+        "patientId":  "P-0019303",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE5NTUyLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE5NTUyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0019552-T01-IM6",
+        "patientId":  "P-0019552",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDE5NTUyLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDE5NTUyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0019552-T02-IM6",
+        "patientId":  "P-0019552",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDIwMjM2LVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDIwMjM2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0020236-T03-IM6",
+        "patientId":  "P-0020236",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDIwMjM2LVQwNS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDIwMjM2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0020236-T05-IM6",
+        "patientId":  "P-0020236",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDIwMjkwLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDIwMjkwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0020290-T01-IM6",
+        "patientId":  "P-0020290",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDIwMjkwLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDIwMjkwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0020290-T02-IM6",
+        "patientId":  "P-0020290",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDIwODI1LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDIwODI1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0020825-T01-IM6",
+        "patientId":  "P-0020825",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDIwODI1LVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDIwODI1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0020825-T03-IM6",
+        "patientId":  "P-0020825",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDIxMjg1LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDIxMjg1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0021285-T01-IM6",
+        "patientId":  "P-0021285",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDIxMjg1LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDIxMjg1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0021285-T02-IM6",
+        "patientId":  "P-0021285",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDIxMjk1LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDIxMjk1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0021295-T01-IM6",
+        "patientId":  "P-0021295",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDIxMjk1LVQwNC1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDIxMjk1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0021295-T04-IM6",
+        "patientId":  "P-0021295",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDIyNDU4LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDIyNDU4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0022458-T01-IM6",
+        "patientId":  "P-0022458",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDIyNDU4LVQwNC1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDIyNDU4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0022458-T04-IM6",
+        "patientId":  "P-0022458",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDIzMTU3LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDIzMTU3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0023157-T01-IM6",
+        "patientId":  "P-0023157",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDIzMTU3LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDIzMTU3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0023157-T02-IM6",
+        "patientId":  "P-0023157",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDIzMjIxLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDIzMjIxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0023221-T01-IM6",
+        "patientId":  "P-0023221",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDIzMjIxLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDIzMjIxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0023221-T02-IM6",
+        "patientId":  "P-0023221",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDIzMzEwLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDIzMzEwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0023310-T01-IM6",
+        "patientId":  "P-0023310",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDIzMzEwLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDIzMzEwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0023310-T02-IM6",
+        "patientId":  "P-0023310",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI0MDI1LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI0MDI1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0024025-T01-IM6",
+        "patientId":  "P-0024025",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI0MDI1LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI0MDI1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0024025-T02-IM6",
+        "patientId":  "P-0024025",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI0MzE5LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI0MzE5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0024319-T01-IM6",
+        "patientId":  "P-0024319",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI0MzE5LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI0MzE5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0024319-T02-IM6",
+        "patientId":  "P-0024319",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI0MzMzLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI0MzMzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0024333-T01-IM6",
+        "patientId":  "P-0024333",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI0MzMzLVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI0MzMzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0024333-T03-IM6",
+        "patientId":  "P-0024333",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI0NjcwLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI0NjcwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0024670-T01-IM6",
+        "patientId":  "P-0024670",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI0NjcwLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI0NjcwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0024670-T02-IM6",
+        "patientId":  "P-0024670",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI0Njc3LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI0Njc3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0024677-T01-IM6",
+        "patientId":  "P-0024677",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI0Njc3LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI0Njc3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0024677-T02-IM6",
+        "patientId":  "P-0024677",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI1Njk5LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI1Njk5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0025699-T01-IM6",
+        "patientId":  "P-0025699",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI1Njk5LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI1Njk5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0025699-T02-IM6",
+        "patientId":  "P-0025699",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI1OTMwLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI1OTMwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0025930-T01-IM6",
+        "patientId":  "P-0025930",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI1OTMwLVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI1OTMwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0025930-T03-IM6",
+        "patientId":  "P-0025930",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI1OTc1LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI1OTc1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0025975-T01-IM6",
+        "patientId":  "P-0025975",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI1OTc1LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI1OTc1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0025975-T02-IM6",
+        "patientId":  "P-0025975",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI2MDUwLVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI2MDUwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0026050-T03-IM6",
+        "patientId":  "P-0026050",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI2MDUwLVQwNC1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI2MDUwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0026050-T04-IM6",
+        "patientId":  "P-0026050",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI2MTM2LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI2MTM2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0026136-T01-IM6",
+        "patientId":  "P-0026136",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI2MTM2LVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI2MTM2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0026136-T03-IM6",
+        "patientId":  "P-0026136",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI2MzcxLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI2MzcxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0026371-T01-IM6",
+        "patientId":  "P-0026371",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI2MzcxLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI2MzcxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0026371-T02-IM6",
+        "patientId":  "P-0026371",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI2OTQyLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI2OTQyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0026942-T01-IM6",
+        "patientId":  "P-0026942",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI2OTQyLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI2OTQyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0026942-T02-IM6",
+        "patientId":  "P-0026942",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI3MDg3LVQwNC1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI3MDg3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0027087-T04-IM6",
+        "patientId":  "P-0027087",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI3MDg3LVQwNi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI3MDg3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0027087-T06-IM6",
+        "patientId":  "P-0027087",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI3MzA5LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI3MzA5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0027309-T02-IM6",
+        "patientId":  "P-0027309",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI3MzA5LVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI3MzA5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0027309-T03-IM6",
+        "patientId":  "P-0027309",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI3MzUxLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI3MzUxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0027351-T01-IM6",
+        "patientId":  "P-0027351",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI3MzUxLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI3MzUxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0027351-T02-IM6",
+        "patientId":  "P-0027351",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI3NDE5LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI3NDE5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0027419-T01-IM6",
+        "patientId":  "P-0027419",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI3NDE5LVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI3NDE5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0027419-T03-IM6",
+        "patientId":  "P-0027419",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI3NjAwLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI3NjAwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0027600-T01-IM6",
+        "patientId":  "P-0027600",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI3NjAwLVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI3NjAwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0027600-T03-IM6",
+        "patientId":  "P-0027600",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI3NzYyLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI3NzYyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0027762-T01-IM6",
+        "patientId":  "P-0027762",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI3NzYyLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI3NzYyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0027762-T02-IM6",
+        "patientId":  "P-0027762",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI3ODI4LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI3ODI4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0027828-T01-IM6",
+        "patientId":  "P-0027828",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI3ODI4LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI3ODI4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0027828-T02-IM6",
+        "patientId":  "P-0027828",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI4MTk2LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI4MTk2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0028196-T01-IM6",
+        "patientId":  "P-0028196",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI4MTk2LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI4MTk2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0028196-T02-IM6",
+        "patientId":  "P-0028196",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI5MjI1LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI5MjI1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0029225-T01-IM6",
+        "patientId":  "P-0029225",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI5MjI1LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI5MjI1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0029225-T02-IM6",
+        "patientId":  "P-0029225",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI5NTMyLVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI5NTMyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0029532-T03-IM6",
+        "patientId":  "P-0029532",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDI5NTMyLVQwNC1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDI5NTMyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0029532-T04-IM6",
+        "patientId":  "P-0029532",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMwNzA2LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMwNzA2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0030706-T01-IM6",
+        "patientId":  "P-0030706",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMwNzA2LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMwNzA2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0030706-T02-IM6",
+        "patientId":  "P-0030706",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMwNzk3LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMwNzk3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0030797-T01-IM6",
+        "patientId":  "P-0030797",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMwNzk3LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMwNzk3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0030797-T02-IM6",
+        "patientId":  "P-0030797",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMwOTk4LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMwOTk4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0030998-T01-IM6",
+        "patientId":  "P-0030998",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMwOTk4LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMwOTk4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0030998-T02-IM6",
+        "patientId":  "P-0030998",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMxMDA1LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMxMDA1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0031005-T01-IM6",
+        "patientId":  "P-0031005",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMxMDA1LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMxMDA1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0031005-T02-IM6",
+        "patientId":  "P-0031005",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMxMzA0LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMxMzA0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0031304-T01-IM6",
+        "patientId":  "P-0031304",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMxMzA0LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMxMzA0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0031304-T02-IM6",
+        "patientId":  "P-0031304",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMxMzQwLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMxMzQwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0031340-T01-IM6",
+        "patientId":  "P-0031340",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMxMzQwLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMxMzQwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0031340-T02-IM6",
+        "patientId":  "P-0031340",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMxNDEzLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMxNDEzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0031413-T01-IM6",
+        "patientId":  "P-0031413",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMxNDEzLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMxNDEzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0031413-T02-IM6",
+        "patientId":  "P-0031413",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMxOTExLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMxOTExOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0031911-T01-IM6",
+        "patientId":  "P-0031911",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMxOTExLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMxOTExOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0031911-T02-IM6",
+        "patientId":  "P-0031911",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMyMjYxLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMyMjYxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0032261-T01-IM6",
+        "patientId":  "P-0032261",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMyMjYxLVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMyMjYxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0032261-T03-IM6",
+        "patientId":  "P-0032261",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMyMzU4LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMyMzU4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0032358-T01-IM6",
+        "patientId":  "P-0032358",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMyMzU4LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMyMzU4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0032358-T02-IM6",
+        "patientId":  "P-0032358",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMyODI3LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMyODI3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0032827-T01-IM6",
+        "patientId":  "P-0032827",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMyODI3LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMyODI3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0032827-T02-IM6",
+        "patientId":  "P-0032827",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMzMzE1LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMzMzE1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0033315-T01-IM6",
+        "patientId":  "P-0033315",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMzMzE1LVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMzMzE1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0033315-T03-IM6",
+        "patientId":  "P-0033315",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMzNzY0LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMzNzY0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0033764-T01-IM6",
+        "patientId":  "P-0033764",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMzNzY0LVQwNC1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMzNzY0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0033764-T04-IM6",
+        "patientId":  "P-0033764",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMzODE1LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMzODE1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0033815-T01-IM6",
+        "patientId":  "P-0033815",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDMzODE1LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDMzODE1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0033815-T02-IM6",
+        "patientId":  "P-0033815",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDM0MDYyLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDM0MDYyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0034062-T01-IM6",
+        "patientId":  "P-0034062",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDM0MDYyLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDM0MDYyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0034062-T02-IM6",
+        "patientId":  "P-0034062",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDM0NTAyLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDM0NTAyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0034502-T01-IM6",
+        "patientId":  "P-0034502",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDM0NTAyLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDM0NTAyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0034502-T02-IM6",
+        "patientId":  "P-0034502",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDM2OTE3LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDM2OTE3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0036917-T01-IM6",
+        "patientId":  "P-0036917",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDM2OTE3LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDM2OTE3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0036917-T02-IM6",
+        "patientId":  "P-0036917",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDM3NDEzLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDM3NDEzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0037413-T01-IM6",
+        "patientId":  "P-0037413",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDM3NDEzLVQwMy1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDM3NDEzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0037413-T03-IM6",
+        "patientId":  "P-0037413",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDQwNzMwLVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDQwNzMwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0040730-T01-IM6",
+        "patientId":  "P-0040730",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDQwNzMwLVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDQwNzMwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0040730-T02-IM6",
+        "patientId":  "P-0040730",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDQ0MDE3LVQwMS1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDQ0MDE3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0044017-T01-IM6",
+        "patientId":  "P-0044017",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniqueSampleKey":  "UC0wMDQ0MDE3LVQwMi1JTTY6bHVhZF9tc2tpbXBhY3RfMjAyMQ",
+        "uniquePatientKey":  "UC0wMDQ0MDE3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "sampleType":  "Primary Solid Tumor",
+        "sampleId":  "P-0044017-T02-IM6",
+        "patientId":  "P-0044017",
+        "studyId":  "luad_mskimpact_2021"
+    }
+]

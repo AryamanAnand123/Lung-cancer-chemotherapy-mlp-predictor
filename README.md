@@ -1,31 +1,81 @@
-Lung Cancer Treatment Response Prediction - Deep Learning MLP
+# Lung Cancer Prediction Project (Flask + Tree Stack)
 
+This project serves lung-cancer response and mortality predictions using a Flask UI and a tree-stack backend (LightGBM, XGBoost, TabNet).
 
-This project implements a sophisticated neural network model to predict whether lung cancer patients will respond positively to chemotherapy treatment. Built with TensorFlow/Keras, the system uses 13 essential clinical features and achieves 73-78% accuracy.
+## Current Architecture
 
+- Frontend: `app.py`
+- Service layer: `lungcancer/service.py`
+- Feature schema: `lungcancer/schema.py`
+- Training/evaluation: `lungcancer/tree_stack.py`
+- Training runner: `lungcancer/train_tree_stack.py`
+- Prepared datasets:
+  - `data/processed/mortality_training_ready.csv`
+  - `data/processed/response_training_ready.csv`
 
+## Training
 
- MLP Architecture: 52→128→96→64→32→16→1 neurons with advanced optimization
- Clean Gradio interface for clinical users
+1. Install dependencies:
 
+   `pip install -r requirements.txt`
 
+2. Run all models for both tasks:
 
+   `python -m lungcancer.train_tree_stack --task both --algorithm all`
 
- Clinical Features Used
+3. Run with 150k mortality cap (faster, still comprehensive):
 
-Patient Demographics: Age, Gender, BMI
-Disease Characteristics Tumor Size, Cancer Stage, Histology Type
-Treatment History Previous Treatments, Radiation History
-Health Status Performance Status, Comorbidity Index
-Laboratory Values White Blood Cell Count, Hemoglobin Level
-Lifestyle Factors Smoking Status, Years of Smoking
+   `python -m lungcancer.train_tree_stack --task both --algorithm all --max-rows-mortality 150000`
 
-Project is used for research purposes only
+## Outputs
 
+Per `task` and `algorithm`, training writes:
 
+- `data/models/<task>_<algorithm>_model.joblib`
+- `data/models/<task>_<algorithm>_mapie.joblib` (optional)
+- `data/reports/<task>_<algorithm>_nested_cv.json`
+- `data/reports/<task>_<algorithm>_calibration_curve.png`
+- `data/reports/<task>_<algorithm>_roc_curve.png`
+- `data/reports/<task>_<algorithm>_probability_hist.png`
+- `data/reports/<task>_<algorithm>_shap_summary.json` (LightGBM/XGBoost)
+- `data/reports/<task>_<algorithm>_shap_summary.png` (LightGBM/XGBoost)
 
----
+## Metrics In Reports
 
-**📧 Contact**: Aryamananand24@gmail.com
+Each nested-CV report includes:
 
-**🌟 If this project helps your research, please star this repository!**
+- `outer_fold_metrics` with `accuracy`, `balanced_accuracy`, `precision`, `recall`, `f1`, `auc`, `brier`
+- `outer_mean`, `outer_std`
+- `outer_auc_ci_95` (95% CI for AUC from outer folds)
+- `calibration_metrics`
+- `best_threshold` and metrics at that threshold
+- `artifacts` paths for model and plots
+
+## Run the App
+
+1. Install dependencies:
+
+   `pip install -r requirements.txt`
+
+2. Start Flask:
+
+   `python app.py`
+
+3. Open:
+
+   `http://127.0.0.1:5000`
+
+## Repository Structure
+
+- `app.py`
+- `lungcancer/`
+  - `schema.py`
+  - `service.py`
+  - `harmonize_real_data.py`
+  - `tree_stack.py`
+  - `train_tree_stack.py`
+- `data/`
+  - `raw/`
+  - `processed/`
+  - `reports/`
+  - `models/`

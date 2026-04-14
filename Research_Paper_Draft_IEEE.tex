@@ -1,0 +1,478 @@
+\documentclass[journal]{IEEEtran}
+
+\usepackage{cite}
+\usepackage{amsmath,amssymb,amsfonts}
+\usepackage{booktabs}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage{array}
+
+% Tries common local/Overleaf locations for metric images and prevents hard compile failure.
+\newcommand{\metricimg}[2][0.32\textwidth]{%
+\IfFileExists{data/reports/#2}{\includegraphics[width=#1]{data/reports/#2}}{%
+\IfFileExists{reports/#2}{\includegraphics[width=#1]{reports/#2}}{%
+\IfFileExists{#2}{\includegraphics[width=#1]{#2}}{%
+\fbox{\parbox[c][1.0in][c]{#1}{\centering Missing image\\\texttt{#2}}}%
+}}}}
+
+\begin{document}
+
+\title{A Tree-Stack Framework for Chemotherapy Outcome Modeling in Lung Cancer: \newline Verified Internal Evaluation With Calibration and Explainability}
+
+\author{Aryaman Anand
+\thanks{This manuscript is based on verified project artifacts in the Cancerproject repository and user-provided literature summaries.}}
+
+\maketitle
+
+\begin{abstract}
+This paper presents a verified machine learning workflow for two clinically relevant chemotherapy-related tasks in lung cancer: one-year mortality risk modeling and treatment-response modeling. The implemented pipeline trains and evaluates three algorithm families (LightGBM, XGBoost, and TabNet) with nested cross-validation, calibration analysis, threshold optimization, and explainability artifacts. All results in this manuscript are traceable to project-generated report files. On the internal datasets, the best mortality model was LightGBM (outer-mean AUC 0.8115, Brier 0.1740 at 150k-row mortality training cap), while the best response model was XGBoost (outer-mean AUC 0.9004, Brier 0.1083). The deployment service automatically selects the best available model per task from the three trained candidates using report-based ranking. Compared with recent literature, the observed internal AUC range is directionally consistent with prior work on prognostic and treatment modeling, while limitations remain regarding external validity, class/setting shift, and single-pipeline internal evaluation. The contribution is a reproducible, verification-first modeling and reporting framework rather than a claim of clinical readiness.
+\end{abstract}
+
+\begin{IEEEkeywords}
+Lung cancer, chemotherapy, mortality prediction, response prediction, nested cross-validation, calibration, SHAP, LightGBM, XGBoost, TabNet.
+\end{IEEEkeywords}
+
+\section{Introduction}
+Lung cancer remains a leading contributor to global cancer mortality, and outcome variability under chemotherapy motivates robust risk modeling and response prediction workflows. Recent studies have reported machine learning approaches for mortality and post-treatment complications in chemotherapy-treated populations, as well as personalized response modeling in specific molecular subgroups. However, reproducibility and claim traceability are persistent challenges when combining multiple models, multiple outcomes, and heterogeneous data modalities.
+
+This work focuses on a practical objective: implement and verify an end-to-end tree-stack framework for two tasks from the same project codebase---mortality and response---with explicit report artifacts for metrics, calibration, thresholds, confidence intervals, and visualizations. The goal is to provide a showable and auditable modeling pipeline, not to claim external clinical generalization.
+
+Most machine learning papers emphasize final discrimination metrics (for example, AUC) but under-report operational elements that matter at deployment time, such as threshold sensitivity, probability calibration, and artifact completeness checks. In this project, those elements were implemented as first-class outputs so that model selection and downstream usage can be audited from files rather than inferred from prose.
+
+\subsection{Contributions}
+The verified contributions are:
+\begin{enumerate}
+    \item A nested-CV training framework across three model families (LightGBM, XGBoost, TabNet) for two tasks.
+    \item Unified report schema including fold metrics, outer-mean/outer-std, AUC 95\% confidence interval, calibration metrics, and threshold-optimized metrics.
+    \item Artifact generation for calibration curves, ROC curves, probability histograms, and SHAP summaries (tree models).
+    \item Automatic best-model selection at inference time per task, based on report-driven ranking among the three trained algorithms.
+\end{enumerate}
+
+\subsection{What This Paper Does and Does Not Claim}
+This paper claims that the \emph{workflow} is reproducible and auditable within the project environment and that the reported internal metrics match generated report files. This paper does not claim external clinical validity, prospective utility, or superiority over prior literature under controlled head-to-head settings.
+
+\section{Related Work}
+\subsection{Chemotherapy Mortality Modeling}
+Zou \emph{et al.} presented a mortality risk framework in chemotherapy-treated lung cancer using a broad feature space and an 84-model search strategy, reporting a best testing C-index of 0.702 and time-dependent AUCs of 0.740/0.777/0.915 (1/3/5-year), while explicitly discussing possible optimism and test-set selection concerns in their own setup \cite{zou2025}.
+
+\subsection{Post-Chemotherapy Infection Risk}
+Sun \emph{et al.} modeled post-chemotherapy lung infection risk and selected logistic regression as a clinically interpretable model, with testing AUC 0.876 and Brier 0.134 despite random forest showing higher raw AUC but overfitting characteristics \cite{sun2024}.
+
+\subsection{Personalized Drug Response}
+Qureshi \emph{et al.} reported high predictive performance for EGFR-TKI response classes by integrating molecular dynamics-derived features with machine learning, highlighting the value of geometry-informed predictors in a specialized molecular setting \cite{qureshi2022}.
+
+\subsection{Broader ML Landscape in Lung Cancer}
+Li \emph{et al.} reviewed machine learning across diagnosis, treatment, prognosis, and immunotherapy in lung cancer, emphasizing multimodal integration challenges, generalization limits, and the importance of interpretability in clinical adoption pathways \cite{li2022review}.
+
+\section{Materials and Methods}
+\subsection{Data Assets and Readiness}
+The active project readiness report records a harmonized cohort of 585,148 rows, with 552,781 mortality-labeled rows and 901 response-labeled rows. Source contributions are SEER (580,328), cBioPortal-derived records (3,754), and GDC-derived records (1,066). Response labels are comparatively scarce (600 positive, 301 negative), which directly impacts response model uncertainty and algorithm behavior.
+
+The mortality training procedure in the current experiment uses a cap of 150,000 rows, whereas the response task uses all available response-labeled rows (901). This asymmetry is intentional and tied to computational budget plus label availability.
+
+\subsection{Feature Schema and Task-Specific Pruning}
+The pipeline uses a structured clinical feature schema defined in project code. Task-specific pruning is applied prior to training based on sparse/low-utility features documented in reports:
+\begin{itemize}
+    \item Mortality drops: \texttt{performance\_status}, \texttt{egfr\_mutation}
+    \item Response drops: \texttt{performance\_status}, \texttt{egfr\_mutation}, \texttt{tumor\_size\_mm}, \texttt{mets\_lung\_dx}, \texttt{treatment\_delay\_days}
+\end{itemize}
+
+\subsection{Model Families}
+Three model families are trained for each task:
+\begin{itemize}
+    \item LightGBM classifier
+    \item XGBoost classifier
+    \item TabNet classifier
+\end{itemize}
+
+\subsection{Validation, Calibration, and Thresholding}
+The framework uses nested cross-validation (outer and inner loops as configured in code), computes per-fold metrics, and aggregates \texttt{outer\_mean} and \texttt{outer\_std}. AUC confidence intervals are computed from outer folds using normal approximation. Post-fit calibration metrics are reported on a holdout calibration split, and threshold optimization is performed (target metric: F1), with best-threshold metrics stored explicitly.
+
+For each task-model pair, the report includes the following metric set:
+\begin{itemize}
+    \item Accuracy and balanced accuracy,
+    \item Precision, recall, and F1,
+    \item ROC AUC,
+    \item Brier score.
+\end{itemize}
+
+The confidence interval for AUC is derived from the outer-fold mean and standard deviation using normal approximation:
+\begin{equation}
+\mathrm{CI}_{95\%} = \bar{A} \pm 1.96 \cdot \frac{s_A}{\sqrt{K}},
+\end{equation}
+where $\bar{A}$ is outer-fold mean AUC, $s_A$ is outer-fold standard deviation of AUC, and $K=3$ outer folds.
+
+\subsection{Explainability and Visualization}
+Tree models produce SHAP summary JSON and SHAP summary plots. For all models, calibration curves, ROC curves, and probability histograms are generated and stored as report artifacts.
+
+\subsection{Deployment Selection Rule}
+The inference service uses report metadata to rank available models per task and deploy the highest-ranked candidate under the current evidence set. In the verified state corresponding to this manuscript, deployment resolves to LightGBM for mortality and XGBoost for response.
+
+\section{Results}
+All results below are taken directly from project report JSON artifacts generated after the 150k mortality-cap full run.
+
+\subsection{Mortality Task (150k rows)}
+\begin{table}[htbp]
+\caption{Mortality Task Outer-Mean Metrics}
+\label{tab:mortality}
+\centering
+\small
+\begin{tabular}{lcccc}
+\toprule
+Model & AUC & Brier & F1 & Best Threshold \\
+\midrule
+LightGBM & 0.8115 & 0.1740 & 0.7758 & 0.38 \\
+XGBoost & 0.8105 & 0.1744 & 0.7765 & 0.41 \\
+TabNet & 0.7921 & 0.1925 & 0.7141 & 0.34 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The top mortality AUC is LightGBM (0.8115), with XGBoost close behind (0.8105). TabNet is lower on this task in both AUC and Brier.
+
+\begin{table}[htbp]
+\caption{Mortality AUC Uncertainty Summary}
+\label{tab:mortality_ci}
+\centering
+\small
+\begin{tabular}{lccc}
+\toprule
+Model & AUC Std & 95\% CI Lower & 95\% CI Upper \\
+\midrule
+LightGBM & 0.0010 & 0.8104 & 0.8126 \\
+XGBoost & 0.0013 & 0.8091 & 0.8119 \\
+TabNet & 0.0056 & 0.7858 & 0.7984 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Mortality uncertainty patterns suggest tree-boosting methods (LightGBM/XGBoost) are not only stronger in mean AUC but also substantially more stable across outer folds than TabNet under the current feature/label regime.
+
+\subsection{Response Task (901 rows)}
+\begin{table}[htbp]
+\caption{Response Task Outer-Mean Metrics}
+\label{tab:response}
+\centering
+\small
+\begin{tabular}{lcccc}
+\toprule
+Model & AUC & Brier & F1 & Best Threshold \\
+\midrule
+LightGBM & 0.8943 & 0.1153 & 0.8949 & 0.58 \\
+XGBoost & 0.9004 & 0.1083 & 0.9021 & 0.51 \\
+TabNet & 0.7306 & 0.3264 & 0.4990 & 0.20 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+The best response model is XGBoost by AUC (0.9004) and Brier (0.1083).
+
+\begin{table}[htbp]
+\caption{Response AUC Uncertainty Summary}
+\label{tab:response_ci}
+\centering
+\small
+\begin{tabular}{lccc}
+\toprule
+Model & AUC Std & 95\% CI Lower & 95\% CI Upper \\
+\midrule
+LightGBM & 0.0092 & 0.8838 & 0.9047 \\
+XGBoost & 0.0114 & 0.8875 & 0.9133 \\
+TabNet & 0.0540 & 0.6695 & 0.7917 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+Response uncertainty is higher than mortality for all methods due to the much smaller response dataset. TabNet exhibits the largest instability by a wide margin in both AUC standard deviation and confidence-interval width.
+
+\subsection{Key Visual Diagnostics in Main Results}
+To keep core interpretation visible without requiring appendix navigation, Figures \ref{fig:main_mort_roc} and \ref{fig:main_resp_cal} show the primary discrimination and calibration diagnostics for the selected models.
+
+\begin{figure*}[htbp]
+\centering
+\metricimg[0.45\textwidth]{mortality_lightgbm_roc_curve.png}
+\metricimg[0.45\textwidth]{response_xgboost_roc_curve.png}
+\caption{ROC curves for selected deployed models (left: mortality LightGBM, right: response XGBoost).}
+\label{fig:main_mort_roc}
+\end{figure*}
+
+\begin{figure*}[htbp]
+\centering
+\metricimg[0.45\textwidth]{mortality_lightgbm_calibration_curve.png}
+\metricimg[0.45\textwidth]{response_xgboost_calibration_curve.png}
+\caption{Calibration curves for selected deployed models (left: mortality LightGBM, right: response XGBoost).}
+\label{fig:main_resp_cal}
+\end{figure*}
+
+\subsection{Calibration and Threshold Behavior of Selected Models}
+Tables \ref{tab:mortality_selected_threshold} and \ref{tab:response_selected_threshold} summarize default calibration metrics and F1-optimized operating points for the selected models.
+
+\begin{table}[htbp]
+\caption{Mortality Selected Model: Default vs F1-Optimized Threshold (LightGBM)}
+\label{tab:mortality_selected_threshold}
+\centering
+\small
+\begin{tabular}{lcc}
+\toprule
+Metric & Default Threshold & Best Threshold (0.38) \\
+\midrule
+Accuracy & 0.7370 & 0.7290 \\
+Balanced Accuracy & 0.7273 & 0.7029 \\
+Precision & 0.7499 & 0.7021 \\
+Recall & 0.8019 & 0.9037 \\
+F1 & 0.7750 & 0.7902 \\
+AUC & 0.8119 & 0.8119 \\
+Brier & 0.1737 & 0.1737 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\begin{table}[htbp]
+\caption{Response Selected Model: Default vs F1-Optimized Threshold (XGBoost)}
+\label{tab:response_selected_threshold}
+\centering
+\small
+\begin{tabular}{lcc}
+\toprule
+Metric & Default Threshold & Best Threshold (0.51) \\
+\midrule
+Accuracy & 0.8840 & 0.8895 \\
+Balanced Accuracy & 0.8586 & 0.8669 \\
+Precision & 0.8968 & 0.9040 \\
+Recall & 0.9339 & 0.9339 \\
+F1 & 0.9150 & 0.9187 \\
+AUC & 0.9032 & 0.9032 \\
+Brier & 0.1073 & 0.1073 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+For both selected models, threshold tuning improves F1 while preserving AUC and Brier (as expected for threshold-independent discrimination/calibration summaries).
+
+\subsection{Auto-Deployment Selection}
+The inference service loads report metadata and ranks available models per task to select deployed predictors automatically. Under the current verified reports, selected deployment is:
+\begin{itemize}
+    \item Mortality: LightGBM
+    \item Response: XGBoost
+\end{itemize}
+
+\subsection{Visual Artifact Coverage}
+For each task-model pair, the report artifacts include calibration, ROC, and probability histogram plots; SHAP plots are present for tree explainability on LightGBM/XGBoost and intentionally null for TabNet in current implementation.
+
+\section{Implementation-Level Verification}
+\subsection{Evidence Integrity Controls}
+Three practical controls were used during manuscript preparation:
+\begin{enumerate}
+    \item All numerical statements were taken from report JSON keys rather than manually estimated from figures.
+    \item Cross-document consistency was checked so that journal and conference versions share the same core values.
+    \item A separate verification appendix was generated to map claims to exact artifact files.
+\end{enumerate}
+
+\subsection{What Is Auditable Today}
+Given only project artifacts (without rerunning experiments), an independent reviewer can verify:
+\begin{itemize}
+    \item Dataset readiness counts and source composition,
+    \item Per-model metric means, variability, and AUC confidence intervals,
+    \item Threshold-optimized metric snapshots,
+    \item Presence or absence of expected visualization artifacts,
+    \item Deployment selection outcomes by task.
+\end{itemize}
+
+\subsection{What Still Requires New Work}
+External validation, prospective calibration drift monitoring, and decision-curve analysis are not included in current artifacts and would require additional data collection and reruns.
+
+\section{Discussion}
+\subsection{Comparison to Literature (Scope-Aware)}
+The observed internal performance range aligns with prior literature in direction but is not directly commensurate because tasks, populations, outcome definitions, and validation protocols differ.
+
+Compared with Zou \emph{et al.} \cite{zou2025}, this project's mortality AUC ($\sim$0.81 for one-year proxy label setup) is numerically higher than their reported 1-year time-dependent AUC (0.740), but the two pipelines are methodologically different (time-to-event framing vs. binary proxy setup; different cohort and site composition; different model search strategy), so no superiority claim is made.
+
+Compared with Sun \emph{et al.} \cite{sun2024}, the response-task AUC values here (0.894--0.900 for top tree models) are close to their infection-risk range and above their selected LR model AUC, but again represent different endpoints and cohorts.
+
+Qureshi \emph{et al.} \cite{qureshi2022} report substantially higher values in a mutation-specific EGFR-TKI response context, which is biologically narrower and not equivalent to the broad mixed-cohort response setting used here.
+
+\subsection{Calibration and Threshold Utility}
+The framework reports both discrimination and calibration-oriented metrics, enabling operating-point selection rather than single-threshold reporting. Best-threshold F1 improves relative to default threshold behavior in multiple reports, supporting deployment flexibility for clinical triage preferences.
+
+\subsection{Stability and Practical Selection}
+Model selection in this project is not based on a single value alone. The selected models also show favorable stability profiles relative to alternatives in the same task family. For mortality, LightGBM and XGBoost are near-equivalent in mean AUC, but both are markedly more stable than TabNet. For response, XGBoost provides the highest mean AUC with acceptable calibration and strong threshold-adjusted F1.
+
+\subsection{Interpretability Position}
+Tree-model SHAP outputs are available and can support feature-contribution review. TabNet explainability outputs are currently absent in this implementation, so interpretation consistency is stronger for the selected tree models than for the neural tabular baseline.
+
+\section{Limitations}
+\begin{itemize}
+    \item Internal evaluation only: no external multi-center validation is included.
+    \item Response dataset size is small (901 rows), increasing instability risk.
+    \item Report-based auto-selection depends on available local artifacts and training completeness.
+    \item Literature comparisons are non-head-to-head and should be interpreted as contextual, not competitive benchmarking.
+    \item Confidence intervals are computed over three outer folds, which is informative but still a limited-sample uncertainty estimate.
+    \item Current manuscript relies on user-provided literature summaries; external full-text extraction was not executed in this pass.
+\end{itemize}
+
+\section{Future Work}
+The next technical steps that preserve the verification-first philosophy are:
+\begin{enumerate}
+    \item Multi-site external validation with frozen model checkpoints.
+    \item Prospective recalibration monitoring under temporal shift.
+    \item Decision-curve and cost-sensitive utility analysis for threshold governance.
+    \item Broader explainability parity across all model families.
+\end{enumerate}
+
+\section{Conclusion}
+A verified tree-stack framework for lung cancer chemotherapy outcome modeling was implemented and evaluated across mortality and response tasks. The current best internal models are LightGBM for mortality and XGBoost for response, with comprehensive calibration and visualization artifacts generated in a reproducible reporting workflow. The framework is technically showable and auditable; external validation remains the key next requirement for translational claims.
+
+\section*{Reproducibility Note}
+All manuscript metrics are sourced from project-generated files in \texttt{data/reports}. The paired conference manuscript and verification appendix are generated from the same evidence base to prevent claim drift.
+
+\appendices
+\section{Fold-Level Metrics (Reference)}
+Tables \ref{tab:mortality_fold_level} and \ref{tab:response_fold_level} provide fold-level AUC and Brier values from the report files for all algorithms.
+
+\begin{table*}[htbp]
+\caption{Mortality Fold-Level Metrics (150k rows)}
+\label{tab:mortality_fold_level}
+\centering
+\small
+\begin{tabular}{lcccccc}
+\toprule
+Model & Fold 1 AUC & Fold 2 AUC & Fold 3 AUC & Fold 1 Brier & Fold 2 Brier & Fold 3 Brier \\
+\midrule
+LightGBM & 0.8115 & 0.8105 & 0.8125 & 0.1742 & 0.1743 & 0.1736 \\
+XGBoost & 0.8115 & 0.8091 & 0.8110 & 0.1742 & 0.1749 & 0.1742 \\
+TabNet & 0.7961 & 0.7857 & 0.7945 & 0.1923 & 0.2000 & 0.1850 \\
+\bottomrule
+\end{tabular}
+\end{table*}
+
+\begin{table*}[htbp]
+\caption{Response Fold-Level Metrics (901 rows)}
+\label{tab:response_fold_level}
+\centering
+\small
+\begin{tabular}{lcccccc}
+\toprule
+Model & Fold 1 AUC & Fold 2 AUC & Fold 3 AUC & Fold 1 Brier & Fold 2 Brier & Fold 3 Brier \\
+\midrule
+LightGBM & 0.8915 & 0.9046 & 0.8867 & 0.1095 & 0.1104 & 0.1260 \\
+XGBoost & 0.8996 & 0.9122 & 0.8895 & 0.1017 & 0.1013 & 0.1218 \\
+TabNet & 0.7022 & 0.6967 & 0.7928 & 0.3842 & 0.2337 & 0.3613 \\
+\bottomrule
+\end{tabular}
+\end{table*}
+
+\section{Artifact Inventory by Task and Model}
+Table \ref{tab:artifact_inventory} summarizes artifact availability in the current verified run.
+
+\begin{table*}[htbp]
+\caption{Artifact Inventory (Current Verified Run)}
+\label{tab:artifact_inventory}
+\centering
+\small
+\begin{tabular}{lcccccc}
+\toprule
+Task-Model & Model File & Calibration Plot & ROC Plot & Prob. Histogram & SHAP JSON & SHAP Plot \\
+\midrule
+Mortality-LightGBM & Yes & Yes & Yes & Yes & Yes & Yes \\
+Mortality-XGBoost & Yes & Yes & Yes & Yes & Yes & Yes \\
+Mortality-TabNet & Yes & Yes & Yes & Yes & No & No \\
+Response-LightGBM & Yes & Yes & Yes & Yes & Yes & Yes \\
+Response-XGBoost & Yes & Yes & Yes & Yes & Yes & Yes \\
+Response-TabNet & Yes & Yes & Yes & Yes & No & No \\
+\bottomrule
+\end{tabular}
+\end{table*}
+
+\section{Claim Traceability Statement}
+The verification appendix document provides direct claim-to-source mapping for numerical and architectural statements used in both manuscripts. This design supports manuscript updates without reintroducing inconsistent values when new model runs are generated.
+
+\section{Metric Figures (All Available Plots)}
+The following figure panels include all available metric plots produced in the verified run: calibration curves, ROC curves, probability histograms, and SHAP summary plots for tree models.
+
+\begin{figure*}[htbp]
+\centering
+\metricimg{mortality_lightgbm_calibration_curve.png}
+\metricimg{mortality_xgboost_calibration_curve.png}
+\metricimg{mortality_tabnet_calibration_curve.png}
+\caption{Mortality calibration curves (left to right: LightGBM, XGBoost, TabNet).}
+\label{fig:jour_mort_cal}
+\end{figure*}
+
+\begin{figure*}[htbp]
+\centering
+\metricimg{mortality_lightgbm_roc_curve.png}
+\metricimg{mortality_xgboost_roc_curve.png}
+\metricimg{mortality_tabnet_roc_curve.png}
+\caption{Mortality ROC curves (left to right: LightGBM, XGBoost, TabNet).}
+\label{fig:jour_mort_roc}
+\end{figure*}
+
+\begin{figure*}[htbp]
+\centering
+\metricimg{mortality_lightgbm_probability_hist.png}
+\metricimg{mortality_xgboost_probability_hist.png}
+\metricimg{mortality_tabnet_probability_hist.png}
+\caption{Mortality probability histograms (left to right: LightGBM, XGBoost, TabNet).}
+\label{fig:jour_mort_hist}
+\end{figure*}
+
+\begin{figure*}[htbp]
+\centering
+\metricimg[0.45\textwidth]{mortality_lightgbm_shap_summary.png}
+\metricimg[0.45\textwidth]{mortality_xgboost_shap_summary.png}
+\caption{Mortality SHAP summary plots for tree models (left: LightGBM, right: XGBoost).}
+\label{fig:jour_mort_shap}
+\end{figure*}
+
+\begin{figure*}[htbp]
+\centering
+\metricimg{response_lightgbm_calibration_curve.png}
+\metricimg{response_xgboost_calibration_curve.png}
+\metricimg{response_tabnet_calibration_curve.png}
+\caption{Response calibration curves (left to right: LightGBM, XGBoost, TabNet).}
+\label{fig:jour_resp_cal}
+\end{figure*}
+
+\begin{figure*}[htbp]
+\centering
+\metricimg{response_lightgbm_roc_curve.png}
+\metricimg{response_xgboost_roc_curve.png}
+\metricimg{response_tabnet_roc_curve.png}
+\caption{Response ROC curves (left to right: LightGBM, XGBoost, TabNet).}
+\label{fig:jour_resp_roc}
+\end{figure*}
+
+\begin{figure*}[htbp]
+\centering
+\metricimg{response_lightgbm_probability_hist.png}
+\metricimg{response_xgboost_probability_hist.png}
+\metricimg{response_tabnet_probability_hist.png}
+\caption{Response probability histograms (left to right: LightGBM, XGBoost, TabNet).}
+\label{fig:jour_resp_hist}
+\end{figure*}
+
+\begin{figure*}[htbp]
+\centering
+\metricimg[0.45\textwidth]{response_lightgbm_shap_summary.png}
+\metricimg[0.45\textwidth]{response_xgboost_shap_summary.png}
+\caption{Response SHAP summary plots for tree models (left: LightGBM, right: XGBoost).}
+\label{fig:jour_resp_shap}
+\end{figure*}
+
+\begin{thebibliography}{9}
+
+\bibitem{zou2025}
+D. Zou \emph{et al.}, ``A Machine Learning Approach to Predicting Mortality Risk in Chemotherapy-Treated Lung Cancer,'' \emph{JMIR Medical Informatics}, 2025.
+
+\bibitem{sun2024}
+Y. Sun \emph{et al.}, ``Construction of a Risk Prediction Model for Lung Infection After Chemotherapy in Lung Cancer Patients,'' \emph{Frontiers in Oncology}, 2024.
+
+\bibitem{qureshi2022}
+W. A. Qureshi \emph{et al.}, ``Machine Learning Based Personalized Drug Response Prediction for Lung Cancer Patients,'' \emph{Scientific Reports}, 2022.
+
+\bibitem{li2022review}
+X. Li \emph{et al.}, ``Machine Learning for Lung Cancer Diagnosis, Treatment, and Prognosis,'' \emph{Genomics, Proteomics \& Bioinformatics}, 2022.
+
+\end{thebibliography}
+
+\end{document}

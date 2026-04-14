@@ -1,0 +1,5637 @@
+﻿[
+    {
+        "uniquePatientKey":  "TVNLLUwtMDAxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-001",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE2MjIzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0016223",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDAzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-003",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE3ODMyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0017832",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE1NjM2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0015636",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDAzMzIyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0003322",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDA3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-007",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE3MjE0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0017214",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM0Njc3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0034677",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE2NDMxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0016431",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDExOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-011",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIyMDk3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0022097",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE2NDI5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0016429",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE2NTI0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0016524",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDE1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-015",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDE2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-016",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE2OTAzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0016903",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE0MTc3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0014177",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDE5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-019",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDIwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-020",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE3Mjg0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0017284",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE3NzUyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0017752",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDIzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-023",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDI0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-024",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEyOTA4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0012908",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA3NjMzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0007633",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE3NDMyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0017432",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE3NDQzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0017443",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA3NzQ1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0007745",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDMxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-031",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEyMjYxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0012261",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDMzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-033",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDM0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-034",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE4NjgyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0018682",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA4NjAyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0008602",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE5MTI4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0019128",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDM5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-039",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDQwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-040",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE5Njg0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0019684",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE5NDkxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0019491",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA4MjgyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0008282",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE2ODg2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0016886",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDQ1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-045",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIwMTcwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0020170",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE5ODUyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0019852",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDQ4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-048",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDQ5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-049",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDUwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-050",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIyMTAxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0022101",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDUyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-052",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEyMTYwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0012160",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA5NDIzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0009423",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2MjU1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026255",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDU2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-056",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIxMjI4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0021228",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDU4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-058",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIxODc3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0021877",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIxMDkzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0021093",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIxNzk3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0021797",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI5MTc0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0029174",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDY0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-064",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU2NDE1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0056415",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDY3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-067",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIxNzY5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0021769",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2MTA4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026108",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDcwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-070",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDcxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-071",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDcyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-072",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIyODA4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0022808",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDc0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-074",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIyMzcyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0022372",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDc2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-076",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIxNTAwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0021500",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzMzEwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0023310",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ4NjE0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0048614",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEzODU1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0013855",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIyNjU5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0022659",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIyNDI3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0022427",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDgzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-083",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIyNzY1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0022765",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIyNDYxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0022461",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDg2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-086",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIyNjcxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0022671",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzNTA0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0023504",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA4NDIyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0008422",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDkxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-091",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDkyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-092",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE3Mjk4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0017298",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU1Mjg4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0055288",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMDk2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-096",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1OTEwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025910",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzMzc5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0023379",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzMzE2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0023316",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzMDA3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0023007",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTAyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-102",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTAzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-103",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTA0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-104",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEwMzAwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0010300",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzNDY4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0023468",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzNTY5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0023569",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1NzYyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025762",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0MjY3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024267",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzNTk2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0023596",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE3MDEzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0017013",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTEyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-112",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzNTc2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0023576",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTE1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-115",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzOTI2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0023926",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDAxMTIzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0001123",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzNzkwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0023790",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzNjc4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0023678",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzMjM5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033239",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1MTAzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025103",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0NTAxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024501",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0MTk3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024197",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0Mjk3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024297",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTI2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-126",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTI3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-127",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0MzMzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024333",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDAwOTEzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0000913",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTMwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-130",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0NTYxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024561",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzODYwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0023860",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwMjUyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040252",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIxNTc0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0021574",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0MDI1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024025",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0NjcwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024670",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0NDgwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024480",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTM5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-139",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0MTQzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024143",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTQxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-141",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2NTcxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026571",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTQzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-143",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTQ0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-144",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIxODQzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0021843",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1MDk1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025095",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE3MzE5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0017319",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0OTA3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024907",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0NTE2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024516",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDExMTA3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0011107",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTUzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-153",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0NDg3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024487",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0NzY0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024764",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTU5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-159",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0MzM1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024335",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0Njc3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024677",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDAzMTU2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0003156",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0NjAyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024602",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0Njc1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024675",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2NTk5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026599",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTY4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-168",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1MTAwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025100",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1OTE2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025916",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTcyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-172",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTczOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-173",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0OTUwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024950",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA2MTM5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0006139",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE4MDk1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0018095",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTc3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-177",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA5NDAzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0009403",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1MTUyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025152",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2NTg5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026589",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1Mjg0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025284",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0OTAwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024900",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA4NTk5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0008599",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTg1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-185",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTg2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-186",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1Mzk4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025398",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTg4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-188",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTg5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-189",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2NTY5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026569",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0NDIxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024421",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE1MTI5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0015129",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM4MDUzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0038053",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTk1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-195",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1MzQ0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025344",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2MzcxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026371",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1NzQxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025741",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2MDgwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026080",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1NzM5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025739",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1Njk5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025699",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIwNDUwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0020450",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2MjkzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026293",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1OTE1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025915",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2ODgzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026883",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1NjQyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025642",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2NDkxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026491",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMjEzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-213",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2MTY4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026168",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2MTIxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026121",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1OTI3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025927",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2Mjc2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026276",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2MjcxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026271",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMjE5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-219",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMjIwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-220",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI5NDMyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0029432",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2Mjk4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026298",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3MzQzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027343",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2Mjk1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026295",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2Njg5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026689",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2NzAxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026701",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2NDA3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026407",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDAwNjA0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0000604",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3MDkyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027092",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMjMwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-230",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3MDg3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027087",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3NDkyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027492",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2Njk1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026695",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2NjkxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026691",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3MDkwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027090",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwMTg4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0030188",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2NjgwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026680",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3MDA5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027009",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMjQwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-240",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIwODI1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0020825",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3MzE2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027316",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEzNzIxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0013721",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2OTYwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026960",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzNDc4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043478",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI4ODkwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0028890",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2OTY0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026964",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMjQ4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-248",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3NDU1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027455",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3MTY2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027166",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMjUzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-253",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1NDgxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045481",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3OTg5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027989",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMjU3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-257",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3MTQyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027142",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMjU5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-259",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwNDQ4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040448",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMjYxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-261",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMjYyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-262",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEyNzgyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0012782",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMjY1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-265",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI4MzM3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0028337",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3ODI4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027828",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3NTU0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027554",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMjcwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-270",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3NjY0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027664",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI4NjA2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0028606",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDExMzA5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0011309",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI4MzkxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0028391",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3ODUzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027853",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3OTMwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027930",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI5ODAwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0029800",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMjc5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-279",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3ODU1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027855",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQxMjQ2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0041246",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA2MTk4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0006198",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI4NjAwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0028600",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI4MjA0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0028204",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI4MTk2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0028196",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwMzc1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040375",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI4NjA5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0028609",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI4NDY2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0028466",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMjkzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-293",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI4MjgzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0028283",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI4Njk4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0028698",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMjk2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-296",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3MjU3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027257",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI4NTI5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0028529",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI4NzIzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0028723",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyNTEzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0032513",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3MzU2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037356",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI4ODY1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0028865",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI4ODU4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0028858",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzA2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-306",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzA5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-309",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzEwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-310",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1MjYwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045260",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzEzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-313",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA1NDY3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0005467",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI5MTEyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0029112",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI5OTc1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0029975",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI5OTY5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0029969",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzE5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-319",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI5OTQzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0029943",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzIxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-321",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1Mjk4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045298",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI5MzE1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0029315",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwMTExOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0030111",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI5NTk0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0029594",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwMTI1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0030125",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI5NTkzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0029593",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI5OTcxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0029971",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA2NTExOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0006511",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI5OTk3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0029997",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwNTY3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0030567",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzM4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-338",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwMzA4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0030308",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxNDQwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0031440",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzQxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-341",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwODA3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0030807",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM0MzczOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0034373",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzQ1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-345",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwMzAwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0030300",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwMzA5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0030309",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwMTk5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0030199",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwNTYyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0030562",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwNTYwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0030560",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyNDU1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0032455",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzU0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-354",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzU1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-355",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwMDM0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040034",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEyMDYxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0012061",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzU4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-358",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzU5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-359",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzYwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-360",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwNzg5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0030789",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI5OTc0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0029974",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxMDc2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0031076",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwNTY1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0030565",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzY1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-365",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzY2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-366",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzY3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-367",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzY5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-369",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxMjk5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0031299",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzcxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-371",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxMzU3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0031357",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxODY1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0031865",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxMzQwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0031340",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyMTgyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0032182",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxMzMxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0031331",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxMDAzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0031003",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxMjg4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0031288",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxNTk4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0031598",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzgwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-380",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE4MTk2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0018196",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxMjMyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0031232",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzMDIzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0023023",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwOTk4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0030998",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzg1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-385",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwNTI4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040528",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxODg2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0031886",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwOTkwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0030990",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzkwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-390",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA2MTI3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0006127",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzkzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-393",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU2MzE4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0056318",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUyODU5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0052859",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyMjI3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0032227",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE2Njk1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0016695",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMzk4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-398",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyMTcyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0032172",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNDAyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-402",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNDAzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-403",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyMjYxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0032261",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2MjM0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0036234",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyMDUzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0032053",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDAzMjk3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0003297",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzODk2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033896",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA2MjEwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0006210",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyMDAyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0032002",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNDEzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-413",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyMTc5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0032179",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyMTI2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0032126",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNDE2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-416",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyMjY4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0032268",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyMTI0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0032124",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzMDkzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033093",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzMjAwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033200",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyNTExOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0032511",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE1NTkwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0015590",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzNjExOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033611",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2MTQxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026141",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA5NzQ4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0009748",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyMzU4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0032358",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzODg0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033884",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNDMwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-430",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzMjUxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033251",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzNTk5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033599",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyNzIyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0032722",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE5ODA1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0019805",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzMzU2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033356",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNDQwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-440",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE0MzA0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0014304",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDAxNDQyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0001442",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2OTcwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0036970",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI5MDYxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0029061",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzMDg1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033085",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNDQ4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-448",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzMzEzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033313",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNDUwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-450",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE4NDM0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0018434",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzOTc4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033978",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIxMTEyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0021112",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzMTgzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033183",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM4MTIxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0038121",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM4NTE4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0038518",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM1NTAyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0035502",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzMzE3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033317",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzNzQ3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033747",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNDYyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-462",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzMjAyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033202",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzNzkyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033792",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE1NTkzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0015593",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzOTk4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033998",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzMzE1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033315",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1NTMxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025531",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzODUxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033851",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNDc0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-474",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyMTAxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0032101",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzODg5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033889",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNDc4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-478",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzNzQwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033740",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5Njc2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039676",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzODE1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033815",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzOTc0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033974",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM1MDk0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0035094",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNDg1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-485",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM0MzM0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0034334",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE4MjgwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0018280",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM1MTYyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0035162",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM0NjY4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0034668",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3MzY5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037369",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM0NjQ2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0034646",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA2MTE2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0006116",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDAzODc5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0003879",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM0OTI4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0034928",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM0MzA3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0034307",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEyMTQ5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0012149",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTAwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-500",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM0NTY3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0034567",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM0OTM3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0034937",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE4ODY1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0018865",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM1MTgxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0035181",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM0NzY5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0034769",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1ODM2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025836",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1NjU3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025657",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM1NDg3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0035487",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM1MTM3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0035137",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTEyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-512",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM1ODUxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0035851",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM1ODM1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0035835",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTE1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-515",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM1MzI0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0035324",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA3NTM0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0007534",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA3MDgyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0007082",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM1NzMzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0035733",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM1MjI2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0035226",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2MjY0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0036264",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTI1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-525",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwNjg0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040684",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTI4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-528",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM0MzY4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0034368",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2MDkwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0036090",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2MTIyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0036122",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3NjE4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047618",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2MjQzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0036243",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTM2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-536",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2MjQ3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0036247",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3OTY1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037965",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM1ODg5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0035889",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTQxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-541",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2MDU5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0036059",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTQzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-543",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTQ0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-544",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3MTA3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037107",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTQ2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-546",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTQ3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-547",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3NTc1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037575",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTQ5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-549",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2MjQ5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0036249",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTUxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-551",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2OTE3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0036917",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTU0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-554",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2NDc3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0036477",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5OTczOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039973",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwNjAwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040600",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2NjcyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0036672",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2NzQ5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0036749",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxODI3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0031827",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3Mzc4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037378",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTYzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-563",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2OTY5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0036969",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTY1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-565",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2Njg3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0036687",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE0NTI0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0014524",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI4NzExOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0028711",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3MjM2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037236",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTcwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-570",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2ODg1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0036885",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3Mzc5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037379",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTczOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-573",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTc0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-574",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTc1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-575",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTc3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-577",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3OTE0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037914",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2NzM3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0036737",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3MTY0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037164",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTgzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-583",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5OTUyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039952",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3MzA0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027304",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTg3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-587",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNTg4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-588",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3NzY3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037767",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3NzQzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037743",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3MjQ0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037244",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3NzI5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037729",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE0MTYyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0014162",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3NDA4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027408",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM4NzU0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0038754",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3NDk3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037497",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjAyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-602",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA2MDQ3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0006047",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA4OTc4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0008978",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQxNDc3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0041477",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjA3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-607",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3NzYxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037761",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5NDE2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039416",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM4MjY4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0038268",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjEyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-612",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3NjU0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037654",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjE0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-614",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjE1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-615",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM4MTcyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0038172",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM4NDQyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0038442",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3OTk0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037994",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM4NDQzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0038443",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE4MDIyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0018022",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjIxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-621",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjIyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-622",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQxNjI5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0041629",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjI0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-624",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM4OTkyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0038992",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE3NjYzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0017663",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0ODQxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0024841",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjI5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-629",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE4NTEzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0018513",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjMyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-632",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5MDI5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039029",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIyMTk4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0022198",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM4ODIxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0038821",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwMTI3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040127",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjQwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-640",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM4NzkwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0038790",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5NjQ3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039647",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM4NzYzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0038763",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjQ1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-645",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjQ4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-648",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5Mzg3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039387",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjUwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-650",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjUxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-651",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5MjU3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039257",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5MzkwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039390",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjU1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-655",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5MDc4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039078",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5MDc5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039079",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5OTQ1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039945",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3NjQzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0037643",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwNzMwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040730",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIxNjcxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0021671",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5ODYzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039863",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2ODI3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046827",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwMTM0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040134",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5NzM4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039738",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5NzM3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039737",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzMDkwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0033090",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjY5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-669",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1NDgwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045480",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5ODY5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039869",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjcyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-672",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQyNTMzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0042533",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQyMTczOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0042173",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUwOTg3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0050987",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwOTQwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040940",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwODkyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040892",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjc5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-679",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjgwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-680",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjgxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-681",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5OTY4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039968",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwMTQ1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040145",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjg1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-685",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQyMTU0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0042154",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5ODc5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039879",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjg4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-688",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwMzYzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040363",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjkxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-691",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5Nzk1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039795",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQxMzI1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0041325",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwOTUyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040952",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwODY5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040869",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwOTU0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040954",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjk5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-699",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzAyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-702",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzAzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-703",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzMjIyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043222",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzA1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-705",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwOTQ1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040945",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwNTQ0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040544",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3NjAwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027600",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwNTA3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040507",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQxNjE1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0041615",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwMzU4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040358",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQyMDMzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0042033",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDExMzk1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0011395",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI4OTQ3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0028947",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzE2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-716",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwODg4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040888",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwNzMyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040732",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzE5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-719",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQxMTQzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0041143",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQxNjQxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0041641",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQxMTQ5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0041149",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwODE4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040818",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM0OTk3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0034997",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzI2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-726",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzI3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-727",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzI4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-728",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQxNDE2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0041416",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE2MDU0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0016054",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzNDEwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043410",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzMyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-732",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEwODM2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0010836",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQxNTc1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0041575",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQxMjE1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0041215",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzM3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-737",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQxMzEwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0041310",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQxNTk0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0041594",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQxOTA4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0041908",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzQzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-743",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU3ODYwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0057860",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQxNzAzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0041703",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQyMjI4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0042228",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzQ4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-748",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzMTU3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0023157",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzUwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-750",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzUxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-751",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzUyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-752",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzUzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-753",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzU0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-754",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEyNTkyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0012592",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzU3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-757",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE5NjA3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0019607",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzYwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-760",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQyMzE3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0042317",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQyNTk2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0042596",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQyNjExOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0042611",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzY0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-764",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzMzExOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043311",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0NDcwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044470",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQyMzEzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0042313",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzMTUzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043153",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDAxNjgzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0001683",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzcwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-770",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyMTc1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0032175",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA5OTQ4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0009948",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM4NjU4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0038658",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUzNjMyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0053632",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQyNjEzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0042613",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQyNjE2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0042616",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzMjQzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043243",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzgwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-780",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzMTcwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043170",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzMDE4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043018",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzgzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-783",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzNTE0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043514",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxMzY4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0031368",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzg4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-788",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzMjAwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043200",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzkwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-790",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzkzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-793",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQyOTk2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0042996",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE5ODU2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0019856",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzk2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-796",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzk3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-797",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwMTMzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040133",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUxNTI3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0051527",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzNjkyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043692",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtODAzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-803",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1NTY2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045566",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEzNzE5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0013719",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzMjUwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043250",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzMzc1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043375",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzMzUwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043350",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzMTc2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043176",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtODExOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-811",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzMTg3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043187",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQyNzk5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0042799",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzODU0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043854",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtODE3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-817",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzMjU1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043255",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1Njg2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045686",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtODIwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-820",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtODIxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-821",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzODcyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043872",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzNjk2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043696",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzMDQyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043042",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzNTAxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043501",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtODI3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-827",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzNzMzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043733",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzNTAzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043503",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtODMwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-830",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzNTA4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043508",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzNDk5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043499",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0MTM5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044139",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwMDc4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040078",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzNTAyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043502",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtODQxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-841",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtODQyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-842",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtODQ0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-844",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU3MzkxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0057391",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0NjU2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044656",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0MDEzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044013",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtODQ4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-848",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzNzQ1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043745",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzNzQ2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043746",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzNzQ3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043747",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0OTEyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044912",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzNTA0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043504",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzOTU2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043956",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0MDI4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044028",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwNjU1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0040655",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUyMjc5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0052279",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEwOTI3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0010927",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0NTU3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044557",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1NjQ1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045645",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0MDE3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044017",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0OTEzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044913",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1MTY5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045169",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0Mzc5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044379",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzOTcwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043970",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzOTY5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043969",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzOTcxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043971",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1MTE5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045119",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQzOTcyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0043972",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0MjE0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044214",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDAwODQwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0000840",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0OTY5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044969",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtODc5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-879",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0MzgyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044382",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtODg0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-884",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0NzA1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044705",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0NDk2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044496",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3NDE5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027419",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtODg4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-888",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0NzA3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044707",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3NjQ2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047646",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtODkxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-891",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0OTY0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044964",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0NzA4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044708",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0NzEwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044710",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0MTQ1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044145",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0OTM3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044937",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1NDAxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045401",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE5MjY4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0019268",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1MjMyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045232",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1MDA1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045005",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTAxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-901",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1NTgxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045581",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTA0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-904",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0OTQwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044940",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzMTAwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0023100",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1MjIyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045222",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzNTM0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0023534",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1NjE0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045614",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1NjcwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045670",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1NDE4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045418",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTEyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-912",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE5Njg3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0019687",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2MDUwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046050",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1NTU3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045557",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTE3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-917",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTE5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-919",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1MjYyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045262",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1MjYzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045263",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1MjY1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045265",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1OTk2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045996",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU1NzczOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0055773",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1NjIxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045621",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1MzAyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045302",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1MjY3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045267",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1NzM3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045737",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2NDY4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046468",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2NjI3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046627",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTMxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-931",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTMzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-933",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1ODY3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045867",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1NDg0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045484",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2MzM5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046339",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1ODA4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045808",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3NzEyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047712",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1NjE3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045617",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1ODA5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045809",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTQxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-941",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2NzU1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046755",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3NzMwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047730",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTQ0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-944",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTQ1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-945",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2Mjg4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046288",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTQ4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-948",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwODkzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0030893",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTUwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-950",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTUxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-951",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTUyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-952",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2NzI1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046725",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTU0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-954",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2ODUwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046850",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTU2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-956",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2MTc3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046177",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2ODc1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046875",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2NzI2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046726",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTYwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-960",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ4MTU5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0048159",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1OTQxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025941",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3MTk5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0027199",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTY0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-964",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3MTg2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047186",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2NDc3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046477",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2OTIzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046923",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2ODE5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046819",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTcwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-970",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTcxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-971",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2OTQ2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046946",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2ODIyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046822",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ5OTc3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0049977",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2ODU5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046859",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTc3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-977",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3MDMyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047032",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3MDMxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047031",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3NDQ2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047446",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3MTgxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047181",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3MTg1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047185",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3MTgzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047183",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3MTg4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047188",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyODU1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0032855",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3MTkzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047193",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTkxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-991",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3NDY5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047469",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtOTkzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-993",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1OTMwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0025930",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2NzEyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046712",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ2ODI0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0046824",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3Nzg4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047788",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEyMDk4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0012098",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3OTUzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047953",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3ODMwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047830",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3NTgxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047581",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTAwNjpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1006",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ4MTE0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0048114",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3NzkyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047792",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3NTc5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047579",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3ODMxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047831",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3ODMyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047832",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ4NjcyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0048672",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3ODM2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047836",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5MDIxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039021",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ4MDk1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0048095",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ4NzYyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0048762",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3OTUxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047951",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ4MTAxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0048101",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ4MDY2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0048066",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ5Mzc1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0049375",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ4NzAxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0048701",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ4MzMzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0048333",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM1MzQ5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0035349",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ4NTYzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0048563",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTAzMTpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1031",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIyMjU0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0022254",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTAzMzpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1033",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTAzNDpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1034",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ4NTY4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0048568",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ1MTg0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0045184",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3MzExOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047311",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ4ODY4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0048868",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ4ODcwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0048870",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE0MjMyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0014232",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ4OTE4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0048918",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ5MTk3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0049197",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUwOTU5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0050959",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI5ODg5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0029889",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ5MTM2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0049136",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ5MTM3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0049137",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTA0ODpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1048",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ5NDc4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0049478",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTA1MDpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1050",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTA1MTpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1051",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ5MzA2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0049306",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ5NjQ2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0049646",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUwMDE4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0050018",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ5NjUxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0049651",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTA1ODpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1058",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUwNTgxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0050581",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUwMjE4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0050218",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ5NDg0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0049484",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUwMjIwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0050220",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUwMzk2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0050396",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUwNTY4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0050568",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTA2Njpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1066",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUxMDcwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0051070",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUwNjg0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0050684",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUwNTg1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0050585",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUwODM5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0050839",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUwOTg5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0050989",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUxMjgyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0051282",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUwODMyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0050832",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUxMjgxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0051281",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzMjQ4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0023248",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTA3OTpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1079",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUxMzk3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0051397",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUxMzk4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0051398",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUxNDQ5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0051449",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUyMTA1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0052105",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUxNTMxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0051531",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTA4NTpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1085",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTA4Njpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1086",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUxODg1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0051885",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUxODYwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0051860",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTA5MDpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1090",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUyMDAyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0052002",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUyMzY5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0052369",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUxOTAxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0051901",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUzMjQ1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0053245",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUyMDEzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0052013",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUyMDEyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0052012",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUyMDE2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0052016",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUyMTM4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0052138",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUzMjQxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0053241",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTEwOTpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1109",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUyMzY3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0052367",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2OTA5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0036909",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUyNjM5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0052639",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUyNjE2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0052616",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUzNjE5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0053619",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUyODY3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0052867",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUxMjMxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0051231",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUzMjE5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0053219",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM0Nzg1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0034785",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUzMjgyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0053282",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUzMzQ3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0053347",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUzNjA4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0053608",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU1NTg3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0055587",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUzNTI0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0053524",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUzNjEzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0053613",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUxNzY0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0051764",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUzNjE4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0053618",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU0NTg5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0054589",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUzNzk4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0053798",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU0MDc1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0054075",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUyMDg4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0052088",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUzNzk2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0053796",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUzODA3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0053807",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTEzOTpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1139",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU0MzU1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0054355",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUzODcxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0053871",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTE0Mjpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1142",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU0MTI3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0054127",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU0MTMyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0054132",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU0MTkwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0054190",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU0MTE4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0054118",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU0NDE5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0054419",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU1MTczOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0055173",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU1MzA3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0055307",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU1NjEwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0055610",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU1NTc3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0055577",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU1NjA5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0055609",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTE1Njpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1156",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM1NTc1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0035575",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTE1ODpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1158",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU2MzA1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0056305",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU2NDU5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0056459",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU3MDc2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0057076",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA5MjYxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0009261",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU3Mzg4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0057388",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2MTcwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0026170",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU3NTc1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0057575",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTE3Mjpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1172",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU4MzAzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0058303",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU4Mjk0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0058294",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU4NjEzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0058613",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU4NjE0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0058614",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTE4MTpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1181",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU5MDA1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0059005",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTE4Mzpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1183",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU5MjQ5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0059249",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTE4ODpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1188",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEwMTc3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0010177",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIwNTEzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0020513",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM5NTQ0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0039544",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQxMzA2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0041306",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0NTczOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044573",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0OTAyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044902",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ4NzU0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0048754",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUwNDU1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0050455",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDUyMDA4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0052008",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU2NjUyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0056652",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU2NzM3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0056737",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0MzgxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0044381",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3MTk0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047194",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ3NDc2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0047476",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDU2NzkwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "P-0056790",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDAxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-001",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDAyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-002",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDAzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-003",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDA0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-004",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDA1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-005",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDA2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-006",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDA3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-007",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDA4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-008",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDEwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-010",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDExOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-011",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDEyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-012",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDEzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-013",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDE0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-014",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDE1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-015",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDE2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-016",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDE3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-017",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDIyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-022",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDIzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-023",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDI0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-024",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDI1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-025",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDI2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-026",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDI3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-027",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDI4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-028",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDMwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-030",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDMxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-031",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDMyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-032",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDMzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-033",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDM0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-034",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDM1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-035",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDM3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-037",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDM4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-038",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDM5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-039",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDQyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-042",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDQzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-043",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDQ0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-044",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDQ1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-045",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDQ2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-046",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDQ3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-047",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDQ4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-048",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDQ5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-049",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDUwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-050",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDUxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-051",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDUyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-052",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDUzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-053",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDU0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-054",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDU1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-055",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDU2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-056",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDU3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-057",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDU4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-058",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDYwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-060",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDYxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-061",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDYyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-062",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDYzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-063",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDY0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-064",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDY1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-065",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDY2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-066",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDY3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-067",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDY4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-068",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDcwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-070",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDcxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-071",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDcyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-072",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDczOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-073",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDc0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-074",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDc1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-075",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDc2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-076",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDc3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-077",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDgwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-080",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDgxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-081",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDgyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-082",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDg0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-084",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDg4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-088",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDg5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-089",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDkxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-091",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDkyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-092",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDkzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-093",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDk0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-094",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDk1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-095",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDk3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-097",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDk4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-098",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMDk5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-099",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTA5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-109",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTExOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-111",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTEyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-112",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTEzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-113",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTE0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-114",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTE4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-118",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTE5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-119",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTIwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-120",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTIyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-122",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTIzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-123",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTI3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-127",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTI5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-129",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTMwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-130",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTMzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-133",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTQyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-142",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTQ1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-145",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTQ2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-146",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTQ3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-147",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTUwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-150",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTUxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-151",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTYwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-160",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTYyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-162",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTYzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-163",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTY1Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-165",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTY2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-166",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTY3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-167",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTY4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-168",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTY5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-169",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTcxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-171",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTcyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-172",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTc0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-174",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTgyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-182",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTgzOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-183",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTg0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-184",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTg2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-186",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTg3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-187",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTg4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-188",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTkyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-192",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTk0Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-194",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTk2Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-196",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTk3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-197",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMTk5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-199",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMjAwOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-200",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMjAxOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-201",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TkNJLUwtMjAyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "NCI-L-202",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtODM3Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-837",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNjkyOm5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-692",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNDE5Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-419",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTE5MTpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1191",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTE5Mjpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1192",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtODM4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-838",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTE5MDpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1190",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtNzM4Om5zY2xjX2N0ZHhfbXNrXzIwMjI",
+        "patientId":  "MSK-L-738",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTAyOTpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1029",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "uniquePatientKey":  "TVNLLUwtMTEwMjpuc2NsY19jdGR4X21za18yMDIy",
+        "patientId":  "MSK-L-1102",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    }
+]

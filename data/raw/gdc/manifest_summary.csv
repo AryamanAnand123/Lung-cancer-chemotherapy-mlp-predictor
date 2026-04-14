@@ -1,0 +1,4 @@
+﻿"manifest","rows","path"
+"clinical","2227","C:\Users\aryam\OneDrive\Desktop\c\Cancerproject\data\raw\gdc\manifest_clinical.tsv"
+"somatic_mutation","1167","C:\Users\aryam\OneDrive\Desktop\c\Cancerproject\data\raw\gdc\manifest_somatic_mutation.tsv"
+"rnaseq_counts","1163","C:\Users\aryam\OneDrive\Desktop\c\Cancerproject\data\raw\gdc\manifest_rnaseq_counts.tsv"

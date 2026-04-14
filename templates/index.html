@@ -1,0 +1,148 @@
+{% extends "base.html" %} {% block title %}Prediction | Lung Cancer Clinical
+AI{% endblock %} {% block content %}
+<div class="row g-4">
+  <div class="col-12 col-xl-8">
+    <div class="card glass-card border-0">
+      <div class="card-body p-4">
+        <h1 class="h3 page-title mb-2">Clinical Prediction Console</h1>
+        <p class="text-muted mb-4 subtitle-copy">
+          Uses the active schema and auto-deploys the best-performing model per
+          task from LightGBM, XGBoost, and TabNet based on latest CV reports.
+        </p>
+
+        <form action="{{ url_for('predict') }}" method="post" class="row g-3">
+          <div class="col-12 col-lg-6">
+            <label class="form-label">Drug name</label>
+            <input
+              class="form-control"
+              type="text"
+              name="drug_name"
+              value="Cisplatin"
+              placeholder="Cisplatin"
+            />
+          </div>
+
+          {% for group_name, specs in feature_groups.items() %}
+          <div class="col-12">
+            <h2 class="h6 text-uppercase text-secondary mt-2">
+              {{ group_name }}
+            </h2>
+          </div>
+          {% for spec in specs %}
+          <div class="col-12 col-md-6 col-lg-4">
+            <label class="form-label">{{ spec.label }}</label>
+            {% if spec.dtype in ['int', 'binary', 'float'] and
+            spec.choices|length == 0 %}
+            <input
+              class="form-control"
+              type="number"
+              name="{{ spec.name }}"
+              value="{{ defaults[spec.name] }}"
+              min="{{ spec.minimum if spec.minimum is not none else '' }}"
+              max="{{ spec.maximum if spec.maximum is not none else '' }}"
+              step="{{ spec.step if spec.step is not none else '1' }}"
+            />
+            {% else %}
+            <select class="form-select" name="{{ spec.name }}">
+              {% for choice in spec.choices %}
+              <option
+                value="{{ choice }}"
+                {%
+                if
+                choice=""
+                ="defaults[spec.name]"
+                %}selected{%
+                endif
+                %}
+              >
+                {{ choice }}
+              </option>
+              {% endfor %}
+            </select>
+            {% endif %} {% if spec.help_text %}
+            <div class="form-text">{{ spec.help_text }}</div>
+            {% endif %}
+          </div>
+          {% endfor %} {% endfor %}
+
+          <div class="col-12 d-flex gap-2 mt-2">
+            <button class="btn btn-primary px-4" type="submit">
+              Predict response and mortality
+            </button>
+            <a class="btn btn-outline-secondary" href="{{ url_for('status') }}"
+              >View status</a
+            >
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-12 col-xl-4">
+    <div class="card glass-card border-0 mb-4">
+      <div class="card-body p-4">
+        <h2 class="h6 text-uppercase text-secondary">Deployment Status</h2>
+        <ul class="list-unstyled mb-0 small">
+          <li>
+            <strong>Response model:</strong> {{ 'Ready' if response_ready else
+            'Not trained' }}
+          </li>
+          <li>
+            <strong>Mortality model:</strong> {{ 'Ready' if mortality_ready else
+            'Not trained' }}
+          </li>
+          <li>
+            <strong>Active feature count:</strong> {{ active_feature_count }}
+          </li>
+          <li><strong>Mode:</strong> {{ status.mode }}</li>
+          <li>
+            <strong>Response algorithm:</strong>
+            {{ status.response_algorithm or 'N/A' }}
+          </li>
+          <li>
+            <strong>Mortality algorithm:</strong>
+            {{ status.mortality_algorithm or 'N/A' }}
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="card glass-card border-0">
+      <div class="card-body p-4">
+        <h2 class="h6 text-uppercase text-secondary">Batch upload</h2>
+        <p class="small text-muted">
+          Upload a CSV with {{ active_feature_count }} active feature columns
+          and an optional drug_name column.
+        </p>
+        <form
+          action="{{ url_for('batch') }}"
+          method="post"
+          enctype="multipart/form-data"
+        >
+          <div class="mb-3">
+            <input
+              class="form-control"
+              type="file"
+              name="csv_file"
+              accept=".csv"
+              required
+            />
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Drug name</label>
+            <input
+              class="form-control"
+              type="text"
+              name="drug_name"
+              value="Cisplatin"
+            />
+          </div>
+          <button class="btn btn-outline-primary" type="submit">
+            Upload and score
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

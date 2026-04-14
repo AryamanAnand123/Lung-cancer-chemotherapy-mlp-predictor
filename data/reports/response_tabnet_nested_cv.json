@@ -1,0 +1,100 @@
+{
+  "task": "response",
+  "algorithm": "tabnet",
+  "n_rows": 901,
+  "label_col": "response",
+  "notes": [
+    "dropped_features=egfr_mutation,mets_lung_dx,performance_status,treatment_delay_days,tumor_size_mm"
+  ],
+  "outer_fold_metrics": [
+    {
+      "accuracy": 0.46511627906976744,
+      "balanced_accuracy": 0.5852475247524752,
+      "precision": 0.8979591836734694,
+      "recall": 0.22,
+      "f1": 0.3534136546184739,
+      "auc": 0.7022277227722772,
+      "brier": 0.38422882972639516,
+      "fold": 1.0
+    },
+    {
+      "accuracy": 0.6666666666666666,
+      "balanced_accuracy": 0.6375,
+      "precision": 0.7631578947368421,
+      "recall": 0.725,
+      "f1": 0.7435897435897436,
+      "auc": 0.69665,
+      "brier": 0.23368914566690147,
+      "fold": 2.0
+    },
+    {
+      "accuracy": 0.5,
+      "balanced_accuracy": 0.625,
+      "precision": 1.0,
+      "recall": 0.25,
+      "f1": 0.4,
+      "auc": 0.7928499999999998,
+      "brier": 0.36129205674407017,
+      "fold": 3.0
+    }
+  ],
+  "outer_mean": {
+    "accuracy": 0.5439276485788114,
+    "balanced_accuracy": 0.6159158415841585,
+    "precision": 0.8870390261367705,
+    "recall": 0.39833333333333326,
+    "f1": 0.49900113273607244,
+    "auc": 0.730575907590759,
+    "brier": 0.3264033440457889,
+    "fold": 2.0
+  },
+  "outer_std": {
+    "accuracy": 0.10771661161289253,
+    "balanced_accuracy": 0.027285009491777274,
+    "precision": 0.11879807694925422,
+    "recall": 0.2832990175297707,
+    "f1": 0.21309684022410594,
+    "auc": 0.05400300627629072,
+    "brier": 0.08110774207491202,
+    "fold": 1.0
+  },
+  "outer_auc_ci_95": {
+    "method": "normal_approx_over_outer_folds",
+    "n_folds": 3,
+    "mean": 0.730575907590759,
+    "lower": 0.6694657531778546,
+    "upper": 0.7916860620036633
+  },
+  "calibration_metrics": {
+    "accuracy": 0.3812154696132597,
+    "balanced_accuracy": 0.5329889807162534,
+    "precision": 0.9090909090909091,
+    "recall": 0.08264462809917356,
+    "f1": 0.15151515151515152,
+    "auc": 0.8892561983471073,
+    "brier": 0.2778616914899992
+  },
+  "best_threshold": {
+    "threshold": 0.2,
+    "target_metric": "f1",
+    "metrics": {
+      "accuracy": 0.8784530386740331,
+      "balanced_accuracy": 0.850275482093664,
+      "precision": 0.889763779527559,
+      "recall": 0.9338842975206612,
+      "f1": 0.9112903225806451,
+      "auc": 0.8892561983471073,
+      "brier": 0.2778616914899992
+    }
+  },
+  "artifacts": {
+    "model": "C:\\Users\\aryam\\OneDrive\\Desktop\\c\\Cancerproject\\data\\models\\response_tabnet_model.joblib",
+    "mapie": null,
+    "shap": null,
+    "shap_plot": null,
+    "calibration_plot": "C:\\Users\\aryam\\OneDrive\\Desktop\\c\\Cancerproject\\data\\reports\\response_tabnet_calibration_curve.png",
+    "roc_plot": "C:\\Users\\aryam\\OneDrive\\Desktop\\c\\Cancerproject\\data\\reports\\response_tabnet_roc_curve.png",
+    "probability_hist_plot": "C:\\Users\\aryam\\OneDrive\\Desktop\\c\\Cancerproject\\data\\reports\\response_tabnet_probability_hist.png",
+    "survival": null
+  }
+}

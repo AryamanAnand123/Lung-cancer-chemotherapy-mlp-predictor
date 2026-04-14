@@ -1,0 +1,236 @@
+﻿[
+    {
+        "displayName":  "Age At Surgery",
+        "description":  "Age At Surgery",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "AGE_AT_SURGERY",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Cancer Type",
+        "description":  "Cancer Type",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "CANCER_TYPE",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Cancer Type Detailed",
+        "description":  "Cancer Type Detailed",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "CANCER_TYPE_DETAILED",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Clinical Nodal Status",
+        "description":  "Clinical Nodal Status",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "CN_STATUS",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "CT Size",
+        "description":  "CT Size",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "CT_SIZE",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Diffusion lung capacity for carbon monoxide",
+        "description":  "Diffusion lung capacity for carbon monoxide",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "DLCO",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "FEV1",
+        "description":  "FEV1",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "FEV1",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "FGA Facets",
+        "description":  "FGA Facets",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "FGA_FACETS",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Fraction Genome Altered",
+        "description":  "Fraction Genome Altered",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "20",
+        "clinicalAttributeId":  "FRACTION_GENOME_ALTERED",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Mutation Count",
+        "description":  "Mutation Count",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "30",
+        "clinicalAttributeId":  "MUTATION_COUNT",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Oncotree Code",
+        "description":  "Oncotree Code",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "ONCOTREE_CODE",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Overall Survival (Months)",
+        "description":  "Overall survival in months since surgery.",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "OS_MONTHS",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Overall Survival Status",
+        "description":  "Overall patient survival status.",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "OS_STATUS",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Pathologic Stage",
+        "description":  "Pathologic Stage",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "PATHOLOGIC_STAGE",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Pathologic Nodal Status",
+        "description":  "Pathologic Nodal Status",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "PN_STATUS",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Predominant Histologic Subtype",
+        "description":  "Predominant Histologic Subtype",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "PREDOMINANT_HISTOLOGIC_SUBTYPE",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Relapse Free Status (Months)",
+        "description":  "Relapse Free Status (Months)",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "RFS_MONTHS",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Relapse Free Status",
+        "description":  "Relapse Free Status",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "RFS_STATUS",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Number of Samples Per Patient",
+        "description":  "Number of Samples Per Patient",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "SAMPLE_COUNT",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Sex",
+        "description":  "Sex",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "SEX",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Smoking History",
+        "description":  "Smoking History",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "SMOKING_HISTORY",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Person Cigarette Smoking History Pack Year Value",
+        "description":  "Person Cigarette Smoking History Pack Year Value",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "SMOKING_PACK_YEARS",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Subtype Group",
+        "description":  "Subtype Group",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "SUBTYPE_GROUP",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Standardized uptake values ",
+        "description":  "Standardized uptake values ",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "SUV",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "Tumor Mutation Burden",
+        "description":  "Total number of mutations divided by the length of the total genomic target region captured (mutations/Mbs)",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "TMB",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "displayName":  "TMB (nonsynonymous)",
+        "description":  "TMB (nonsynonymous)",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "TMB_NONSYNONYMOUS",
+        "studyId":  "luad_mskcc_2020"
+    }
+]

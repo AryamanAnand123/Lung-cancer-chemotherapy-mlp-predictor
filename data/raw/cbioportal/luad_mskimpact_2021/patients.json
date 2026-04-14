@@ -1,0 +1,467 @@
+﻿[
+    {
+        "uniquePatientKey":  "UC0wMDAwOTEzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0000913",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDAxNDQyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0001442",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDAxODE3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0001817",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDAyNzY4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0002768",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDAzNTUxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0003551",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA0NzM5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0004739",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA1MTE0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0005114",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA1NDY3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0005467",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA1ODEzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0005813",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA2NTYxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0006561",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA2OTk1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0006995",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA3Nzg4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0007788",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA4OTc4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0008978",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA5MzQ2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0009346",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA5NTM1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0009535",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDA5ODI0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0009824",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEwNTYzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0010563",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEwNjQwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0010640",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEyMDc2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0012076",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEyMDk4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0012098",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEyMzkzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0012393",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEzNDg0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0013484",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEzNTgyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0013582",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDEzNzE5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0013719",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE0NzY5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0014769",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE0ODg1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0014885",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE1MTI5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0015129",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE1MzYzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0015363",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE1OTIxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0015921",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE2MDU0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0016054",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE2MzUwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0016350",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE2NTQ5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0016549",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE2OTE3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0016917",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE3MTc0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0017174",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE3MzI2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0017326",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE3Mzg2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0017386",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE3NDc5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0017479",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE3NjI3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0017627",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE3ODE3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0017817",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE4NjQ1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0018645",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE5MzAzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0019303",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDE5NTUyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0019552",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIwMjM2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0020236",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIwMjkwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0020290",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIwODI1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0020825",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIxMjg1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0021285",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIxMjk1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0021295",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIyNDU4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0022458",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzMTU3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0023157",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzMjIxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0023221",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDIzMzEwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0023310",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0MDI1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0024025",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0MzE5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0024319",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0MzMzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0024333",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0NjcwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0024670",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI0Njc3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0024677",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1Njk5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0025699",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1OTMwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0025930",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI1OTc1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0025975",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2MDUwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0026050",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2MTM2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0026136",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2MzcxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0026371",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI2OTQyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0026942",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3MDg3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0027087",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3MzA5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0027309",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3MzUxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0027351",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3NDE5Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0027419",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3NjAwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0027600",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3NzYyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0027762",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI3ODI4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0027828",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI4MTk2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0028196",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI5MjI1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0029225",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDI5NTMyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0029532",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwNzA2Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0030706",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwNzk3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0030797",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMwOTk4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0030998",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxMDA1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0031005",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxMzA0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0031304",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxMzQwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0031340",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxNDEzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0031413",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMxOTExOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0031911",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyMjYxOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0032261",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyMzU4Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0032358",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMyODI3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0032827",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzMzE1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0033315",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzNzY0Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0033764",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDMzODE1Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0033815",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM0MDYyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0034062",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM0NTAyOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0034502",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM2OTE3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0036917",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDM3NDEzOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0037413",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQwNzMwOmx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0040730",
+        "studyId":  "luad_mskimpact_2021"
+    },
+    {
+        "uniquePatientKey":  "UC0wMDQ0MDE3Omx1YWRfbXNraW1wYWN0XzIwMjE",
+        "patientId":  "P-0044017",
+        "studyId":  "luad_mskimpact_2021"
+    }
+]

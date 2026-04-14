@@ -1,0 +1,7 @@
+﻿"studyId","status","clinicalRows","patientRows","sampleRows","molecularProfiles","mutationProfiles","error"
+"luad_tcga_pan_can_atlas_2018","ok","9826","580","566","13","1",""
+"lusc_tcga_pan_can_atlas_2018","ok","8707","504","487","13","1",""
+"nsclc_mskcc_2018","ok","900","75","75","1","1",""
+"nsclc_ctdx_msk_2022","ok","25803","1127","2621","4","1",""
+"luad_mskcc_2020","ok","7241","604","604","3","1",""
+"luad_mskimpact_2021","ok","4541","93","186","3","1",""

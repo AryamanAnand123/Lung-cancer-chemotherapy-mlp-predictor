@@ -1,0 +1,37 @@
+﻿{
+    "name":  "Lung Adenocarcinoma (MSK, J Thorac Oncol 2020)",
+    "description":  "Targeted sequencing of 604 lung adenocarcinoma tumor/normal pairs via MSK-IMPACT.",
+    "publicStudy":  true,
+    "pmid":  "32791233",
+    "citation":  "Caso et al. J Thorac Oncol 2020",
+    "groups":  "",
+    "status":  0,
+    "importDate":  "2026-01-07 16:02:21",
+    "allSampleCount":  1,
+    "sequencedSampleCount":  604,
+    "cnaSampleCount":  604,
+    "mrnaRnaSeqSampleCount":  0,
+    "mrnaRnaSeqV2SampleCount":  0,
+    "mrnaMicroarraySampleCount":  0,
+    "miRnaSampleCount":  0,
+    "methylationHm27SampleCount":  0,
+    "rppaSampleCount":  0,
+    "massSpectrometrySampleCount":  0,
+    "completeSampleCount":  0,
+    "readPermission":  true,
+    "treatmentCount":  0,
+    "structuralVariantCount":  105,
+    "resourceCounts":  [
+
+                       ],
+    "studyId":  "luad_mskcc_2020",
+    "cancerTypeId":  "luad",
+    "cancerType":  {
+                       "name":  "Lung Adenocarcinoma",
+                       "dedicatedColor":  "Gainsboro",
+                       "shortName":  "LUAD",
+                       "parent":  "nsclc",
+                       "cancerTypeId":  "luad"
+                   },
+    "referenceGenome":  "hg19"
+}

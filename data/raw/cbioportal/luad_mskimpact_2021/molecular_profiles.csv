@@ -1,0 +1,4 @@
+﻿"molecularAlterationType","datatype","name","description","showProfileInAnalysisTab","patientLevel","molecularProfileId","studyId"
+"COPY_NUMBER_ALTERATION","DISCRETE","Copy Number Alterations (MSK-IMPACT)","Copy number alterations from targeted sequencing via MK-IMPACT on Illumina HiSeq sequencers.","True","False","luad_mskimpact_2021_cna","luad_mskimpact_2021"
+"MUTATION_EXTENDED","MAF","Mutations (MSK-IMPACT)","Targeted sequencing of various tumor types via MSK-IMPACT on Illumina HiSeq sequencers.","True","False","luad_mskimpact_2021_mutations","luad_mskimpact_2021"
+"STRUCTURAL_VARIANT","SV","Structural variants","Structural Variant Data.","True","False","luad_mskimpact_2021_structural_variants","luad_mskimpact_2021"

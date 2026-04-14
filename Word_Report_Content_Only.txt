@@ -1,0 +1,745 @@
+INDEX
+
+1. Introduction
+1.1 Background
+1.2 Project Overview
+1.3 Motivation
+1.4 Problem Statement
+1.5 Objectives
+
+2. Literature Review
+2.1 Machine Learning for Lung Cancer Mortality and Survival Prediction
+2.2 Machine Learning for Chemotherapy Response and Complication Prediction
+2.3 Explainability, Calibration, and Deployment in Clinical ML
+
+3. System Architecture and Methodology
+3.1 Overview
+3.2 Data Collection
+3.3 Data Preprocessing and Cleaning
+3.4 Feature Engineering
+3.5 Model Selection and Training
+3.6 Dual-Task Prediction Framework for Mortality and Response
+3.7 Visualization and Explainability Pipeline
+3.8 System Evaluation and Deployment
+
+4. System Requirements
+4.1 Software Requirements
+4.2 Hardware Requirements
+
+5. Preliminary Results
+5.1 Dataset Preparation
+5.2 Data Preprocessing Outcomes
+5.3 Baseline Model Performance
+5.4 Explainability and Calibration Outputs
+5.5 Challenges Encountered
+
+6. Expected Outcomes and Contributions
+6.1 Expected System Outcomes
+6.2 Research Contributions
+
+References
+
+
+LIST OF FIGURES
+
+Figure 3.1 End-to-End System Architecture for Dual-Task Prediction
+Figure 3.2 Data Harmonization and Preprocessing Workflow
+Figure 3.3 Model Training and Nested Cross-Validation Pipeline
+Figure 3.4 Deployment and Auto-Selection Workflow
+Figure 5.1 Mortality ROC Curve (LightGBM)
+Figure 5.2 Mortality Calibration Curve (LightGBM)
+Figure 5.3 Mortality SHAP Summary (LightGBM)
+Figure 5.4 Response ROC Curve (XGBoost)
+Figure 5.5 Response Calibration Curve (XGBoost)
+Figure 5.6 Response SHAP Summary (XGBoost)
+Figure 5.7 Mortality Probability Histogram (LightGBM)
+Figure 5.8 Response Probability Histogram (XGBoost)
+
+
+LIST OF TABLES
+
+Table 3.1 Integrated Data Sources and Record Counts
+Table 3.2 Core Feature Set Used in the Project
+Table 3.3 Task Definitions and Label Availability
+Table 3.4 Model Families and Roles
+Table 4.1 Software Requirements
+Table 4.2 Hardware Requirements
+Table 5.1 Mortality Task Performance Summary
+Table 5.2 Response Task Performance Summary
+Table 5.3 Threshold Optimization Summary
+Table 5.4 Artifact Availability Matrix
+Table 5.5 Challenges and Mitigation Strategies
+Table 6.1 Expected Outcomes and Measurable Indicators
+Table 6.2 Key Contributions of the Project
+
+
+CHAPTER 1
+INTRODUCTION
+
+1.1 Background
+Lung cancer remains one of the highest-burden malignancies worldwide in terms of both incidence and mortality. Although treatment options have improved in the last decade, chemotherapy continues to play a central role in patient management, particularly for populations where targeted molecular options are unavailable, unaffordable, or clinically unsuitable. In such settings, reliable outcome prediction can provide practical support for clinicians by helping identify high-risk cases earlier, prioritizing follow-up intensity, and improving communication of risk with patients and caregivers.
+
+Most real-world clinical pathways do not operate under ideal data conditions. Many hospitals and oncology centers, especially outside highly specialized institutions, do not maintain rich molecular panels, longitudinal symptom inventories, or deeply curated structured records. As a result, there is an operational gap between machine learning models that perform well in controlled publications and systems that can be deployed at scale in routine care environments.
+
+This project is positioned in that gap. It focuses on a practical design principle: maximize predictive utility and interpretability while relying on broadly available registry-compatible variables and strongly auditable workflows. Rather than optimizing only for one headline metric, the project emphasizes discrimination, calibration, threshold behavior, and deployment continuity.
+
+1.2 Project Overview
+The project implements a dual-task machine learning framework for chemotherapy-related outcome modeling in lung cancer:
+1) one-year mortality prediction, and
+2) treatment-response prediction.
+
+The modeling stack includes LightGBM, XGBoost, and TabNet. All model families are trained and compared using nested cross-validation, and all task-model runs generate a common reporting schema that includes fold metrics, outer means and standard deviations, confidence intervals, threshold optimization outputs, and visualization artifacts.
+
+The framework is not limited to experimentation. It includes a serving layer that reads report metadata and auto-selects the best available model per task. This creates traceability from training evidence to production behavior and reduces the risk of undocumented manual model switching.
+
+1.3 Motivation
+The project is motivated by four practical needs:
+
+First, reproducibility. Many studies present strong outcomes but do not provide report-level traceability that allows easy verification of claims.
+
+Second, public-data feasibility. A significant number of clinical models rely on institution-specific features that reduce transferability.
+
+Third, evaluation depth. AUC is necessary but not sufficient. Calibration and threshold behavior materially affect downstream usefulness.
+
+Fourth, deployment realism. Offline evaluation and deployment selection are often disconnected, creating governance ambiguity.
+
+This project addresses these needs by using a structured, artifact-backed pipeline where each numerical claim can be tied to generated files and each deployed model can be justified by report-ranked evidence.
+
+1.4 Problem Statement
+Current clinical machine learning pipelines for chemotherapy outcome prediction commonly face the following limitations:
+1) dependency on non-portable proprietary variables,
+2) insufficient transparency in model-selection process,
+3) limited calibration and uncertainty reporting,
+4) weak alignment between evaluation stage and deployment stage.
+
+The problem addressed in this work is: how to design a dual-task predictive system that remains technically robust, practically deployable, and evidence-traceable when operating with registry-compatible feature spaces and heterogeneous source integration.
+
+1.5 Objectives
+The core objectives are:
+1. Build an integrated dual-task architecture for mortality and response prediction.
+2. Compare LightGBM, XGBoost, and TabNet in a consistent validation regime.
+3. Evaluate performance using a broad metric set including AUC, F1, and Brier score.
+4. Quantify uncertainty using fold-based confidence intervals.
+5. Generate calibration, ROC, histogram, and SHAP artifacts.
+6. Implement report-driven best-model auto-selection for deployment.
+7. Produce a report structure suitable for academic review and reproducibility checks.
+
+
+CHAPTER 2
+LITERATURE REVIEW
+
+2.1 Machine Learning for Lung Cancer Mortality and Survival Prediction
+Recent literature has shown that machine learning can provide useful predictive signals for mortality and survival endpoints in lung cancer cohorts. Survival-centric studies often report C-index and time-dependent AUC values, while classification-oriented studies use binary horizon definitions such as one-year mortality labels. Both paradigms can be informative, but differences in endpoint definition complicate direct comparison.
+
+A recurring concern in this literature is model-selection strategy. Some studies construct large candidate grids and select best-performing configurations using fixed test partitions, which may unintentionally introduce optimistic bias if not strictly isolated. This challenge is especially relevant when cohort sizes are modest and feature spaces are large.
+
+Another challenge is feature portability. Many mortality pipelines incorporate detailed laboratory biomarkers, immunohistochemical markers, and patient-reported symptom trajectories. These features can improve performance but reduce deployment feasibility for institutions without the same data collection ecosystem.
+
+Registry-based and mixed-source approaches have attempted to improve portability by emphasizing demographic and tumor-staging variables that are more consistently available. Such approaches typically trade feature richness for broader applicability, making robust validation and calibration reporting even more important.
+
+2.2 Machine Learning for Chemotherapy Response and Complication Prediction
+Response prediction and post-chemotherapy complication modeling have seen increasing use of classical ML models such as logistic regression, random forests, and gradient boosting. Results in this area are often strong when endpoint definitions are narrow and data quality is controlled, but variability rises when sample sizes are small or labels are heterogeneous.
+
+A key issue in response literature is endpoint mismatch across studies. Some works predict treatment response classes, others predict chemotherapy-related infection risk, and others combine symptom burden with survival progression. Although these studies are related clinically, they are not directly equivalent statistically.
+
+Class imbalance is another common challenge. Minority-class handling strategies (for example, resampling methods) can improve sensitivity but may distort calibration if not followed by strong reliability analysis. As a result, response-focused pipelines benefit from reporting both discrimination and calibration metrics, plus threshold sensitivity.
+
+Advanced methods using molecular dynamics or mutation-specific pathways can produce very high performance in targeted cohorts, but those settings are often biologically narrow and difficult to generalize to broad mixed-population clinical workflows. This project therefore positions itself as a broad, practical dual-task system rather than a mutation-specific specialist model.
+
+2.3 Explainability, Calibration, and Deployment in Clinical ML
+The clinical ML field increasingly recognizes that useful models must satisfy more than a high AUC. Calibration quality affects whether output probabilities can be used for triage and risk communication. Threshold analysis affects operational decisions such as high-risk referral sensitivity. Explainability affects clinician trust, model auditability, and downstream acceptance.
+
+SHAP has become one of the most widely adopted explanation frameworks for tabular tree models because it provides additive attribution with interpretable directionality and magnitude. While explanation does not prove causality, it helps assess whether model behavior is coherent with clinical intuition and data structure.
+
+Deployment governance is another critical dimension. In many projects, the model selected in paper results differs from what is eventually served in production scripts, creating undocumented divergence. A report-driven selection policy can reduce this risk by formalizing deployment choices from reproducible evidence.
+
+This project aligns with that modern perspective by integrating calibration, explainability, and deployment logic as mandatory outputs rather than optional post-hoc additions.
+
+
+CHAPTER 3
+SYSTEM ARCHITECTURE AND METHODOLOGY
+
+3.1 Overview
+The proposed architecture consists of seven connected layers:
+1. Multi-source data ingestion
+2. Harmonization and quality checks
+3. Task-specific feature preparation
+4. Multi-family model training
+5. Validation and uncertainty estimation
+6. Visualization and explainability generation
+7. Report-aware deployment selection
+
+This layering supports modularity and traceability. Each layer writes outputs that can be validated independently, and downstream decisions are derived from explicit generated artifacts.
+
+[INSERT Figure 3.1 HERE]
+Caption: End-to-End System Architecture for Dual-Task Prediction
+Figure insertion instruction:
+- Preferred source: a custom diagram created in draw.io/PowerPoint/Word SmartArt
+- Export as PNG at 400 DPI or above
+- Recommended width in Word: 15 to 16 cm
+- Place immediately after first paragraph of Section 3.1
+
+3.2 Data Collection
+The integrated data environment includes three sources:
+- SEER: 580,328 records
+- cBioPortal: 3,754 records
+- GDC: 1,066 records
+Total harmonized records: 585,148
+
+Label availability in current project state:
+- Mortality-labeled records: 552,781
+- Response-labeled records: 901
+
+The large mortality subset provides stable comparative conditions for tree ensembles, while the smaller response subset introduces higher statistical variability that must be handled with careful validation and uncertainty reporting.
+
+Table 3.1 Integrated Data Sources and Record Counts
+
+| Source     | Number of Records |
+|------------|-------------------|
+| SEER       | 580,328           |
+| cBioPortal | 3,754             |
+| GDC        | 1,066             |
+| Total      | 585,148           |
+
+Table insertion instruction:
+- Use a native Word table (2 columns x 5 rows)
+- Caption above table: "Table 3.1 Integrated Data Sources and Record Counts"
+- Keep header row bold
+
+3.3 Data Preprocessing and Cleaning
+Preprocessing pipeline stages:
+1) schema alignment across sources,
+2) field normalization and type conversion,
+3) missing value handling and sparse-column management,
+4) label filtering and task partitioning,
+5) consistency checks before model training.
+
+For the reported run, mortality training used a 150,000-row cap to balance performance with computational practicality. Response modeling used all 901 labeled rows.
+
+Data cleaning goals were not limited to technical validity. A major focus was report consistency: each task-model run had to produce metrics and artifacts in a common schema so that later comparison and deployment ranking remained deterministic.
+
+[INSERT Figure 3.2 HERE]
+Caption: Data Harmonization and Preprocessing Workflow
+Figure insertion instruction:
+- Create flow diagram with boxes: Ingest -> Harmonize -> Clean -> Task Split -> Feature Prune -> Train Matrices
+- Export at 400 DPI
+- Place at end of Section 3.3
+
+3.4 Feature Engineering
+Feature engineering focused on public-data-compatible variables:
+- demographics,
+- histologic profile,
+- staging and tumor burden indicators,
+- metastasis flags,
+- treatment coding features.
+
+Task-specific pruning was applied to avoid unstable predictors where coverage was insufficient in a given endpoint subset. This reduced noise and improved model comparability.
+
+Table 3.2 Core Feature Set Used in the Project
+
+| Feature Group  | Example Variables                                |
+|----------------|---------------------------------------------------|
+| Demographics   | Age, Sex, Race, Marital Status                    |
+| Tumor Profile  | Histologic Type, Grade, Tumor Size                |
+| Staging        | T/N/M stage recodes                               |
+| Disease Extent | Metastasis-at-diagnosis indicators                |
+| Treatment      | Chemotherapy recode                               |
+
+Table insertion instruction:
+- Use 2-column table
+- Keep text left aligned
+- Avoid screenshots; do not convert to image
+
+3.5 Model Selection and Training
+Three model families were selected for complementary reasons:
+- LightGBM: efficient tree boosting with strong tabular performance
+- XGBoost: robust regularized boosting baseline
+- TabNet: deep tabular attention architecture for comparative neural baseline
+
+Validation protocol:
+- Nested cross-validation with 3 outer folds
+- Inner loop for hyperparameter search/selection
+- Outer loop for unbiased performance estimation
+
+Evaluation outputs include accuracy, balanced accuracy, precision, recall, F1, AUC, and Brier score at fold level and aggregate level.
+
+Equation (3.1)
+CI95 = AUC_mean +/- 1.96 x (AUC_std / sqrt(K)), with K = 3.
+
+Equation insertion instruction:
+- Use Word Equation Editor
+- Number as (3.1)
+- Reference it in text as "Equation (3.1)"
+
+[INSERT Figure 3.3 HERE]
+Caption: Model Training and Nested Cross-Validation Pipeline
+Figure insertion instruction:
+- Diagram blocks: Feature Matrix -> Inner Tuning -> Outer Fold Eval -> Metrics -> CI/Threshold -> Reports
+- Place after Equation (3.1) discussion
+
+3.6 Dual-Task Prediction Framework for Mortality and Response
+The framework supports two separate but structurally aligned tasks:
+Task A (Mortality): binary one-year mortality risk
+Task B (Response): binary treatment response
+
+Key differences by task:
+- data volume,
+- class distribution,
+- feature-pruning rules,
+- final deployed model choice.
+
+Table 3.3 Task Definitions and Label Availability
+
+| Task      | Label Type                       | Labeled Records |
+|-----------|----------------------------------|-----------------|
+| Mortality | Binary (1-year all-cause label)  | 552,781         |
+| Response  | Binary (treatment response)      | 901             |
+
+3.7 Visualization and Explainability Pipeline
+For each task-model run, the artifact writer produces:
+- ROC curve
+- calibration curve
+- probability histogram
+- SHAP summary (tree models)
+
+These outputs are linked in report JSON files. This design ensures that manuscript/report claims can be checked against generated artifacts rather than manually copied logs.
+
+3.8 System Evaluation and Deployment
+Deployment logic reads available model reports, ranks candidates per task, and selects the highest-ranked model under current evidence. This avoids ambiguity in train-to-serve transitions.
+
+Current selected deployment status:
+- Mortality: LightGBM
+- Response: XGBoost
+
+[INSERT Figure 3.4 HERE]
+Caption: Deployment and Auto-Selection Workflow
+Figure insertion instruction:
+- Diagram blocks: Load Reports -> Rank Candidates -> Select Best -> Load Threshold -> Serve Predictions
+
+
+CHAPTER 4
+SYSTEM REQUIREMENTS
+
+4.1 Software Requirements
+The project requires a standard Python-based ML toolchain and a lightweight web serving layer. The software stack was selected for reproducibility, broad compatibility, and straightforward deployment.
+
+Table 4.1 Software Requirements
+
+| Component         | Requirement                              |
+|------------------|-------------------------------------------|
+| Operating System | Windows 10/11                             |
+| Language         | Python 3.x                                |
+| ML Libraries     | LightGBM, XGBoost, TabNet-compatible libs |
+| Data Stack       | pandas, numpy, scikit-learn               |
+| Explainability   | SHAP                                      |
+| Visualization    | matplotlib, seaborn                        |
+| Serving          | Flask                                     |
+| Documentation    | MS Word                                   |
+
+4.2 Hardware Requirements
+The workload is CPU-friendly for tree models. A GPU is optional and may help only if deeper neural experimentation is expanded.
+
+Table 4.2 Hardware Requirements
+
+| Resource | Minimum           | Recommended          |
+|----------|-------------------|----------------------|
+| CPU      | Quad-core         | 8+ cores             |
+| RAM      | 8 GB              | 16+ GB               |
+| Storage  | 20 GB free        | 50+ GB SSD free      |
+| GPU      | Optional          | Optional             |
+
+
+CHAPTER 5
+PRELIMINARY RESULTS
+
+5.1 Dataset Preparation
+The harmonized pipeline produced a large integrated base and valid endpoint-specific subsets:
+- total records: 585,148
+- mortality-labeled: 552,781
+- response-labeled: 901
+
+This setup enabled stable mortality benchmarking and meaningful response modeling with explicit uncertainty treatment.
+
+5.2 Data Preprocessing Outcomes
+All six task-model runs completed with valid metrics and artifacts. The standardized report schema captured:
+- fold-level metrics,
+- outer means and standard deviations,
+- AUC confidence intervals,
+- calibration summaries,
+- best-threshold snapshots,
+- artifact paths.
+
+No structural report omissions were observed for core evaluation outputs.
+
+5.3 Baseline Model Performance
+
+Table 5.1 Mortality Task Performance Summary
+
+| Model    | AUC    | Brier  | F1     | Best Threshold |
+|----------|--------|--------|--------|----------------|
+| LightGBM | 0.8115 | 0.1740 | 0.7758 | 0.38           |
+| XGBoost  | 0.8105 | 0.1744 | 0.7765 | 0.41           |
+| TabNet   | 0.7921 | 0.1925 | 0.7141 | 0.34           |
+
+Table 5.2 Response Task Performance Summary
+
+| Model    | AUC    | Brier  | F1     | Best Threshold |
+|----------|--------|--------|--------|----------------|
+| XGBoost  | 0.9004 | 0.1083 | 0.9021 | 0.51           |
+| LightGBM | 0.8943 | 0.1153 | 0.8949 | 0.58           |
+| TabNet   | 0.7306 | 0.3264 | 0.4990 | 0.20           |
+
+Interpretation:
+For mortality, LightGBM and XGBoost were near-tied in AUC, with LightGBM marginally stronger by discrimination and Brier. For response, XGBoost led both AUC and Brier. TabNet underperformed notably on response with high instability.
+
+[INSERT Figure 5.1 HERE]
+Caption: Mortality ROC Curve (LightGBM)
+File: data/reports/mortality_lightgbm_roc_curve.png
+
+[INSERT Figure 5.2 HERE]
+Caption: Mortality Calibration Curve (LightGBM)
+File: data/reports/mortality_lightgbm_calibration_curve.png
+
+[INSERT Figure 5.4 HERE]
+Caption: Response ROC Curve (XGBoost)
+File: data/reports/response_xgboost_roc_curve.png
+
+[INSERT Figure 5.5 HERE]
+Caption: Response Calibration Curve (XGBoost)
+File: data/reports/response_xgboost_calibration_curve.png
+
+5.4 Explainability and Calibration Outputs
+Tree-model SHAP summaries were available for LightGBM and XGBoost in both tasks. Calibration curves and probability histograms were available for all models.
+
+[INSERT Figure 5.3 HERE]
+Caption: Mortality SHAP Summary (LightGBM)
+File: data/reports/mortality_lightgbm_shap_summary.png
+
+[INSERT Figure 5.6 HERE]
+Caption: Response SHAP Summary (XGBoost)
+File: data/reports/response_xgboost_shap_summary.png
+
+[INSERT Figure 5.7 HERE]
+Caption: Mortality Probability Histogram (LightGBM)
+File: data/reports/mortality_lightgbm_probability_hist.png
+
+[INSERT Figure 5.8 HERE]
+Caption: Response Probability Histogram (XGBoost)
+File: data/reports/response_xgboost_probability_hist.png
+
+Table 5.3 Threshold Optimization Summary
+
+| Task      | Model    | Default F1 | Optimized Threshold | Optimized F1 |
+|-----------|----------|------------|---------------------|--------------|
+| Mortality | LightGBM | 0.7750     | 0.38                | 0.7902       |
+| Response  | XGBoost  | 0.9150     | 0.51                | 0.9187       |
+
+Table 5.4 Artifact Availability Matrix
+
+| Task-Model          | ROC | Calibration | Histogram | SHAP |
+|---------------------|-----|-------------|-----------|------|
+| Mortality-LightGBM  | Yes | Yes         | Yes       | Yes  |
+| Mortality-XGBoost   | Yes | Yes         | Yes       | Yes  |
+| Mortality-TabNet    | Yes | Yes         | Yes       | No   |
+| Response-LightGBM   | Yes | Yes         | Yes       | Yes  |
+| Response-XGBoost    | Yes | Yes         | Yes       | Yes  |
+| Response-TabNet     | Yes | Yes         | Yes       | No   |
+
+5.5 Challenges Encountered
+
+Table 5.5 Challenges and Mitigation Strategies
+
+| Challenge                   | Impact                  | Mitigation                                  |
+|----------------------------|-------------------------|---------------------------------------------|
+| Small response cohort      | Higher variance         | Nested CV + CI + threshold analysis         |
+| Source heterogeneity       | Integration complexity  | Harmonized schema and preprocessing checks  |
+| Model stability differences| Inconsistent behavior   | Multi-model benchmarking                    |
+| Explainability parity      | Uneven outputs          | SHAP for tree models + documented limits    |
+| Train-serve mismatch risk  | Deployment ambiguity    | Report-driven auto-selection                |
+
+Extended discussion:
+The response task presented the most important stability challenge due to limited sample size. This influenced fold-level variance and made robust uncertainty reporting necessary. Another challenge was balancing explainability consistency across model families. Tree models supported SHAP naturally, while TabNet explainability was limited in the current setup. Deployment consistency was addressed by forcing model selection to be report-ranked rather than manually configured.
+
+
+CHAPTER 6
+EXPECTED OUTCOMES AND CONTRIBUTIONS
+
+6.1 Expected System Outcomes
+The expected outcomes are:
+1) reproducible dual-task prediction pipeline,
+2) calibration-aware and threshold-aware evaluation culture,
+3) explainability artifacts for model interpretation,
+4) deployment process tied to generated evidence.
+
+Table 6.1 Expected Outcomes and Measurable Indicators
+
+| Expected Outcome              | Indicator                                |
+|------------------------------|------------------------------------------|
+| Reliable mortality prediction| Stable AUC/Brier across folds            |
+| Reliable response prediction | High AUC with uncertainty disclosure     |
+| Transparent predictions      | SHAP + ROC + calibration diagnostics     |
+| Operational deployment       | Auto-selection from report metadata      |
+
+6.2 Research Contributions
+This project contributes in five dimensions:
+
+Architecture contribution:
+A unified framework supporting two clinically relevant endpoints under one reproducible pipeline.
+
+Modeling contribution:
+Systematic comparison of LightGBM, XGBoost, and TabNet under identical evaluation protocols.
+
+Evaluation contribution:
+Use of discrimination, calibration, uncertainty, and threshold reporting rather than single-metric selection.
+
+Deployment contribution:
+Report-driven best-model selection that improves train-to-serve alignment.
+
+Reproducibility contribution:
+Artifact-backed outputs that support auditing and manuscript/report consistency.
+
+Table 6.2 Key Contributions of the Project
+
+| Contribution Area | Contribution                                      |
+|-------------------|---------------------------------------------------|
+| Architecture      | Dual-task pipeline                                |
+| Modeling          | LightGBM/XGBoost/TabNet benchmark                 |
+| Evaluation        | Nested CV + CI + calibration + threshold analysis |
+| Explainability    | SHAP integration for tree models                  |
+| Deployment        | Report-ranked auto-selection                      |
+| Reproducibility   | Auditable artifact-first workflow                 |
+
+
+REFERENCES (IEEE STYLE)
+
+[1] F. Bray et al., "Global cancer statistics 2022...," CA Cancer J Clin, 2024.
+[2] J. Zou et al., "A machine learning approach to predicting mortality risk...," JMIR Med Inform, 2025.
+[3] T. Sun et al., "Construction of a risk prediction model for lung infection...," Front Oncol, 2024.
+[4] R. Qureshi et al., "Machine learning based personalized drug response prediction...," Sci Rep, 2022.
+[5] Y. Li et al., "Machine learning for lung cancer diagnosis, treatment, and prognosis," GPB, 2022.
+[6] T. Chen and C. Guestrin, "XGBoost...," KDD, 2016.
+[7] G. Ke et al., "LightGBM...," NeurIPS, 2017.
+[8] S. O. Arik and T. Pfister, "TabNet...," AAAI, 2021.
+[9] S. M. Lundberg and S.-I. Lee, "A unified approach to interpreting model predictions," NeurIPS, 2017.
+[10] G. W. Brier, "Verification of forecasts expressed in terms of probability," Monthly Weather Review, 1950.
+
+
+APPENDIX: FIGURE AND TABLE PLACEMENT QUICK MAP
+
+Figure 3.1 -> Section 3.1 end
+Figure 3.2 -> Section 3.3 end
+Figure 3.3 -> Section 3.5 end
+Figure 3.4 -> Section 3.8 end
+Figure 5.1, 5.2 -> Immediately after Table 5.1
+Figure 5.4, 5.5 -> Immediately after Table 5.2
+Figure 5.3, 5.6 -> Within Section 5.4 discussion
+Figure 5.7, 5.8 -> End of Section 5.4
+
+Table 3.1 -> Section 3.2
+Table 3.2 -> Section 3.4
+Table 3.3 -> Section 3.6
+Table 3.4 -> Section 3.5 (optional add-on table)
+Table 4.1, 4.2 -> Chapter 4
+Table 5.1 to 5.5 -> Chapter 5 in sequence
+Table 6.1, 6.2 -> Chapter 6
+
+END OF LONG-FORM CONTENT
+
+
+SUPPLEMENTARY EXPANDED CHAPTER CONTENT FOR 20-PAGE TARGET
+
+Use this supplementary content directly under the corresponding chapter headings to increase depth, critical discussion quality, and total report length.
+
+
+CHAPTER 1 EXPANDED DISCUSSION (ADD AFTER SECTION 1.5)
+
+Clinical decision-making in oncology is fundamentally probabilistic. Even when treatment protocols are standardized, patient-level outcomes vary due to age-related physiological reserve, tumor heterogeneity, disease spread, treatment adherence, and interaction effects that are difficult to represent in deterministic rules. Predictive analytics therefore serves as a decision-support layer rather than a replacement for clinician judgment. The practical value of prediction lies in stratification: identifying who is likely to require closer monitoring, earlier intervention, or intensified supportive care.
+
+In routine care workflows, however, advanced AI systems fail not because algorithms are weak, but because data pipelines are not portable. A model that depends on institution-specific variables can perform very well where it is developed and fail when moved. This project deliberately takes a portability-first position by emphasizing variables that are commonly available in registry-style datasets. Such a strategy may not always produce absolute best-case experimental performance, but it produces systems that are easier to reproduce, audit, and adapt.
+
+Another practical issue is communication of risk. Clinical users often ask, "How much confidence should we place in this probability?" AUC alone cannot answer this. Two models can share similar AUC and still differ in probability reliability and threshold utility. This is why the project includes calibration curves and Brier scores alongside discrimination metrics. In high-stakes domains, this multidimensional reporting is not optional; it is central to responsible deployment.
+
+The project also addresses process continuity. In many academic pipelines, the model used in final deployment is selected manually from experiment logs and may not match manuscript claims exactly. This creates governance risk. The report-driven model selection logic in this work reduces ambiguity by making deployment follow ranked evidence from generated reports. The same artifacts that justify claims in Chapter 5 also determine operational model choice.
+
+
+CHAPTER 2 EXPANDED CRITICAL REVIEW (ADD AFTER SECTION 2.3)
+
+Methodological heterogeneity is a key reason why literature comparison in clinical ML is difficult. Papers differ in endpoint definition, cohort construction windows, exclusion criteria, censoring strategy, and missing-data treatment. For example, one-year mortality may be measured from diagnosis date, treatment initiation date, or first chemotherapy cycle date. Each design creates a different statistical problem. Therefore, when comparing reported AUC values across studies, endpoint alignment must be considered before claiming superiority.
+
+Validation strategy is another major differentiator. A simple train-test split can produce inflated optimism in small or moderately sized cohorts. Nested cross-validation, while computationally more expensive, better separates model selection from final evaluation. This project uses nested CV not as a formal requirement but as a practical safeguard against accidental overfitting to a fixed partition.
+
+Literature also shows a transition from pure discrimination reporting toward decision-aware modeling. Models that publish only AUC provide incomplete operational guidance because hospitals need threshold-level behavior. For instance, if sensitivity must be prioritized for high-risk referral pathways, threshold selection must be explicit and evidence-backed. This project includes threshold optimization outputs and documents best-threshold estimates per model-task combination.
+
+Explainability literature highlights a persistent misconception: feature importance is often interpreted causally when it is only associational. The current project avoids causal claims. SHAP outputs are used to interpret model reliance patterns and check coherence with clinical expectations, not to infer biological mechanisms. This distinction is important for ethical reporting and for avoiding overstatement.
+
+Finally, deployment studies emphasize maintenance. Predictive quality can drift due to data distribution changes, coding policy updates, and treatment-practice shifts. Although full drift-monitoring automation is outside the current scope, the artifact-first reporting design is compatible with periodic re-evaluation and model refresh cycles. This creates a practical pathway for future extension into post-deployment monitoring.
+
+
+CHAPTER 3 IMPLEMENTATION DETAIL (ADD AFTER SECTION 3.8)
+
+3.9 Data Harmonization Policy
+Data harmonization was implemented to resolve schema variation across sources while preserving clinically meaningful fields. The harmonization policy had three priorities:
+1) map equivalent semantics to common field names,
+2) standardize encoding ranges and categories,
+3) isolate source-specific fields that do not transfer cleanly.
+
+Where multiple coding systems described the same concept, a canonical representation was selected and source-specific variants were transformed into that representation. This reduced feature ambiguity and simplified downstream model interpretation.
+
+3.10 Missing Data Strategy
+Missingness was handled in a task-aware manner rather than a single global rule. Features with extreme sparsity were either excluded or carefully imputed depending on endpoint relevance and available coverage. For tree models, structured missingness can sometimes be learned implicitly, but uncontrolled sparse features still increase variance and reduce interpretability. Therefore, sparse-field pruning was used to improve stability in both tasks.
+
+3.11 Label Construction and Integrity Checks
+Label integrity checks were included to avoid leakage and inconsistent endpoint assignment. For each task, records were filtered to ensure valid label presence and minimal contradictions. This step is critical because label noise can create unstable fold behavior and misleading confidence intervals.
+
+3.12 Modeling Rationale by Family
+LightGBM and XGBoost were selected as high-performance, interpretable tabular baselines with mature ecosystems and strong practical deployment history. TabNet was included to represent neural tabular modeling and assess whether deep attention mechanisms provide additive benefit in this setting.
+
+The comparative framework intentionally keeps evaluation symmetric across model families. This is essential for fair ranking and for avoiding metric inflation due to asymmetric tuning depth.
+
+3.13 Nested CV Configuration Notes
+The outer-fold estimates were treated as the primary source for performance claims. Inner-loop optimization was used only for hyperparameter selection. This separation protects against optimistic leakage from tuning to final reporting.
+
+3.14 Confidence Intervals and Stability Interpretation
+Fold-based confidence intervals were calculated for AUC to express sampling variability in observed performance. While confidence intervals from few outer folds are still approximate, they provide a better uncertainty narrative than point estimates alone.
+
+3.15 Threshold Optimization Procedure
+Threshold optimization was carried out using task-specific objective behavior with emphasis on F1 balance. In practical deployments, threshold can be adjusted based on institutional policy priorities, for example prioritizing sensitivity for aggressive early escalation strategies.
+
+3.16 Artifact Governance Design
+Each run writes machine-readable reports and corresponding images into the reporting directory. The governance value of this design is that all major claims can be traced to files generated in the same execution flow. This reduces manual transcription error and strengthens reproducibility.
+
+Table 3.4 Model Families and Roles
+
+| Model Family | Primary Role in Study                     | Key Strength                         | Key Limitation in Current Setup |
+|--------------|--------------------------------------------|--------------------------------------|----------------------------------|
+| LightGBM     | Core tree-boost baseline                   | Strong tabular accuracy and speed    | Requires careful parameter tuning|
+| XGBoost      | Robust tree-boost comparator               | High generalization in many datasets | Slightly slower in some settings |
+| TabNet       | Neural tabular comparator                  | Learns non-linear feature interactions| Lower stability on small response set |
+
+Insertion instruction:
+- Place Table 3.4 at the end of Section 3.12 or immediately after Section 3.16.
+
+
+CHAPTER 4 EXPANDED SYSTEM REQUIREMENTS DISCUSSION (ADD AFTER SECTION 4.2)
+
+The software requirements are intentionally conventional to maximize reproducibility in academic environments. Python was selected due to library maturity, straightforward experiment scripting, and broad compatibility with machine learning and visualization tools. The serving layer uses Flask because it is lightweight and sufficient for proof-of-concept deployment scenarios.
+
+Version consistency should be maintained across key libraries to avoid incompatibility in model loading, serialization formats, and plotting behavior. For final submission, include an environment snapshot (for example, package versions list) in an appendix or supplementary file.
+
+Hardware requirements are moderate. Tree-based methods in this project are CPU-efficient for the selected data scale, especially when task caps are used for training balance. A GPU is optional and mainly useful for expanded neural experimentation. SSD storage is recommended to reduce report and artifact I/O latency during repeated experiments.
+
+Operationally, the most important requirement is not raw hardware power but workflow discipline: deterministic folder structure, predictable report naming, and consistent script execution order. These factors materially improve reproducibility and debugging efficiency.
+
+
+CHAPTER 5 EXTENDED ANALYSIS (ADD AFTER SECTION 5.5)
+
+5.6 Comparative Interpretation of Mortality Results
+The mortality task demonstrates a close competition between LightGBM and XGBoost. LightGBM slightly leads in AUC and Brier score, while F1 values are similar. This indicates that both models classify effectively, but LightGBM probabilities are marginally more reliable under Brier evaluation in the current run.
+
+TabNet trails both tree models in mortality performance. This result is not unexpected in many tabular clinical datasets where gradient-boosted trees often provide stronger baseline reliability unless deep models are heavily tuned with larger feature spaces and larger data consistency.
+
+5.7 Comparative Interpretation of Response Results
+For response prediction, XGBoost clearly leads with the highest AUC and lowest Brier among tested models. LightGBM performs closely behind, suggesting that both tree ensembles capture useful predictive signal. TabNet performance on response is substantially weaker and less stable, likely due to limited sample size and endpoint complexity.
+
+This finding supports a practical recommendation: for low-to-moderate sample tabular response tasks, tree boosting remains the preferred default unless strong justification exists for deep neural tabular alternatives.
+
+5.8 Threshold and Decision-Policy Perspective
+Default thresholds are often misaligned with operational goals. Optimized thresholds in this study provided measurable F1 improvements. In real clinical settings, threshold policy should be aligned to service objectives:
+- sensitivity-prioritized threshold for early high-risk identification,
+- precision-prioritized threshold for constrained intervention resources,
+- balanced threshold when both false positives and false negatives carry substantial costs.
+
+Because this project reports optimized thresholds and associated performance, institutions can adapt threshold policy without retraining the model.
+
+5.9 Calibration Perspective
+Calibration curves indicate how close predicted probabilities are to observed frequencies. Even when AUC is high, poor calibration can limit probability-driven decision support. The availability of calibration artifacts for all runs is therefore critical. It allows users to decide whether direct probabilities are trustworthy or whether post-hoc calibration adjustments are needed in future work.
+
+5.10 Explainability Perspective
+SHAP summaries help identify dominant feature contributions and validate that model behavior aligns with known clinical directionality trends. Explanations should be interpreted as model-attribution evidence, not causal evidence. In this report, SHAP is used to increase transparency and support qualitative model review.
+
+5.11 Error and Risk Analysis
+Potential risk factors in the current results include:
+1) response-task sample limitations,
+2) source heterogeneity residual effects,
+3) endpoint-definition sensitivity,
+4) potential institution-specific drift in external deployment.
+
+These risks are mitigated in part by nested CV, confidence interval reporting, and artifact-backed diagnostics, but they are not fully eliminated. A responsible deployment strategy would include scheduled re-evaluation and periodic recalibration checks.
+
+5.12 Practical Deployment Readiness Summary
+From a practical standpoint, the project is deployment-ready for controlled pilot use:
+- clear model ranking,
+- documented thresholds,
+- traceable artifacts,
+- simple API serving flow.
+
+For institutional rollout, additional governance layers are recommended, including formal version control of model bundles, audit logs of prediction requests, and periodic performance monitoring.
+
+
+CHAPTER 6 EXPANDED CONTRIBUTION AND FUTURE SCOPE (ADD AFTER SECTION 6.2)
+
+6.3 Academic Contribution Strength
+The major academic value of this project is not only metric performance, but methodological completeness. The pipeline unifies data handling, model comparison, uncertainty reporting, calibration checks, explainability outputs, and deployment logic within one reproducible framework. This integrated approach is often missing in smaller proof-of-concept studies.
+
+6.4 Practical Contribution Strength
+The framework is practical for engineering teams because it uses common Python tools, straightforward file-based reports, and lightweight serving infrastructure. It does not depend on specialized hardware or proprietary data fields to produce meaningful results.
+
+6.5 Ethical and Responsible-AI Positioning
+Clinical AI systems must be transparent about limits. This project avoids causal overclaims, includes uncertainty signals, and documents explainability boundaries by model family. Such reporting supports safer interpretation and better stakeholder communication.
+
+6.6 Future Work Directions
+Recommended next-stage improvements include:
+1) external validation on independent cohorts,
+2) endpoint harmonization protocols across institutions,
+3) drift monitoring and recalibration routines,
+4) extension to time-to-event modeling,
+5) clinician-facing dashboard with confidence communication design.
+
+6.7 Project Conclusion
+The dual-task framework demonstrates that high-utility clinical prediction can be built with a portability-first philosophy and artifact-backed reproducibility. Tree boosting methods currently provide the strongest performance in this setup, with LightGBM preferred for mortality and XGBoost preferred for response. The inclusion of calibration, threshold optimization, and explainability creates a more deployment-relevant evidence package than single-metric reporting.
+
+
+WORD FORMATTING AND PAGE-LENGTH EXECUTION INSTRUCTIONS
+
+To reach 20+ pages reliably under your required formatting:
+1. Font: Times New Roman, size 12 for body text.
+2. Line spacing: 1.15.
+3. Margins: Left 1.5 inch, Right 1 inch, Top 1 inch, Bottom 1 inch.
+4. Chapter titles: 18 bold uppercase.
+5. Main headings: 16 bold.
+6. Sub-headings: 14 bold.
+7. Add page breaks before each chapter.
+8. Keep all 12 figures and 13 tables with captions.
+9. Place each figure/table exactly at indicated section endpoints.
+10. Use justification for all body paragraphs.
+
+Estimated page usage with this content and required formatting:
+- Chapters 1 to 2 text: approximately 5 to 6 pages
+- Chapter 3 text + 4 figures + 4 tables: approximately 6 to 7 pages
+- Chapter 4 text + 2 tables: approximately 2 pages
+- Chapter 5 text + 8 figures + 5 tables: approximately 6 to 7 pages
+- Chapter 6 + references: approximately 2 pages
+Total expected: approximately 21 to 24 pages depending on figure size.
+
+
+FINAL FIGURE INSERTION CHECKLIST (DO THIS IN ORDER)
+
+1. Insert all Chapter 3 figures first (3.1 to 3.4), medium-large width.
+2. Insert all Chapter 5 figures next in the order listed.
+3. Keep captions below figures in consistent style.
+4. Keep table captions above tables.
+5. After all insertions, update Table of Contents, List of Figures, and List of Tables.
+6. Ensure no figure appears before it is mentioned in text.
+7. Ensure chapter numbering remains continuous after insertions.
+
+
+FINAL TABLE INSERTION CHECKLIST (DO THIS IN ORDER)
+
+1. Create Table 3.1, 3.2, 3.3, 3.4 in Chapter 3.
+2. Create Table 4.1 and 4.2 in Chapter 4.
+3. Create Table 5.1 to 5.5 in Chapter 5.
+4. Create Table 6.1 and 6.2 in Chapter 6.
+5. Align all numeric cells center where appropriate.
+6. Keep same border style across all tables.
+
+END OF SUPPLEMENTARY EXPANDED CONTENT

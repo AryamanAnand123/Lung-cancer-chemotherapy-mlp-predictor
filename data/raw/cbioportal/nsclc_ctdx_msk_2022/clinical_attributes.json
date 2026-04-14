@@ -1,0 +1,290 @@
+﻿[
+    {
+        "displayName":  "Age at Which Sequencing was Reported (Years)",
+        "description":  "Age (in years) at which sequencing was reported",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "AGE_AT_SEQ_REPORTED_YEARS",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Patient Current Age",
+        "description":  "Patient Current Age",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "AGE_CURRENT",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Age Greater than Median",
+        "description":  "Age Greater than Median",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "AGE_GT_MEDIAN",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Cancer Type",
+        "description":  "Cancer Type",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "2",
+        "clinicalAttributeId":  "CANCER_TYPE",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Cancer Type Detailed",
+        "description":  "Cancer Type Detailed",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "2",
+        "clinicalAttributeId":  "CANCER_TYPE_DETAILED",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Ethnicity Category",
+        "description":  "The text for reporting information about ethnicity.",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "ETHNICITY",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Extrapulmonary",
+        "description":  "Extrapulmonary",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "2",
+        "clinicalAttributeId":  "EXTRAPULMONARY",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Fraction Genome Altered",
+        "description":  "Fraction Genome Altered",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "20",
+        "clinicalAttributeId":  "FRACTION_GENOME_ALTERED",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Gene Panel",
+        "description":  "Gene panel.",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "2",
+        "clinicalAttributeId":  "GENE_PANEL",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Histology",
+        "description":  "Histology",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "2",
+        "clinicalAttributeId":  "HISTOLOGY",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Metabolic Tumor Volume",
+        "description":  "Metabolic Tumor Volume",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "2",
+        "clinicalAttributeId":  "METABOLIC_TUMOR_VOL",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Metastatic Site",
+        "description":  "The anatomic location to which the cancer has spread.",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "METASTATIC_SITE",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "MSI Score",
+        "description":  "MSI Score",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "MSI_SCORE",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "MSI Type",
+        "description":  "MSI Type",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "MSI_TYPE",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Mutation Count",
+        "description":  "Mutation Count",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "30",
+        "clinicalAttributeId":  "MUTATION_COUNT",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Oncotree Code",
+        "description":  "Oncotree Code",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "2",
+        "clinicalAttributeId":  "ONCOTREE_CODE",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Overall Survival (Months)",
+        "description":  "Overall survival in months since time from diagnosis of stage IV or recurrent NSCLC.",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "OS_MONTHS",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Overall Survival Status",
+        "description":  "Overall patient survival status.",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "OS_STATUS",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Patient Display Name",
+        "description":  "Patient Display Name",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "2",
+        "clinicalAttributeId":  "PATIENT_DISPLAY_NAME",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Primary Tumor Site",
+        "description":  "Text term to describe the organ sub-division in an individual with cancer.",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "PRIMARY_SITE",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Prior Treatment",
+        "description":  "Prior Treatment",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "2",
+        "clinicalAttributeId":  "PRIOR_TREATMENT",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Race Category",
+        "description":  "The text for reporting information about race.",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "0",
+        "clinicalAttributeId":  "RACE",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Sample Class",
+        "description":  "The sample classification (i.e., tumor, cellline, xenograph).",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "2",
+        "clinicalAttributeId":  "SAMPLE_CLASS",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Number of Samples Per Patient",
+        "description":  "Number of Samples Per Patient",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "SAMPLE_COUNT",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Sample Type",
+        "description":  "The type of sample (i.e., normal, primary, met, recurrence).",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "2",
+        "clinicalAttributeId":  "SAMPLE_TYPE",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Sex",
+        "description":  "Sex",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "SEX",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Site",
+        "description":  "Site",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "2",
+        "clinicalAttributeId":  "SITE",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Smoking Status",
+        "description":  "Smoking Status",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "2",
+        "clinicalAttributeId":  "SMOKING_STATUS",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Stage at Draw",
+        "description":  "Stage at Draw",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "2",
+        "clinicalAttributeId":  "STAGE_AT_DRAW",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Successful ctDx Lung",
+        "description":  "Successful ctDx Lung",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "2",
+        "clinicalAttributeId":  "SUCCESSFUL_CTDX_LUNG",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "TMB (nonsynonymous)",
+        "description":  "TMB (nonsynonymous)",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "TMB_NONSYNONYMOUS",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "displayName":  "Tumor Purity",
+        "description":  "Tumor Purity",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "0",
+        "clinicalAttributeId":  "TUMOR_PURITY",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    }
+]

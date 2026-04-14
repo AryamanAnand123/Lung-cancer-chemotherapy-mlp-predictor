@@ -1,0 +1,101 @@
+\documentclass[journal]{IEEEtran}
+
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{array}
+\usepackage{url}
+
+\begin{document}
+
+\title{Verification Appendix: Claim-to-Source Mapping for Lung Cancer Tree-Stack Manuscripts}
+\author{Aryaman Anand}
+\maketitle
+
+\section{Purpose}
+This appendix provides traceability for key claims and numeric statements in:
+\begin{itemize}
+    \item \texttt{Research\_Paper\_Draft\_IEEE.tex} (journal manuscript)
+    \item \texttt{Research\_Paper\_Conference\_IEEE.tex} (conference manuscript)
+\end{itemize}
+
+No claim is marked as verified unless a concrete source is identified below.
+
+\section{Project Artifact Sources}
+\begin{itemize}
+    \item \texttt{data/reports/mortality\_lightgbm\_nested\_cv.json}
+    \item \texttt{data/reports/mortality\_xgboost\_nested\_cv.json}
+    \item \texttt{data/reports/mortality\_tabnet\_nested\_cv.json}
+    \item \texttt{data/reports/response\_lightgbm\_nested\_cv.json}
+    \item \texttt{data/reports/response\_xgboost\_nested\_cv.json}
+    \item \texttt{data/reports/response\_tabnet\_nested\_cv.json}
+    \item \texttt{data/reports/data\_readiness\_report.json}
+    \item \texttt{lungcancer/tree\_stack.py}
+    \item \texttt{lungcancer/service.py}
+\end{itemize}
+
+\section{Literature Sources Used}
+The following literature facts were sourced from user-provided summaries in chat, not independently fetched PDFs:
+\begin{itemize}
+    \item Zou et al. (JMIR Medical Informatics, 2025)
+    \item Sun et al. (Frontiers in Oncology, 2024)
+    \item Qureshi et al. (Scientific Reports, 2022)
+    \item Li et al. (Genomics, Proteomics \& Bioinformatics, 2022)
+\end{itemize}
+
+\section{Claim-to-Source Table}
+\renewcommand{\arraystretch}{1.08}
+\begin{longtable}{p{0.28\textwidth}p{0.43\textwidth}p{0.23\textwidth}}
+\toprule
+\textbf{Claim} & \textbf{Value/Statement} & \textbf{Source} \\
+\midrule
+\endfirsthead
+\toprule
+\textbf{Claim} & \textbf{Value/Statement} & \textbf{Source} \\
+\midrule
+\endhead
+
+Harmonized total rows & 585,148 & data\_readiness\_report.json \\
+Mortality-ready rows & 552,781 & data\_readiness\_report.json \\
+Response-ready rows & 901 & data\_readiness\_report.json \\
+Source composition & SEER 580,328; cBio 3,754; GDC 1,066 & data\_readiness\_report.json \\
+
+Mortality best model & LightGBM selected by AUC among 3 & mortality\_*.json \\
+Mortality LightGBM AUC & outer\_mean AUC = 0.8114982015 & mortality\_lightgbm\_nested\_cv.json \\
+Mortality LightGBM Brier & outer\_mean Brier = 0.1740118619 & mortality\_lightgbm\_nested\_cv.json \\
+Mortality XGBoost AUC & outer\_mean AUC = 0.8105127751 & mortality\_xgboost\_nested\_cv.json \\
+Mortality TabNet AUC & outer\_mean AUC = 0.7920986658 & mortality\_tabnet\_nested\_cv.json \\
+
+Response best model & XGBoost selected by AUC among 3 & response\_*.json \\
+Response XGBoost AUC & outer\_mean AUC = 0.9004346535 & response\_xgboost\_nested\_cv.json \\
+Response XGBoost Brier & outer\_mean Brier = 0.1082890504 & response\_xgboost\_nested\_cv.json \\
+Response LightGBM AUC & outer\_mean AUC = 0.8942783003 & response\_lightgbm\_nested\_cv.json \\
+Response TabNet AUC & outer\_mean AUC = 0.7305759076 & response\_tabnet\_nested\_cv.json \\
+
+AUC 95\% CI reporting & Present as \texttt{outer\_auc\_ci\_95} & all six nested\_cv reports \\
+Threshold optimization & Present as \texttt{best\_threshold} with metrics & all six nested\_cv reports \\
+Calibration metrics & Present with Brier and AUC & all six nested\_cv reports \\
+
+Visualization artifacts & calibration, roc, probability hist for all models/tasks & all six nested\_cv artifact blocks \\
+SHAP for tree models & SHAP artifacts for LightGBM/XGBoost; null for TabNet & nested\_cv artifact blocks \\
+
+Auto-selection mechanism & Service ranks algorithm reports and loads best available & lungcancer/service.py \\
+Training pipeline architecture & Nested CV + model-family branches + artifact writing & lungcancer/tree\_stack.py \\
+
+Zou et al. mortality benchmark & C-index 0.702; 1y AUC 0.740; 3y 0.777; 5y 0.915 & user-provided summary \\
+Sun et al. infection benchmark & LR test AUC 0.876; Brier 0.134 & user-provided summary \\
+Qureshi et al. response benchmark & XGBoost accuracy 97.5\% in 4-class setting & user-provided summary \\
+Li et al. review framing & ML landscape and modality integration challenges & user-provided summary \\
+
+\bottomrule
+\end{longtable}
+
+\section{Unverified or Deferred Items}
+\begin{itemize}
+    \item No external PDF parsing was performed in this pass; literature values are from user-provided summaries.
+    \item No new experiments were run during manuscript drafting; all project metrics come from existing report artifacts.
+\end{itemize}
+
+\section{Consistency Check Result}
+The journal and conference manuscripts were drafted from the same numerical evidence base (project report JSON files listed above). Core model-ranking and metric statements are consistent across both documents.
+
+\end{document}

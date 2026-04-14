@@ -1,0 +1,902 @@
+source,source_study,case_id,sample_id,age,sex,race_recode,marital_status,histology,cancer_stage,t_stage,n_stage,m_stage,performance_status,tumor_size_mm,mets_lung_dx,chemotherapy_cycles,radiation_recode,treatment_delay_days,egfr_mutation,mortality_1yr,response
+GDC,TCGA-LUSC,d5e94dcf-994f-48a0-b491-bbbf1c2a6783,,72.35592060232717,Male,,,Squamous,IB,,,,,,,0.0,,,,,1.0
+GDC,TCGA-LUSC,b09e872a-e837-49ec-8a27-84dcdcabf347,,80.61601642710473,Male,,,Not Reported,,,,,,,,1.0,,,,0.0,1.0
+GDC,TCGA-LUSC,399c936e-ba68-4040-98d4-917a87dad603,,79.77823408624229,Male,,,Squamous,IIB,,,,1.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,3b195845-0050-49cb-b639-1fe85a131ebe,,72.61601642710473,Male,,,Squamous,I,,,,,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUSC,f516991c-5139-4b3e-b605-5a3d90688209,,66.16563997262149,Male,,,Not Reported,,,,,,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUSC,613adbb3-c2d1-4992-9953-c4fadd249001,,,Male,,,Transitional cell carcinoma,,,,,0.0,,,1.0,,,,0.0,1.0
+GDC,TCGA-LUSC,1dba835e-cbe9-41e0-883d-50bf86bc7821,,79.04996577686516,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,a7cd7b0f-ab76-4f3f-a2d5-5ec04fe6c4f3,,77.68377823408625,Male,,,Squamous,IA,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,283af87a-f962-47ab-8a7b-4fcd7e45cdf6,,75.32922655715264,Male,,,Squamous,,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,dbece124-c042-4adc-8136-90e7940ee6ad,,68.56125941136209,Male,,,Squamous,IA,,,,0.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,acae4e48-57de-40c5-9ae5-4386144ebaea,,74.4996577686516,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,28f899c5-ea17-4df6-83e6-e744e04d0ea1,,60.98015058179329,Male,,,Squamous,IIIA,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,3351b902-9b7e-4b90-bf6b-bcf74be00bc1,,73.77960301163587,Male,,,Squamous,IB,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,b28e3be1-9843-4204-b999-b3e2a909c7bd,,67.5400410677618,Male,,,Squamous,IIA,,,,1.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,49f975ea-a1cf-4a9b-bf13-030c68cc99e4,,62.29705681040383,Male,,,Squamous,IIB,,,,1.0,,,0.0,,,,1.0,1.0
+GDC,TCGA-LUSC,7b982d5e-3a7d-40ac-bd25-6044c62879b6,,,Male,,,Squamous,,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,cee6e9f6-6d7e-4096-a9bc-2cce004fb218,,81.66187542778918,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,f3e67161-1532-4b50-a9b5-0da80410c4d7,,51.9917864476386,Male,,,Squamous,IA,,,,1.0,,,0.0,,,,0.0,0.0
+GDC,TCGA-LUSC,80aa8e99-41d5-422f-a1bb-69599aa8236f,,,Male,,,Squamous,,,,,,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUSC,0806923c-2dee-403d-a2e9-771722873b0d,,62.43668720054757,Male,,,Squamous,IIIA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,bd3bf142-7c14-4538-8a76-3c6e140fa01a,,69.49760438056126,Male,,,Not Reported,,,,,4.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,25f64b80-0672-4980-9875-956b1699309b,,62.64202600958248,Male,,,Squamous,IA,,,,1.0,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUSC,fd9ee494-65fe-4de4-adff-7952a059b17f,,62.42299794661191,Male,,,Squamous,IIB,,,,4.0,,,1.0,,,Exon19del,1.0,0.0
+GDC,TCGA-LUSC,99599b60-4f5c-456b-8755-371b1aa7074e,,81.66187542778918,Male,,,Squamous,IIB,,,,4.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,95b83006-02c9-4c4d-bf84-a45115f7d86d,,67.9917864476386,Male,,,Squamous,,,,,4.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,4e1ad82e-23c8-44bb-b74e-a3d0b1126b96,,,Male,,,Squamous,IIIA,,,,4.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,0398eae1-7216-4595-80a5-6b117d96e070,,75.86036960985626,Male,,,Squamous,IA,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,9ee64a87-7224-461c-94da-29710d73164f,,74.49691991786447,Male,,,Squamous,IB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,afedf3fb-fc77-45a7-bdcd-2c78706a0f8a,,,Male,,,Hairy cell leukemia,,,,,,,,0.0,,,,0.0,0.0
+GDC,TCGA-LUSC,f5ad138c-1714-41e9-9c2d-c88050bec407,,,Male,,,Not Reported,,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,513c5f34-dc6e-4caa-81cc-907fd6a825b1,,73.58247775496235,Male,,,Not Reported,,,,,0.0,,,1.0,,,,0.0,1.0
+GDC,TCGA-LUSC,ea741488-5475-4a3d-b9fe-81722f129974,,73.37987679671458,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,972476b7-d7f3-4865-b978-0c13f29457cb,,76.38877481177276,Male,,,Squamous,IB,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,aecf85cc-058c-46f3-9cdc-3573ac3b8438,,80.1697467488022,Male,,,Squamous,IA,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,3c112114-6a8b-4aea-9349-6dffbaad078d,,41.02395619438741,Male,,,Squamous,IIA,,,,,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUSC,0e515ab8-99f9-43d9-a621-8fe9ede828ec,,64.36960985626284,Male,,,Squamous,IIB,,,,0.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,0ab8d063-62b4-4d47-82aa-e3351a60029d,,77.7056810403833,Male,,,Not Reported,,,,,,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUSC,b4ff0f49-b787-48ec-91cc-ee26786ff1bf,,76.66255989048597,Male,,,Squamous,IB,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,ae2c650c-600b-4c58-893b-7fd73d44af47,,66.49144421629022,Male,,,Squamous,IIA,,,,0.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,6eb61cab-8e83-4c18-a59a-ae0985ec9d2e,,85.90006844626969,Male,,,Squamous,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,a6ec75d4-1c90-4527-bfae-aa91d2dae082,,82.24229979466119,Male,,,Squamous,,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,99daa971-31d0-4c37-9c12-b0dc42ddd19b,,70.89117043121149,Male,,,Squamous,IIA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,a33f0741-2161-4818-89f2-ec8ccae57949,,63.31279945242984,Male,,,Squamous,IIB,,,,4.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,3fdf941e-40ec-43b6-b6e3-31a0861bd5b8,,66.6776180698152,Male,,,Squamous,IA,,,,,,,1.0,,,Wild_type,,0.0
+GDC,TCGA-LUSC,37f5457e-21d9-4b79-95d5-ded6f2e43087,,,Male,,,Adenocarcinoma,,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,ffb83f21-06d9-4e52-a2d0-e85c13f4037f,,,Male,,,Not Reported,,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,6e6b8596-76aa-49f5-a997-46ebc0e43934,,,Male,,,Adenocarcinoma,,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,6ee6ca0a-8702-480d-b2d1-9224e7dd9211,,65.73305954825462,Male,,,Squamous,,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,1f11de87-a5fe-49fd-80c1-e279b2bc69de,,64.75290896646133,Male,,,Squamous,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,bcd78677-98d5-4403-8313-e1fbd76e8ef7,,,Male,,,Transitional cell carcinoma,,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,9335e4df-9974-47ec-84c4-256cd33522f2,,77.28131416837782,Male,,,Not Reported,,,,,3.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,257650bd-2e2b-4680-b77b-f9268b3af4ee,,83.39767282683094,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,2afa2fd8-e4d9-4e7b-b387-7e2451764d5d,,69.65092402464066,Male,,,Squamous,IIB,,,,4.0,,,0.0,,,,1.0,0.0
+GDC,TCGA-LUSC,705a4688-f10f-4e6a-aed9-6efc3b3b9989,,66.17111567419576,Male,,,Squamous,IIB,,,,0.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,ffb53b81-c1ed-473c-bdcd-b325b02e22ae,,56.18069815195072,Male,,,Squamous,,,,,1.0,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUSC,d8d53df1-42d6-4d8b-ac4c-6f3993ac247d,,61.880903490759756,Male,,,Squamous,,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,3edf933a-be1a-46e8-bfb0-acdff30e64a0,,58.510609171800134,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,7abb4883-60b7-4882-b946-1a4665889257,,83.04996577686516,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,e80a4625-1b5a-4abc-8ab9-978d1488b961,,57.99315537303217,Male,,,Squamous,III,,,,1.0,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUSC,d566fa32-382b-499c-820a-c2bbb22501fb,,67.33470225872689,Male,,,Squamous,IIA,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,f18c47e1-516f-43f7-8d31-4e5012bd22f0,,58.39561943874059,Male,,,Squamous,,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,5f99343b-e8ea-4b41-b36d-cd5c8fd918d0,,75.18685831622176,Male,,,Not Reported,,,,,4.0,,,1.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUSC,df6a7005-92ed-4701-bd59-7b5f09715f9d,,66.6611909650924,Male,,,Not Reported,,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,5d7a6807-e024-479d-a4df-1d44af41fa66,,77.05954825462013,Male,,,Squamous,IA,,,,2.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,0e91d7b5-ce35-4671-ab9f-cfd5369b557c,,80.60232717316906,Male,,,Squamous,IIA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,7ddd36fd-9e6a-4a46-a799-82998786cb36,,71.92881587953457,Male,,,Squamous,IIA,,,,,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,442c412d-6cc5-4ffd-810c-c94c8e643bd6,,61.05133470225873,Male,,,Squamous,IIA,,,,2.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,7f8130d2-f169-451b-a263-547adc2fcb2c,,60.14236824093087,Male,,,Squamous,IA,,,,1.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,d40b3520-708d-430b-a302-d4dc6970adbf,,62.31074606433949,Male,,,Squamous,IIB,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,0e084325-ba97-4c0a-9d00-12d01b4bc0bb,,72.29568788501027,Male,,,Squamous,IIA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,1ba4e70c-692c-487a-abc5-36e5f0a03286,,73.05954825462013,Male,,,Squamous,IIIA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,381edbe7-f391-4154-b16e-ac91d550582e,,59.36481861738535,Male,,,Squamous,IB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,14a4a93a-e24d-46f2-bee3-18bd792ef95a,,70.5160848733744,Male,,,Squamous,IB,,,,,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,ba7b9b84-c227-4ad0-9e71-88ee3309162c,,67.57015742642027,Male,,,Squamous,IIB,,,,0.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,6020ec67-8f3b-409f-a0ed-2af849b4d76f,,71.64407939767283,Male,,,Squamous,IIB,,,,1.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,e6b72c24-1607-43b9-8b8a-7bf83eea5895,,66.49418206707735,Male,,,Squamous,IIIA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,1f084d72-fbf9-4787-b107-815b481b1a6e,,63.917864476386036,Male,,,Squamous,IIA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,7cc8892e-4ba5-4cf5-be76-9e5cb4891d25,,67.76728268309377,Male,,,Squamous,,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,20765a71-fa13-4d5a-9e66-9ffe961f72ad,,69.27857631759069,Male,,,Squamous,,,,,2.0,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUSC,1ccd29c1-cf30-4701-9b50-5d34cae2f4b3,,62.3709787816564,Male,,,Squamous,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,8fbe1f9e-f2a6-4550-aabf-b06607b821f0,,77.7138945927447,Male,,,Squamous,IIA,,,,4.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,23421041-fc75-4610-8a59-3246fb6df7e8,,71.55099247091033,Male,,,Squamous,IB,,,,0.0,,,0.0,,,,,0.0
+GDC,TCGA-LUSC,e7020168-1afe-4361-800a-8979aafca12a,,76.03011635865845,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,264b3066-b77b-4375-9847-adcf22dbc438,,74.78439425051334,Male,,,Squamous,IIB,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,fa019da0-068c-4d28-a8f6-28b8e79f3a5a,,66.7542778918549,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,2ca47049-bc12-4992-b9cf-1c01dda639be,,64.86242299794661,Male,,,Squamous,IIB,,,,,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUSC,a296ca7c-eb11-4d8a-92a0-d549b5c0951a,,,Male,,,Squamous,IA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,2e007464-f3f4-4eb2-bab8-91b8272c96d1,,63.59479808350445,Male,,,Squamous,IIB,,,,,,,0.0,,,,1.0,0.0
+GDC,TCGA-LUSC,2d2a3e24-8e1c-4409-a803-fe8d475f9248,,70.58726899383984,Male,,,Squamous,IIB,,,,2.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,2e7cd434-0440-47a2-bc59-8805b8324ec4,,75.56741957563312,Male,,,Squamous,IB,,,,3.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,2f39e89c-a8f7-4df8-a0f5-ef9990c2133c,,69.00479123887749,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,ff7099e1-8ff9-48e4-842d-46e98076e7e6,,45.90006844626968,Male,,,Squamous,IIB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,305f72a8-069b-410b-bbe4-4ecb761c748d,,58.83093771389459,Male,,,Squamous,IA,,,,4.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,dd7eda40-9aae-46b2-914e-788b76b43087,,73.13894592744695,Male,,,Squamous,IB,,,,2.0,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUSC,75ab9203-30fa-4f1a-b8f2-aa61e02111f5,,69.68651608487338,Male,,,Squamous,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,3336ee77-a6f6-4d3a-93f9-585ebc48ffba,,77.35249828884326,Male,,,Squamous,IB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,edbff8e2-6e22-474c-a813-b3b258972a99,,72.15605749486653,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,3429df57-5aae-41aa-8247-6a2ea935a934,,64.06297056810403,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,349e01b0-0c88-4321-839e-0a84edf11a73,,71.38124572210815,Male,,,Squamous,IA,,,,0.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,34f7b63b-7a49-4b29-ab72-d880d87fb7b3,,65.45106091718002,Male,,,Squamous,IB,,,,4.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,8a933b93-87b3-4f1f-8ef1-1d095cea032e,,63.148528405201915,Male,,,Squamous,IIA,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,3666bc65-8e40-409e-9a1f-41583dd6d978,,60.05749486652977,Male,,,Squamous,IIA,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,3768cf73-e389-449a-bde3-29eb20c9e249,,61.667351129363446,Male,,,Not Reported,,,,,3.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,37a0ab12-44af-4815-b7cc-961d44851470,,59.67419575633128,Male,,,Squamous,IB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,38007506-4865-41d4-83a9-1aa13648f459,,66.85831622176592,Male,,,Squamous,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,a402e786-132c-4095-bb75-22be04b5d835,,58.33538672142368,Male,,,Squamous,IIIA,,,,1.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,396932ab-c4b3-4526-9201-9222f5f062a5,,71.24982888432581,Male,,,Not Reported,,,,,2.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,3a756d00-b24a-4646-ae1a-587bd141fc05,,62.44216290212184,Male,,,Squamous,IA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,2a0b4559-5ece-4b79-9c89-2ebe7cf82905,,81.66461327857631,Male,,,Squamous,IA,,,,,,,0.0,,,,,1.0
+GDC,TCGA-LUSC,40dc2edc-4bde-441d-8fc5-8ce1bd42f267,,58.666666666666664,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,418a004e-d5a9-461b-8764-4b581b6b8223,,52.54757015742642,Male,,,Squamous,IIIA,,,,1.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,7639fddb-86b5-45a1-bac3-ff6a575e0cf5,,,Male,,,Squamous,IB,,,,4.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,185923c0-e642-41c4-a22e-0dae102b0a40,,83.63586584531143,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,ac89e063-a288-4516-9d9e-92cc0ed2bc24,,56.54209445585216,Male,,,Squamous,IA,,,,1.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,aa53c701-4b65-4c26-a6f0-02a4498717a8,,59.493497604380565,Male,,,Not Reported,,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,45aa07c3-cea4-456e-8000-b4572a2163a8,,70.39014373716633,Male,,,Squamous,IB,,,,1.0,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUSC,cf3cdd9e-43fc-44c7-90c8-e4e13deed9c6,,63.592060232717316,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,469eba45-5046-4d8a-9f9a-dfbd1e7cf560,,73.72210814510609,Male,,,Squamous,IIB,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,a9d7adec-3849-40e2-a2a2-f43443ec43bb,,68.58590006844626,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,abc753f0-5ae2-4bec-96b8-6a05d84bf1c1,,69.99589322381931,Male,,,Squamous,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,47cbb242-a356-43ba-95c3-0b0c9ef90fbf,,81.70841889117042,Male,,,Squamous,IA,,,,,,,0.0,,,Exon19del,1.0,1.0
+GDC,TCGA-LUSC,3f1b4356-0b53-48cd-8938-96fc786c9b63,,,Male,,,Squamous,IIIA,,,,1.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,4a95ce25-d06a-499d-b7ee-aff5ee94d4f1,,70.3874058863792,Male,,,Squamous,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,ce8612ab-3149-4a6a-b424-29c0c21c9b8b,,54.379192334017795,Male,,,Not Reported,,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,4cdac0cf-6598-4d33-92e6-730fbdc88a61,,84.71457905544148,Male,,,Squamous,IIA,,,,3.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,03fa3310-406d-4c12-a409-136fc47d996d,,73.40999315537303,Male,,,Squamous,IIB,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,8be10ce9-220d-4816-a575-8e8e7f041114,,72.45448323066393,Male,,,Squamous,,,,,0.0,,,1.0,,,,1.0,0.0
+GDC,TCGA-LUSC,51f0b1cb-4315-4acd-a9c1-5353e0ff9d46,,,Male,,,Not Reported,,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,52924e27-7b36-4e25-83b2-abc51dd72668,,71.40588637919234,Male,,,Squamous,IIA,,,,1.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,569691a3-15b4-4b1c-b8b7-b3ad17d0996e,,67.46064339493498,Male,,,Squamous,IA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,95c4c851-6ca3-4416-90ed-73f46f211583,,52.440793976728266,Male,,,Squamous,IA,,,,1.0,,,0.0,,,,,1.0
+GDC,TCGA-LUSC,87ac0ad4-8c9d-409e-9a86-1d201d01769d,,73.2457221081451,Male,,,Squamous,IIIB,,,,,,,0.0,,,,1.0,1.0
+GDC,TCGA-LUSC,17919a6e-3106-49fa-9fea-8f06c595d617,,44.643394934976044,Male,,,Squamous,IIA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,5d3d3918-7da8-4147-90a3-dc015be1dfbe,,65.83983572895278,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,6fd72426-f6c8-47ca-a500-d5d3600b9b15,,68.76933607118411,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,72c49014-f949-4d02-ae71-26a243e0b102,,74.55989048596851,Male,,,Squamous,IB,,,,4.0,,,0.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUSC,6394fe4a-6034-4c79-b28f-aa43e3753730,,75.00889801505818,Male,,,Squamous,IB,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,d81944a2-6cee-4773-912a-899fdf9eb1c4,,,Male,,,Squamous,IIB,,,,,,,1.0,,,,1.0,0.0
+GDC,TCGA-LUSC,4a81f496-bf8e-43e8-8332-9aaef09f485f,,69.82067077344284,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,23e65963-d9f3-4cec-953c-4dd06f7d8668,,71.41683778234086,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,6ab57144-16ea-4844-b737-e726787d23b9,,80.145106091718,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,6acdb5e1-4f4d-4512-a41b-ceec94b82744,,61.91375770020534,Male,,,Squamous,IB,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,86958f1d-f10b-403e-b204-061e1932a793,,65.72210814510609,Male,,,Squamous,IA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,6b0b6fc0-d808-49c3-8f2a-e122bc3142f5,,76.41889117043121,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,f400b427-954a-4f8a-a885-222e3e4c28ab,,60.72279260780287,Male,,,Squamous,IB,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,b9817e22-ec5f-4a66-bf24-0f9fd9d3231e,,55.88227241615332,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,cf9d5813-da70-4d7f-8185-d29d1b86b578,,84.1615331964408,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,761d1c28-d5f5-497c-b9a0-86263ec62979,,55.51266255989049,Male,,,Squamous,IIB,,,,1.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,7625a27d-a012-4f4d-b637-5f85d7cdae8c,,,Male,,,Squamous,IIB,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,76618cf5-f6e0-46ef-a1c0-acc0ad9fdccb,,78.08898015058179,Male,,,Squamous,IIA,,,,2.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,77bd82a6-a859-4b8e-accc-c343ce9f4d38,,73.8590006844627,Male,,,Squamous,IIA,,,,,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,d4608593-20cb-4b53-b037-39aa8ddd05b7,,69.67282683093771,Male,,,Squamous,IB,,,,4.0,,,0.0,,,,1.0,1.0
+GDC,TCGA-LUSC,7d3e77cc-9603-4722-8e39-1912b678871b,,70.01779603011636,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,7d8d5dff-bdc1-4000-bc52-1fc3be3f6da4,,71.68514715947981,Male,,,Squamous,IIA,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,d00d93d5-8d6b-4e5b-816c-f3d726d65d3d,,59.13757700205339,Male,,,Squamous,IIIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,7e691df8-8ea6-472c-86bf-504c7ba6983d,,39.27446954140999,Male,,,Squamous,IIB,,,,0.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,5489b76d-68d9-48c3-8961-4a147bb23216,,60.09308692676249,Male,,,Squamous,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,7fe0e47a-07e1-467b-b5dc-63e2a25ba6dd,,69.15811088295688,Male,,,Squamous,IIB,,,,0.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,80242454-84b3-4fba-a64b-7d1714cdecde,,61.38261464750171,Male,,,Squamous,IIA,,,,2.0,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUSC,80b5ef6b-6b2d-4f87-b4a9-5c22f7bfda7c,,70.71047227926078,Male,,,Squamous,IIA,,,,0.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,c179d6b1-6182-48b8-a376-3133e0dec278,,59.15947980835045,Male,,,Squamous,IIIA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,c9439a80-abf5-4ede-b552-7784bb14213a,,,Male,,,"Carcinoma, NOS",,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,d484c95f-5128-4239-a6e5-1496de39ba4b,,78.68309377138947,Male,,,Squamous,IB,,,,0.0,,,0.0,,,,0.0,0.0
+GDC,TCGA-LUSC,86b165c2-d0e6-4a4f-84ed-aa95e3133627,,45.02943189596167,Male,,,Squamous,IIA,,,,2.0,,,0.0,,,Wild_type,,0.0
+GDC,TCGA-LUSC,32c86f17-34c3-406b-85c5-4f5965619247,,64.24366872005476,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,870fb708-7631-4578-a470-3c7bd5228e5a,,59.59753593429158,Male,,,Squamous,IIA,,,,0.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,18f18672-2a23-4e26-987b-38c454ff46c7,,71.4633812457221,Male,,,Squamous,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,ba10f90b-66e1-44cd-b6c0-08c448a9d688,,72.23271731690623,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,8d18e026-668b-4513-9c68-9e03b18592e3,,,Male,,,Squamous,IIA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,8d20352a-6180-40d0-adc0-c87fef854dfa,,64.91444216290212,Male,,,Squamous,IIIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,8d32bea5-51ef-4ab0-83ae-1de31e7d4b43,,67.31279945242984,Male,,,Squamous,IIA,,,,4.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,12bd70f5-2542-48cb-b296-ae9241b38f7f,,62.74880219028063,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,90b02be3-5496-40a2-8c6e-460d2898aadb,,71.83299110198494,Male,,,Squamous,IIB,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUSC,d87e30a3-1b5a-41cf-bafe-27914a01c8d9,,69.83709787816564,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,5845fe49-f2cc-436b-9ec8-65e775eae111,,70.60369609856262,Male,,,Squamous,IA,,,,,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,94c795d3-e8f9-4d0f-8071-adc08a37f6fc,,44.98015058179329,Male,,,Squamous,III,,,,3.0,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUSC,ad112acb-d241-48a0-8e48-d69cdc3feba8,,47.76728268309377,Male,,,Squamous,IIIA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,98b86f94-9ede-45ab-ba09-19a6ec6d9494,,60.89253935660506,Male,,,Squamous,IIB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,9a13a742-ff9a-4432-a7ce-7fcbb753be01,,48.32580424366872,Male,,,Squamous,IA,,,,0.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,e171b02c-da2f-4452-a100-9ed989e73276,,,Male,,,Squamous,IIA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,8a235eb8-d67d-49fe-a473-1777eb7e7c60,,51.27446954140999,Male,,,Squamous,IIIA,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,bf2f1b1b-9de9-41ba-8e0d-00e00e39e51d,,63.238877481177276,Male,,,Squamous,IIB,,,,1.0,,,1.0,,,Wild_type,,0.0
+GDC,TCGA-LUSC,d76c589c-6fab-493e-9cb0-0d6d06a1047e,,76.49007529089664,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,4d6b5b30-0dea-4745-bc46-34ebd98f7418,,76.24093086926763,Male,,,Squamous,IA,,,,0.0,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUSC,9f20b4bc-ee09-42ef-9392-68054a7a2cfe,,76.95003422313484,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,3c56a43a-91f1-4a66-9cfe-d2e26b86a936,,63.85215605749487,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,b5e2cbda-bbfa-4ef8-a9c4-cb978bef9b23,,83.9917864476386,Male,,,Squamous,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,68107725-a883-4b33-a366-d9b4adb18028,,,Male,,,Squamous,IIB,,,,4.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,09d08a43-4dcb-46d6-b2bd-f6245a6fff21,,61.65639972621492,Male,,,Squamous,IV,,,,2.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,a355bad1-bb49-4de5-892b-691ed0022d91,,70.32991101984942,Male,,,Squamous,IV,,,,,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUSC,4db53b4c-2e5c-45ea-8577-4360c114e0c1,,72.68720054757016,Male,,,Squamous,IIIA,,,,2.0,,,0.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUSC,a4495428-39cc-49f6-bc41-1becdd94113f,,59.98083504449008,Male,,,Squamous,IA,,,,,,,0.0,,,,1.0,1.0
+GDC,TCGA-LUSC,531d1248-76ae-46a1-8f65-cdecf9bcb0d8,,,Male,,,Squamous,IIB,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,4631400b-1c96-4074-b779-7cbc77a49d99,,79.5564681724846,Male,,,Squamous,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,aa02aa9b-5786-463f-9db4-a9c20d31dc73,,53.869952087611225,Male,,,Squamous,IIA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,a3e1ac67-a1f2-44fb-8343-a7e8239fc24a,,47.80835044490075,Male,,,Squamous,IIIA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,ac274a44-de25-4bc6-8699-472576892c62,,76.91991786447639,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,b80ced5e-36b1-48d0-a8a9-0245aeb5f368,,63.43874058863792,Male,,,Squamous,IIB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,96533d5b-6e44-4d8f-8fd7-270dd4f0362e,,64.34496919917865,Male,,,Squamous,IIA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,ae343aae-7273-4c46-826d-01377bed5a75,,73.44832306639289,Male,,,Squamous,IB,,,,0.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,6013a4fd-89cf-48a7-a465-c7b644afb4a5,,79.66598220396989,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,aef2cf2f-2067-4d77-9bbe-0f6801826c31,,62.168377823408626,Male,,,Squamous,IIA,,,,,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUSC,af02050f-ebc4-4171-b63b-3b3faa279f2b,,77.75496235455168,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,9dff11cd-0784-4a60-9c77-43f8957d3dfa,,56.219028062970565,Male,,,Squamous,IIB,,,,1.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,af1d9d69-0a45-4ad3-9873-57fbe4a4b895,,73.75222450376455,Male,,,Squamous,IV,,,,4.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,b0818bee-c32c-405c-ba09-956091fbe09b,,85.01574264202601,Male,,,Squamous,IB,,,,,,,1.0,,,,1.0,0.0
+GDC,TCGA-LUSC,87410c09-5b61-4f61-85a5-93c288aeca03,,58.94866529774127,Male,,,Squamous,IIB,,,,1.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,b3a6edcd-6592-44fb-9ec1-037138bfbdaf,,74.24503764544832,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,96006f5e-5922-4e55-afa5-5e43773d72f2,,69.42915811088295,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,ba42da22-44c2-488f-91f0-e274948b5cef,,76.03559206023272,Male,,,Squamous,IIIA,,,,1.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,b9fc1fcf-17dc-496c-a072-7664382bc9bb,,57.738535249828885,Male,,,Squamous,,,,,2.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,3a74420c-9ee6-4131-8aff-7265b047e6a8,,65.63997262149213,Male,,,Squamous,IIIA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,5f29578a-7606-4625-bd24-a194b3287024,,,Male,,,Squamous,IB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,bf57d48c-ed43-4c3d-a689-8f60ef023372,,74.10540725530458,Male,,,Squamous,IIB,,,,0.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,17104d99-8838-4e1c-bd6a-7f1ee7a94bd8,,66.29705681040383,Male,,,Squamous,IIIA,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,d04bf59d-3429-4641-9f9e-81d8cde15295,,75.65503080082135,Male,,,Squamous,IIA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,037c57d1-b4a5-45dc-bda4-0550461d321b,,65.92197125256673,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,3f43c83e-c2a2-4224-9da0-0757b9c7d4ca,,55.4715947980835,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,7224cb42-6799-405f-819d-d45b1cef075e,,70.16837782340862,Male,,,Squamous,IIA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,c935a05d-0bd5-4fad-8e06-950afe022bca,,72.38056125941137,Male,,,Squamous,IIA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,caa36b5c-852b-4259-8db9-1091b1f02edd,,49.06502395619439,Male,,,Squamous,IIB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,dd5e3a1e-2adf-4eee-ac6b-c6efad97724a,,81.19644079397673,Male,,,Squamous,IB,,,,4.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,cb6065de-0fc2-40e6-9609-179dfc54943f,,80.40520191649556,Male,,,Squamous,IIIA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,ce94e544-8887-479f-83cd-27b1c740e4c2,,65.08418891170432,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,34193c52-837c-4cf8-850a-00ae55be28ec,,63.19780971937029,Male,,,Squamous,IIIA,,,,2.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,d1cea7b9-9ba9-4461-ba9e-9b45b6f5af66,,58.72689938398357,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,a77675bd-ed25-45f4-b418-cb8fc979c780,,76.76659822039699,Male,,,Squamous,IB,,,,1.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,d49b0369-905c-4608-96a9-cc854980fc4c,,66.99794661190965,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,d539844b-d65d-41e6-a8f0-fa884df118bc,,69.83162217659138,Male,,,Squamous,IB,,,,,,,0.0,,,,,1.0
+GDC,TCGA-LUSC,005669e5-1a31-45fb-ae97-9d450e74e7cb,,70.23682409308692,Male,,,Squamous,IIA,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,d5c24c76-2e98-41df-b17d-b53c0b5e7787,,,Male,,,Squamous,III,,,,0.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,d5e14ef5-1b78-4498-a2e2-77070c83eb7f,,67.58658453114305,Male,,,Squamous,IIIB,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,059212b3-9e71-4d00-863f-3639c4e30ed1,,62.732375085557834,Male,,,Squamous,IIIA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,05d4d9c7-fb6f-439a-bb97-f0e2737a7773,,,Male,,,Squamous,IB,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,da93a143-5799-4856-a5f4-3ff3b9284311,,68.16427104722793,Male,,,Squamous,IIIB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,0cca2b84-62bb-41c6-a65d-c27e4e98af78,,78.53798767967146,Male,,,Squamous,IIA,,,,0.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,0d6a7cdf-daf5-4181-864f-430952e6fdb3,,74.53798767967146,Male,,,Squamous,IB,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,dce87821-a5cd-4415-ab0c-ac5ed2459929,,,Male,,,Squamous,IB,,,,,,,1.0,,,Wild_type,,0.0
+GDC,TCGA-LUSC,ddf19eb8-c3fe-441e-b6cf-c4943b6789d9,,,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,0f5cebb3-a37b-471f-bbd3-b03ce171812a,,67.84941820670774,Male,,,Squamous,IB,,,,0.0,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUSC,0f8a76a1-4c3e-42e1-9df3-95aa3ae8e676,,73.91649555099247,Male,,,Not Reported,,,,,2.0,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUSC,10c3acc1-5c0b-4312-9521-2e4104396c24,,75.94250513347022,Male,,,Squamous,IA,,,,2.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,14313474-376f-4606-9ed9-25ed2acff411,,75.16769336071184,Male,,,Squamous,IV,,,,0.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,e28cbc9a-aa60-4bfb-8d89-8c33ee97f560,,65.76043805612593,Male,,,Squamous,IV,,,,,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUSC,159b96ab-2eb9-4604-be8c-e38f6aae103f,,67.86584531143053,Male,,,Squamous,IIIA,,,,1.0,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUSC,15b0bfd4-2068-4ac8-aaa8-a2a6797253d8,,65.80424366872005,Male,,,Squamous,IIA,,,,2.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,e58e8850-154f-4695-bee0-005c76410327,,68.40793976728268,Male,,,Not Reported,,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,18058bfb-a008-410f-8e04-7c2b45a856b7,,73.18822724161534,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,e731fed6-be23-4b19-8550-6e500613c468,,68.06570841889118,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,e8bc2eea-dc6e-420b-abe8-e36989e75df8,,81.83436002737851,Male,,,Squamous,IIB,,,,3.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,ec10dc91-2743-4e0c-af77-2f0105bf6a9e,,59.58110882956879,Male,,,Squamous,IA,,,,,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUSC,ec260f86-7186-4bf2-9de9-320b4ca155a4,,62.168377823408626,Male,,,Squamous,IA,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,eca4bfa2-5ba5-4708-959a-d901c1b61edd,,60.86789869952088,Male,,,Not Reported,,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,ee54896d-0895-47fe-b432-ef922deba5d8,,46.47501711156742,Male,,,Squamous,IB,,,,0.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,eea9575a-c842-4a95-9e47-3a3b12533f25,,78.92128678986995,Male,,,Squamous,,,,,4.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,f1aa75c3-13f3-4bd9-9e51-923c2f62c2f7,,76.81314168377824,Male,,,Not Reported,,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,f2e35ffc-c87a-4e42-9c8d-e7e5d8b49d87,,69.15537303216975,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,f30d81c6-d8d3-4547-b056-3942e390b936,,73.79603011635866,Male,,,Squamous,IIB,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,f37f9827-9c3b-4aed-a2cb-5e905f1e2d2e,,61.85352498288843,Male,,,Squamous,IIB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,f43b511b-93d1-4a6e-ab17-e84448a084b2,,57.48117727583847,Male,,,Squamous,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,f7287eb4-c77d-4c67-a768-87fcccd668f5,,47.441478439425055,Male,,,Squamous,IIIA,,,,2.0,,,1.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUSC,f728a4d9-53d4-43a5-abc1-4016d388efa8,,73.37166324435319,Male,,,Squamous,IA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,f878c2c3-bf50-423b-9703-973efbfc071c,,79.16769336071184,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,fd881d58-c9c7-479b-b76b-1f3c2ab1b015,,65.11156741957564,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,fd8a7339-cf34-4b91-bfc4-53ce60ffd737,,70.48596851471595,Male,,,Squamous,IIA,,,,2.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,fde60f9f-5cff-405e-b0f6-e193195ebd53,,57.74948665297741,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,fe49127a-8402-4479-afff-801c6452de25,,53.880903490759756,Male,,,Squamous,,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,07b5663f-9a54-4462-b6c1-6fc8116b8714,,65.30869267624914,Male,,,Adenocarcinoma,IA,,,,0.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,294ff941-aea1-4588-9a0e-e9f5393e2bb6,,,Male,,,"Infiltrating duct carcinoma, NOS",I,,,,0.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,ebb33753-9d38-4368-9033-3e55f129d00d,,64.4435318275154,Male,,,Adenocarcinoma,IB,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,781f40c9-c099-4c96-8269-ebe2a449c93d,,70.26420260095824,Male,,,Adenocarcinoma,,,,,1.0,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,5134c56f-8286-4ec8-8348-237cee7dad5e,,,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,369f14c4-2191-4962-a309-3e23ddc4e5fc,,65.41273100616016,Male,,,Adenocarcinoma,IIA,,,,,,,1.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,e51f717f-72e8-400e-9f35-fc5dc32fdf71,,,Male,,,Not Reported,,,,,0.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,bbe88801-34f3-46d2-bbfd-b46c3901ed71,,77.90006844626969,Male,,,Adenocarcinoma,IB,,,,2.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,108a71cf-b9db-47cd-aa74-c03ec989b41b,,,Male,,,Not Reported,,,,,,,,1.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,9c7875ad-ab71-4d48-b2e3-e4c7a46393e9,,,Male,,,Not Reported,,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,d12b6930-9ae4-4fe7-ad69-d183135c91ab,,,Male,,,Adenocarcinoma,,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,8214a0d1-5e2d-4a7a-acb1-e5580755db83,,73.22108145106091,Male,,,Not Reported,,,,,,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUAD,69dba721-a168-47a4-b7ff-80a448bad654,,71.4715947980835,Male,,,Adenocarcinoma,IIA,,,,1.0,,,0.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,d31aeefc-b59b-42e9-9919-750b17a70a3d,,,Male,,,"Infiltrating duct carcinoma, NOS",,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,afb91740-2668-46d7-ba01-bb26153ad1c7,,80.78850102669405,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,f1985735-a188-4567-a88a-530f9b80291b,,77.7905544147844,Male,,,Not Reported,,,,,,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUAD,a41c46da-7ed4-4192-bd16-b3cbb94a5133,,,Male,,,Adenocarcinoma,IA,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,6d72de06-232a-4983-a06c-eba6d82cb3f1,,68.46817248459959,Male,,,Adenocarcinoma,IIIA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,102fba48-b23a-46d4-8371-71c11c1a6654,,57.3305954825462,Male,,,Adenocarcinoma,IIB,,,,,,,0.0,,,,,1.0
+GDC,TCGA-LUAD,c650b1ff-8a4c-4ee9-b7c1-268c28c83827,,,Male,,,Adenocarcinoma,,,,,,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,8609edfc-119d-4d63-9188-c86aabd5ca52,,42.724161533196444,Male,,,Adenocarcinoma,IA,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,03d09c05-49ab-4ba6-a8d7-e7ccf71fafd2,,,Male,,,Not Reported,,,,,,,,1.0,,,,0.0,1.0
+GDC,TCGA-LUAD,f3501466-cf32-4866-b5fb-e94dd32341bc,,69.30321697467488,Male,,,Adenocarcinoma,IA,,,,1.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,772324a5-5513-454d-ad6b-605798f69b73,,72.870636550308,Male,,,Adenocarcinoma,IIB,,,,0.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,2483621a-4db3-41ab-aa33-b9427ea8a0af,,72.65708418891171,Male,,,Adenocarcinoma,IB,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,1b354837-4925-4480-ac32-6b44d0957314,,69.88637919233402,Male,,,Adenocarcinoma,IV,,,,2.0,,,,,,Wild_type,,0.0
+GDC,TCGA-LUAD,21fb46f9-4bbb-441c-af19-a687e9138344,,71.32922655715264,Male,,,Adenocarcinoma,,,,,3.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,923b37e4-fcf7-46a0-8cb2-9139711fec7b,,72.41889117043121,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,ebcba7f2-ce13-4bae-97cd-91a6b1dcd465,,,Male,,,Adenocarcinoma,IA,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,199386c2-bb53-4fad-a1b6-59ab216a4a50,,55.800136892539356,Male,,,Adenocarcinoma,IIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,889aec8e-14ba-48d9-8fe1-f2416e82b333,,67.43600273785079,Male,,,Adenocarcinoma,IA,,,,2.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,0d66bf6c-eed0-4726-bd5b-3bf6d610b4e0,,,Male,,,"Carcinoid tumor, NOS",,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,cbfef004-b437-4d51-9d88-a2db50aa6481,,70.6858316221766,Male,,,Adenocarcinoma,,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,9a50e7e4-831d-489f-87d2-979e987561cc,,67.33470225872689,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,bf15f7ad-9d92-473b-91d1-f24aa373ab97,,65.18275154004107,Male,,,Adenocarcinoma,IIB,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,1f1df7ea-00b9-4432-86de-da773d1451e5,,,Male,,,Not Reported,,,,,2.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,c2a1de2e-6451-4c95-8ce6-263f2b7e6eff,,60.643394934976044,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,645903b5-ba37-48a1-985b-a019b8db3236,,,Male,,,Adenocarcinoma,IIB,,,,1.0,,,1.0,,,Wild_type,,0.0
+GDC,TCGA-LUAD,1575148b-0f63-44ee-86fd-93ae1a02be0b,,74.60369609856262,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,a52e99d6-a61a-439d-b0b1-ca7a0eabcb04,,,Male,,,"Hodgkin lymphoma, NOS",,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,193201a3-1447-47b1-bdf1-11ae0eb3b2f3,,71.18412046543463,Male,,,Adenocarcinoma,IIA,,,,1.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUAD,4d51ee44-e6f4-4bcb-be28-e9df54b39a8d,,81.54140999315537,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,ad74c0e8-8878-4efc-997d-981cd547bc5b,,58.93771389459275,Male,,,"Bronchiolo-alveolar carcinoma, non-mucinous",IA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,9fcdccae-676e-4071-93c3-23d2d3ab0c00,,,Male,,,Not Reported,,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,8b119d1c-6d21-4bbd-8a00-12da7b97d6c4,,,Male,,,Not Reported,,,,,,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUAD,127bf818-f7e5-46b5-a9de-39f6d96b8b83,,68.73100616016427,Male,,,Adenocarcinoma,IIB,,,,,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUAD,eeab558b-8d1e-4843-861d-dbfb06061758,,70.24777549623545,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,195a5afb-b79f-44d2-9d12-884487630c2b,,45.84804928131417,Male,,,Adenocarcinoma,IIA,,,,1.0,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,e0acafdd-06d0-48a6-bd68-577ef666a419,,67.76728268309377,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,cbf1f718-6bb7-4daf-b9d6-fb294281decb,,75.06091718001369,Male,,,Acinar cell carcinoma,IB,,,,1.0,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,0c0b610e-fe4c-406d-a5ed-5cc3b11dabf5,,65.73305954825462,Male,,,Adenocarcinoma,,,,,1.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,0b31dbdf-0623-48e4-a0ec-017650dceda7,,52.57221081451061,Male,,,Adenocarcinoma,,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,294cb595-0907-44c7-bbef-985a27c1e6e2,,76.36139630390144,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,5af499be-d2b9-4eaf-9a9f-435dccb51917,,60.16427104722793,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,3434b91a-c05f-460f-a078-7b1bb6e7085d,,,Male,,,"Carcinoma in situ, NOS",,,,,,,,1.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,12b79b4f-c28c-418e-a1e7-e622f33fdcc2,,85.51950718685832,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,44218b35-219c-4ad9-a01e-fde14067c4c0,,67.66050650239562,Male,,,Adenocarcinoma,IB,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,8e41153b-9faf-45c3-8397-8a428ef5c0d5,,72.01095140314852,Male,,,Adenocarcinoma,IA,,,,1.0,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,f587c9ab-2949-4410-80d6-a050865d48aa,,,Male,,,Not Reported,,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,c0fdb152-25d2-404b-bec7-a43ece381f5b,,62.76796714579056,Male,,,Adenocarcinoma,IIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,edf80622-aea2-4b50-bb69-691d6708aa83,,,Male,,,"Granulosa cell tumor, malignant",,,,,,,,0.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,93b62fc5-a0d3-4d32-bf27-cd7c9d43cd5f,,69.21560574948666,Male,,,Adenocarcinoma,,,,,2.0,,,1.0,,,,0.0,1.0
+GDC,TCGA-LUAD,9b38eded-3f46-4aaa-9991-68008d97bdbe,,,Male,,,Not Reported,,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,0780eb43-d5b5-4c3d-9825-beacba5cc723,,69.43737166324435,Male,,,Not Reported,,,,,1.0,,,1.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,70081320-540f-41d2-8687-ee6d011f8eb0,,55.26351813826147,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,230dc42d-681c-4e31-9d2e-c724e61829fb,,73.93018480492813,Male,,,Adenocarcinoma,IIB,,,,0.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,100430c8-1446-45c8-af36-b6dbb3ddd0c1,,,Male,,,Not Reported,,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,742e0e32-25b5-4d41-8bf5-364b571cfd93,,65.04585900068446,Male,,,Adenocarcinoma,IIIB,,,,0.0,,,0.0,,,Exon19del,1.0,1.0
+GDC,TCGA-LUAD,722d6818-f1cb-49f4-b68a-fd0a31304681,,56.99931553730322,Male,,,Adenocarcinoma,IV,,,,,,,0.0,,,Exon19del,1.0,1.0
+GDC,TCGA-LUAD,75a0bb0b-6528-4fb8-a9e6-254905d21df4,,52.498288843258045,Male,,,Squamous,II,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,7099597a-b208-45b5-b9e0-11ab40d5e497,,33.34428473648186,Male,,,Adenocarcinoma,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,c8544fb3-b26e-4672-bb81-a271db724b04,,71.34291581108829,Male,,,Adenocarcinoma,IIIA,,,,4.0,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,9a9bd705-1ef1-4a6c-bb1e-bdd346dc01c0,,69.75222450376455,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,8d535aa6-6d59-4965-b5ed-17217d8f5930,,73.90280629705681,Male,,,Clear cell carcinoma,,,,,1.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,77828a90-8e2a-4664-b674-d837e6e34fe4,,84.98562628336755,Male,,,Acinar cell carcinoma,IB,,,,1.0,,,0.0,,,,,1.0
+GDC,TCGA-LUAD,0075437e-ba1a-46be-86d6-9773209a2b5e,,64.85694729637235,Male,,,Adenocarcinoma,IIB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,77c4dbb2-eceb-4e0d-bcde-63dc817d5f35,,64.36413415468857,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,0232d299-4cdf-4fd7-9a5e-8d13c208b40c,,59.76454483230664,Male,,,Adenocarcinoma,IIIA,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,77f8c850-b4e6-46a1-ab12-a50e0044a0c8,,73.14442162902122,Male,,,Adenocarcinoma,IA,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,035c0b2b-c722-443b-8962-db4ee92c7532,,73.39630390143738,Male,,,Adenocarcinoma,IIA,,,,0.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,793649e5-f479-4d64-8723-2ef488fe0fd9,,71.17864476386038,Male,,,Adenocarcinoma,IIB,,,,0.0,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,7a0ea814-f0de-4bc4-a81a-daa000559369,,72.21629021218344,Male,,,Adenocarcinoma,IIIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,06fe7f3e-4edd-4150-981c-93787ea19b39,,68.47364818617385,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,079ae0b3-b64b-4b8e-ab7d-225b8046568c,,68.61601642710473,Male,,,Adenocarcinoma,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,088edf89-d2b5-40c7-b066-df3bd383f7ea,,61.95208761122519,Male,,,Adenocarcinoma,IIB,,,,3.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,096bd95f-9900-4db2-b1c4-103902c3b31f,,62.80082135523614,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,09918b81-4696-4cba-a45a-5fe7407c2337,,71.70704996577686,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,0a1eea76-e19a-4547-9b24-abf7051cc4db,,50.5927446954141,Male,,,Adenocarcinoma,IIA,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,0a45f302-5748-48f3-9dc9-66c01843a68e,,53.379876796714576,Male,,,Adenocarcinoma,IIIA,,,,,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,0b15fcb8-1fb7-497e-80b9-d3db66a3c0a2,,74.16016427104722,Male,,,"Bronchiolo-alveolar carcinoma, non-mucinous",IIB,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,0c59ff96-5e4a-4664-a0b1-d057b4725483,,66.42026009582477,Male,,,Adenocarcinoma,,,,,0.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,7e83f9dd-b038-497b-a113-a55605398b7b,,61.97125256673511,Male,,,Adenocarcinoma,IA,,,,0.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,0d980584-4484-4063-8243-c3cd67f6f588,,78.1492128678987,Male,,,Adenocarcinoma,IIA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,7f6455e8-fa3d-4452-acb2-8c9995073072,,49.451060917180016,Male,,,Adenocarcinoma,IIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,807cc7d2-6e3b-4f2d-9531-0da994eeeada,,54.78713210130048,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,114a34c0-983b-4d90-9181-1823c9637a63,,72.39972621492129,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,11c2e619-8aeb-4f86-b03b-78f9a8099263,,72.01916495550992,Male,,,Acinar cell carcinoma,IA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,83a6ed20-b3cf-48b9-8ed3-a080cd4951fa,,61.17453798767967,Male,,,Adenocarcinoma,IV,,,,,,,0.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,12c27db5-db2f-48dc-a2ca-9557b951f43e,,63.436002737850785,Male,,,Acinar cell carcinoma,IIIA,,,,0.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,84c3ba70-afa7-4b69-be69-7ec8d6022c56,,72.91991786447639,Male,,,Adenocarcinoma,IIIA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,8504fd86-a70a-4cba-9ec8-25c9e60ca549,,79.96988364134155,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,15340dd3-84ae-49fb-989a-eb212f3e73da,,64.29568788501027,Male,,,Adenocarcinoma,IIA,,,,1.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,86dac334-f30e-438e-810a-8e45f69dbb7e,,58.554414784394254,Male,,,Adenocarcinoma,IIA,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,875333ab-9048-462d-aaa2-693ad127e3cc,,44.07392197125257,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,17e09b0d-eab2-40ec-ae3c-be9ab63fcef0,,63.67419575633128,Male,,,Adenocarcinoma,IA,,,,0.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,18478121-f1d1-4bdd-9511-8ab22f4a0660,,59.77275838466804,Male,,,Adenocarcinoma,IIA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,8994c8c4-9ea0-46cb-b4a5-0055d7da5bfa,,60.610540725530456,Male,,,Adenocarcinoma,IA,,,,1.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,8ab8c4ba-311e-41d0-85ea-a0245aca1bdd,,56.47638603696099,Male,,,Adenocarcinoma,IIA,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,8cc6bcec-65df-46a9-a88c-09762a132857,,62.79808350444901,Male,,,Adenocarcinoma,,,,,0.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,1c58d9b8-17a2-4fc6-9898-fe6f47bd2c2a,,61.06776180698152,Male,,,Acinar cell carcinoma,IIIA,,,,0.0,,,1.0,,,,0.0,1.0
+GDC,TCGA-LUAD,8e2aca86-7cba-4631-9f25-4d14219dbc6d,,78.11909650924025,Male,,,Adenocarcinoma,IA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,1d90c9f3-5025-4867-a2f0-e455b6a254fa,,76.42162902121834,Male,,,Acinar cell carcinoma,IA,,,,,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUAD,1fc81cd4-fa89-4135-8c3c-027ffae82b05,,51.044490075290895,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,202e5df9-69f2-432c-a59d-cc5aa176e973,,41.79603011635866,Male,,,"Bronchiolo-alveolar carcinoma, non-mucinous",IV,,,,1.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,927fc5e0-2c14-4c20-a49b-f10d8a1175c3,,64.65982203969884,Male,,,Adenocarcinoma,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,2079155a-d91d-4246-a038-01934a580f32,,64.12320328542094,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,9536e32d-2707-48d2-a36d-08c521665bb9,,70.82819986310746,Male,,,Adenocarcinoma,IA,,,,2.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,23069f19-eba5-4ea5-ae7d-1ee4399ce7c1,,,Male,,,Not Reported,,,,,0.0,,,1.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,9582b436-145b-4f84-8f7f-8b39b8254cc1,,74.85831622176592,Male,,,Adenocarcinoma,IV,,,,2.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,962fd4e7-9199-43d9-abce-e3dfa46da62c,,55.879534565366185,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,25d4ea9e-f773-4f11-bac9-64efdad73211,,59.57563312799452,Male,,,Adenocarcinoma,IA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,96d93e23-bb0d-46a8-9685-5ed0d6b83059,,74.90485968514716,Male,,,"Bronchiolo-alveolar carcinoma, non-mucinous",IIIA,,,,1.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,9759bf3a-74ff-433f-99bb-f9406f222ed2,,50.76522929500342,Male,,,Adenocarcinoma,IA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,2923e404-38f2-437a-b57e-23401fbe0273,,46.63107460643395,Male,,,Adenocarcinoma,IIA,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,98ee294a-46ed-4572-bdd4-a932c3498a25,,72.74469541409994,Male,,,Papillary transitional cell carcinoma,,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,2a43e61e-2151-4c5a-b062-74ce9dfd8d4a,,40.19438740588638,Male,,,Adenocarcinoma,IV,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,9944f46f-9fa8-4e2c-a806-776bec7f8803,,76.99110198494182,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,2db08267-d346-4d42-aac0-b76831903253,,,Male,,,Adenocarcinoma,IB,,,,,,,1.0,,,Wild_type,,0.0
+GDC,TCGA-LUAD,99c35245-e1c8-4805-b7a5-f703bb506030,,70.41752224503765,Male,,,Squamous,,,,,,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUAD,9a63f744-4ed4-4b4d-aac6-f9bda66aa563,,,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,,0.0
+GDC,TCGA-LUAD,2f0710f4-827b-45b2-9b7e-c27385b481a7,,,Male,,,"Bronchiolo-alveolar carcinoma, non-mucinous",IA,,,,,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,9b4eeecb-6aff-435b-a244-ec362af92b7f,,69.83162217659138,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,9b93a7c5-f9b4-4461-8078-0201a725c9cf,,68.28747433264887,Male,,,Adenocarcinoma,IA,,,,1.0,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUAD,2fabeb98-05e3-4f55-97f5-fbc675e25a3d,,55.29637234770705,Male,,,Adenocarcinoma,IIIA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,9ca1a26c-82e0-48b3-b3bb-2ed57086eeb1,,55.663244353182755,Male,,,"Bronchiolo-alveolar carcinoma, non-mucinous",I,,,,0.0,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,9cfc1519-33e7-4145-a4ad-78b5c449853a,,68.06023271731691,Male,,,Adenocarcinoma,IIB,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,9e22a3af-7f28-4757-8684-ed64a2a27ad1,,66.65571526351813,Male,,,Acinar cell carcinoma,,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,3199cfe5-3be3-43cd-a36b-5cf2c7a9929f,,73.54414784394251,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,9ee20c0d-a1c3-47f3-abda-131b3f190f52,,57.38809034907597,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,31c96e35-5e2f-429c-b12a-7bc5a497a300,,47.832991101984945,Male,,,Adenocarcinoma,IIIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,a046888c-f153-4f35-a1b6-23dd1691a91a,,,Male,,,Adenocarcinoma,IIB,,,,,,,0.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,32592562-11fa-435a-b40b-2b242bae53aa,,,Male,,,Adenocarcinoma,,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,a1e65587-24c1-4b41-92a7-4e1f15fffd78,,69.82067077344284,Male,,,Adenocarcinoma,IIIA,,,,,,,0.0,,,,0.0,0.0
+GDC,TCGA-LUAD,32d9935a-f5cd-43b3-88bd-09e6e2b9090d,,65.58795345653662,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,a244a99a-d7cc-4fb1-bc76-b66886481621,,51.41683778234086,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,33e3f736-7990-4f7a-ac35-863247566541,,65.33333333333333,Male,,,Adenocarcinoma,IIB,,,,,,,0.0,,,Exon19del,,1.0
+GDC,TCGA-LUAD,34040b83-7e8a-4264-a551-b16621843e28,,70.50513347022587,Male,,,Adenocarcinoma,IV,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,345aef28-d49b-491b-a337-b1ac55c37d35,,,Male,,,Not Reported,,,,,1.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,a3f6bc1c-19ab-4eeb-a9ac-3d2fac850bde,,66.28062970568104,Male,,,Adenocarcinoma,IV,,,,2.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,34d8e84e-c3e1-417d-8b9b-8563d9fa0f8e,,79.73716632443532,Male,,,Adenocarcinoma,IIA,,,,2.0,,,0.0,,,Exon19del,1.0,1.0
+GDC,TCGA-LUAD,a534b96b-1665-444a-9308-e610f2f0e510,,72.8104038329911,Male,,,Adenocarcinoma,IB,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,36470b30-a3b3-4d28-851b-918a7ff88011,,67.58110882956879,Male,,,Adenocarcinoma,IB,,,,2.0,,,1.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,a5f2576a-d628-47de-a5df-76a4f3105dcc,,56.70362765229295,Male,,,Adenocarcinoma,IIA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,368e23f0-e573-4547-bf5a-14080baf737b,,47.19507186858316,Male,,,Adenocarcinoma,IIIA,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,a7911bdc-13f1-434a-bfa3-f8ba55d15846,,64.8952772073922,Male,,,Adenocarcinoma,IB,,,,3.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,a815619f-dbba-469f-a1f7-dfbd51cd86c5,,75.05544147843942,Male,,,Adenocarcinoma,IIA,,,,0.0,,,1.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,37884d39-64e8-4242-b6bd-4c0a1daa21cd,,60.016427104722794,Male,,,Adenocarcinoma,IB,,,,3.0,,,1.0,,,Exon19del,1.0,0.0
+GDC,TCGA-LUAD,a8d6694c-a213-4544-ac0b-63bce16d8f4e,,,Male,,,Adenocarcinoma,IIIA,,,,,,,0.0,,,,,1.0
+GDC,TCGA-LUAD,397d3f69-1453-4057-b177-8723eec923d1,,81.11430527036276,Male,,,Adenocarcinoma,IV,,,,1.0,,,1.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,39ab7174-5707-498d-9959-523680e04198,,68.66529774127311,Male,,,"Medullary carcinoma, NOS",IIA,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,ab9e6815-4d13-44db-93e5-553eb4f5bc95,,61.719370294318956,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,3b89ac82-63f6-41b9-a03d-34b9ffc1550d,,,Male,,,Not Reported,,,,,1.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUAD,abd6647b-d2eb-404d-8283-443e92addf55,,74.75701574264203,Male,,,Adenocarcinoma,,,,,1.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,ac0d7a82-82cb-4aec-b859-e37375f3de8b,,78.85284052019165,Male,,,Acinar cell carcinoma,IIIA,,,,,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,adbaba9c-5efc-4130-82f6-8055eab13795,,61.711156741957566,Male,,,Adenocarcinoma,IB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,ae39e358-08d7-4367-ae68-82b469e791e4,,59.175906913073234,Male,,,Adenocarcinoma,IIIA,,,,0.0,,,1.0,,,,0.0,1.0
+GDC,TCGA-LUAD,ae702159-5b6a-41dd-868c-7540f9e1131c,,58.1492128678987,Male,,,Adenocarcinoma,,,,,1.0,,,1.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,aee86a89-0377-4080-b16c-408bfbe78687,,70.04243668720055,Male,,,Acinar cell carcinoma,I,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,3daebe75-c6df-478e-8a4c-11186fd5ead9,,70.90485968514716,Male,,,Adenocarcinoma,IA,,,,1.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUAD,b2285924-9813-4f46-bb8f-91a0efd8a9b6,,66.40657084188912,Male,,,Invasive micropapillary carcinoma,IIB,,,,0.0,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUAD,3e635902-5310-4406-8b4d-a238ce382639,,68.99931553730322,Male,,,Adenocarcinoma,,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,b2bc53d6-ef78-4ae9-a6b5-1c7cad9a43eb,,50.072553045859,Male,,,Adenocarcinoma,IIA,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,3fe8f8e4-5396-4362-82f5-366e2fb69db2,,57.661875427789184,Male,,,Adenocarcinoma,IIA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,4036c6fc-c82e-47bb-a384-6f299dc30b52,,52.56673511293634,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,b56dad1e-2fd5-47d8-9cc7-a54be9a1bae2,,68.40246406570841,Male,,,Adenocarcinoma,,,,,3.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,42259aa6-c9f5-4309-a956-dbf930312f44,,52.309377138945926,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,42432463-8e92-4f25-b72a-f03953527aa5,,76.99110198494182,Male,,,Adenocarcinoma,,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,b8475929-2d9d-4909-bd62-59684a140bd7,,58.672142368240934,Male,,,Adenocarcinoma,IB,,,,,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,b86b1616-20a2-4300-8daa-03dcc9938215,,70.44490075290896,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,42ca54fc-c1ae-41cd-bca1-7fe9810db460,,61.14715947980835,Male,,,Not Reported,,,,,0.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,ba49117e-dab6-4e7d-bc44-f11dcafa1318,,70.98973305954826,Male,,,Adenocarcinoma,IIIA,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,bab335f9-b241-41a7-b107-79b9676b37b8,,60.668035592060235,Male,,,Adenocarcinoma,IIA,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,bab43415-d413-40be-a4c0-2c40a52afe6a,,51.624914442162904,Male,,,Adenocarcinoma,IB,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,46592b7b-6968-42a6-83af-0917c9f4a9a5,,47.58384668035592,Male,,,Not Reported,,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,467d96d7-4a42-4116-8c32-0e4b34f96d8a,,44.92539356605065,Male,,,Adenocarcinoma,IB,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,bf34664d-423d-4257-99d4-797f7d366455,,67.95345653661876,Male,,,Adenocarcinoma,IA,,,,3.0,,,1.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,472337c2-a2fc-403a-8c17-69511193128b,,63.98083504449008,Male,,,Adenocarcinoma,IIIA,,,,0.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,474b86d9-d897-467d-85d4-51dfa26ea107,,63.26351813826147,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,c0e263eb-1a83-4dc8-8abe-3dd2a59bae1b,,59.36208076659822,Male,,,Adenocarcinoma,IIB,,,,,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUAD,c497f8c7-2fb5-44d9-bc7c-69cfd0b51b54,,54.92950034223135,Male,,,Adenocarcinoma,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,4a1d30e8-e93a-41ed-8e54-08eaff6556a7,,56.39151266255989,Male,,,Adenocarcinoma,IB,,,,0.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,c4cfa3cc-e305-42dd-be57-97efbb891659,,72.41067761806981,Male,,,Adenocarcinoma,IIB,,,,1.0,,,0.0,,,,0.0,0.0
+GDC,TCGA-LUAD,c4d1e105-28b7-48df-abef-fbe09782fdb2,,72.8952772073922,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,4b22ad71-c585-4077-ad3c-c6e026d0c7fa,,61.37713894592745,Male,,,Not Reported,,,,,4.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,c6d78e27-e510-4f57-abae-19efa6105a8d,,77.71937029431896,Male,,,Adenocarcinoma,IIIA,,,,1.0,,,0.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,c95957a7-1a1a-4c8d-bb61-7c99b500f224,,63.17043121149897,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,4c31127e-d095-4978-9dac-35153c27f6ed,,52.2217659137577,Male,,,Adenocarcinoma,IV,,,,1.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,cbbea9f1-396a-4bf3-b67c-2cac3394dceb,,51.200547570157426,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,cc4bd56a-25c5-4c48-b583-ac3aeb778ca6,,68.82956878850102,Male,,,Not Reported,,,,,,,,1.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,4ef872e1-82c9-4939-9248-41ed9d3085b2,,52.238193018480494,Male,,,Adenocarcinoma,IV,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,50b2c647-aecd-4c81-af22-0d8116593552,,73.51403148528405,Male,,,Adenocarcinoma,IIIA,,,,1.0,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,ccecce70-dd54-4c5b-bf9f-ca87d290cb00,,57.40451745379877,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,,,1.0
+GDC,TCGA-LUAD,528a0fce-0719-4b19-a69d-3f18681696c5,,48.205338809034906,Male,,,Adenocarcinoma,IIA,,,,1.0,,,0.0,,,,1.0,1.0
+GDC,TCGA-LUAD,52df074f-a402-4b78-9472-f8eb268efded,,69.61533196440794,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,cd902d08-215e-4bd0-88e4-4fd01ab43cbf,,58.0807665982204,Male,,,Adenocarcinoma,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,548b0b68-ff45-4d45-adbe-984259e4a68b,,49.74674880219028,Male,,,Adenocarcinoma,IV,,,,,,,0.0,,,,0.0,0.0
+GDC,TCGA-LUAD,54a0e4d7-c274-4569-9c25-45bbe26d7f21,,,Male,,,Adenocarcinoma,IIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,54a9cc9e-3eee-4caa-9f33-4ea64a2999ba,,41.59890485968515,Male,,,Adenocarcinoma,,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,54e90433-5218-4d83-848f-f995ecba2a63,,69.2621492128679,Male,,,Adenocarcinoma,IIA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,5510ad32-62fd-4adc-964a-ae4e997c2f4b,,60.48186173853525,Male,,,Adenocarcinoma,IV,,,,2.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,d3e23815-7f9d-48aa-9aef-3a1dd9d464d7,,70.5763175906913,Male,,,Adenocarcinoma,IA,,,,1.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,d5326429-9805-47f9-97b0-fbda658e3f01,,59.832991101984945,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,591c068f-bbb1-4df2-9abb-d1a2e4a58372,,59.488021902806295,Male,,,Adenocarcinoma,IIB,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,595fc3ad-f603-421b-b130-52f1f617050b,,50.88021902806297,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,d7ae8efb-aa4d-4807-9772-55b0a28ccd5c,,68.4271047227926,Male,,,Adenocarcinoma,,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,d8faa3a7-6b3f-4e69-8c88-184e41055bd7,,54.69404517453799,Male,,,"Bronchiolo-alveolar carcinoma, non-mucinous",IIA,,,,0.0,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,5d2a9a4f-678d-4089-a8c5-81a5cb696629,,61.95208761122519,Male,,,Adenocarcinoma,IIIA,,,,1.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,daf0e08e-1738-43f8-874a-b37d79cbe3a7,,70.60643394934976,Male,,,Not Reported,,,,,0.0,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,db0b9e63-4272-4f29-bf0e-1ec0fe79a9d7,,66.90212183436003,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,db769d5c-a794-448d-9130-38a82d051c95,,64.35318275154005,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,5fd0f07b-8bb9-4378-bd26-28a26057e8fe,,64.60232717316906,Male,,,Adenocarcinoma,IA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,5fe77d4a-a8a5-4c90-8ff2-9c3bbbb309ef,,83.95619438740589,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,6092bd5c-e97c-4a77-a4ad-c87623b17507,,67.7262149212868,Male,,,Adenocarcinoma,IB,,,,,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUSC,1aeabf26-ac51-4173-ab8b-5d439ceca9f4,,67.74811772758385,Male,,,Squamous,IIIA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,3374e5d9-b627-4d4c-b66b-422f9564695e,,74.00684462696783,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,1cbf2cad-75c3-4615-9734-0fcdc00dcee5,,49.31143052703628,Male,,,Squamous,II,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,1e3eb77c-d85b-437e-8b8c-12e5bd0e93dc,,63.832991101984945,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,1ee543d5-b8c0-4f79-8373-6bb6319f2ee2,,71.41409993155374,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,1f6b2aca-7357-40d1-ba7a-99227d9900a2,,68.55852156057495,Male,,,Squamous,IB,,,,1.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,4daf4a91-bc36-40c8-8fca-ea61b6706775,,79.33744010951403,Male,,,Squamous,IB,,,,4.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,20d3e9b8-c399-46d2-8367-c4e228cea17c,,78.86379192334017,Male,,,Squamous,IA,,,,3.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,1fdbeb6a-8c73-46db-9d21-c56a834064f6,,72.45448323066393,Male,,,Squamous,IIB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,220be009-8f1e-4a77-ab04-3220b5f87ea6,,58.69404517453799,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,ef6116ce-ae38-488c-b3cc-0e88ba0f1876,,83.84120465434634,Male,,,Squamous,IA,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,234c7de4-ce5b-4a2f-ac46-9da61cff1680,,66.22313483915127,Male,,,Squamous,IIIA,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUSC,28346e70-c18b-4572-922f-c7b7fa8af40d,,78.36550308008214,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,26b3a62a-132e-401f-bb7f-e9cb9eff71c4,,77.00479123887749,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,43abe847-4ba7-466e-8283-5d7b80b999a7,,68.25188227241615,Male,,,Squamous,IIIB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,2cc8743a-e759-4250-82be-893376933930,,84.32032854209446,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,2e1d5e59-357d-42f3-8898-cc03839cf958,,71.15947980835044,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,b89eaf49-b80b-4730-b928-3fbc4385b64c,,64.10130047912389,Male,,,Squamous,IA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,2f39441b-e69f-488c-b5d0-cbd88447ad60,,,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,34d5d8b7-9737-43fa-86fe-7c2885c787cf,,65.63175906913074,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,e29f886a-1690-438b-b287-bfe9e9737b29,,60.421629021218344,Male,,,Squamous,IA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,ea34663c-f40e-4a3e-9ac0-65d5e9eef12b,,78.97056810403834,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,31798d61-fb34-49dc-a20e-091c1a20eb6a,,60.054757015742645,Male,,,Squamous,IIB,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUSC,31d8591b-9d80-406c-b61a-7a6544c73466,,,Male,,,Squamous,IIA,,,,1.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,337e77b3-7f58-4f92-96a4-c764b1ebfa56,,60.884325804243666,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,400c8d1e-c12b-4d3b-a8ea-85e6be1cec4f,,77.98767967145791,Male,,,Squamous,IB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,1a02b991-39f7-4c52-9f6e-bf0f7c7bde8d,,,Male,,,Squamous,IIIA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,34ac236d-942b-4b82-885f-26f174dbc29e,,,Male,,,Squamous,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,12b44011-90c0-4a70-8ea4-a216ec0c0860,,68.99110198494182,Male,,,Squamous,IA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,3602e21d-0c65-43a9-ab8d-95bbf20ceba7,,75.44969199178645,Male,,,Squamous,IIA,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,9101d953-1eb6-4808-aa44-a7b04e0ef412,,74.66392881587953,Male,,,Squamous,IB,,,,4.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,19f0cb8c-2e57-4310-967f-a9890f1605db,,74.13004791238878,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,395babb3-3f5d-4e71-a675-af4443f23028,,53.856262833675565,Male,,,Squamous,IIB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,63d2a48d-50ec-4e84-86e7-c4b74c49d08f,,,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,3d6a027b-dfda-42b3-9323-407e42cf6d10,,72.25188227241615,Male,,,Squamous,IIB,,,,,,,0.0,,,,,1.0
+GDC,TCGA-LUSC,3ebd3dcd-b4f1-449c-8b2f-86f90643676b,,73.82067077344284,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,ce7dcb92-13aa-4496-82d2-873b53647bfd,,68.58590006844626,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,02ba8600-9d3d-489d-9f0b-f1c59085ecd6,,,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUSC,40e928e8-bedd-4b86-81bc-b581bfc897d4,,69.48117727583846,Male,,,Squamous,IIB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,42f86ec9-85a0-4015-990c-be445f532197,,70.34633812457221,Male,,,Squamous,IIIA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,44b1d457-3a50-404e-b54c-ca619262bc2f,,68.59958932238193,Male,,,Squamous,IB,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,9f247eef-9c0a-4e7a-a2e8-2a84225ba307,,54.89664613278576,Male,,,Squamous,IB,,,,4.0,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUSC,46cc3a2b-91c9-4a74-8989-992585634b87,,63.14031485284052,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,4718e180-c166-4826-b5a1-945f4a56eb16,,69.68651608487338,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,6a2ce004-8a2d-419f-9738-e352d298a315,,75.15126625598904,Male,,,Squamous,II,,,,1.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,484c6114-ea0b-4c00-9f50-74fd413bd6dc,,72.2819986310746,Male,,,Squamous,IA,,,,0.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,4add88b7-169a-448f-b063-c7e6402628f1,,80.38877481177276,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,4c806d29-1674-4542-9f30-5c9a0fc184c4,,64.9719370294319,Male,,,Squamous,IB,,,,,,,0.0,,,,1.0,1.0
+GDC,TCGA-LUSC,e5987342-bf04-457c-9785-74532ce26834,,68.62422997946612,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,4d687740-96ca-4d78-8c78-1a2024ce6b6c,,72.10677618069815,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,0366c911-3267-41a0-af4b-5e74577ae16a,,66.58179329226557,Male,,,Squamous,IIIB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,2c89b366-c394-4067-bbb0-f24f5920ecaa,,57.549623545516766,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,585e6487-b0a3-4828-8a06-46bee01dff74,,83.1731690622861,Male,,,Squamous,IB,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,186ca7d6-8354-43a2-b8a5-9ac79627331f,,70.16837782340862,Male,,,Squamous,IIA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,5b3cb83b-cfde-42dc-a6ec-0127bd0e6685,,73.59069130732375,Male,,,Squamous,IIA,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,5b6c3188-5d33-4473-bdd4-0cb9671e9047,,74.02600958247776,Male,,,Squamous,IIIB,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUSC,6205bb0d-f5ad-4181-a62b-5cb21415ff8e,,52.84325804243669,Male,,,Squamous,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,b838706d-01e9-45aa-869d-a94168773bcd,,55.58110882956879,Male,,,Squamous,IIA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,637e900e-64ab-4bff-82b9-3ba6b5632f35,,66.99794661190965,Male,,,Squamous,IIIA,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,644f0c64-c710-4faa-ada5-cbb9a52acf93,,62.83093771389459,Male,,,Squamous,IIB,,,,2.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,67e92755-396e-4d9a-b737-979eadc743f9,,56.09856262833676,Male,,,Squamous,IIB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,67f40b3a-882c-4ac9-9038-0e7b10a5ccdc,,71.68514715947981,Male,,,Squamous,IB,,,,2.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,7b599ce3-6aed-4333-8ba5-2b1bf7ec7aab,,60.101300479123886,Male,,,Squamous,IIA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,a0b3fab8-7817-429b-aa34-7ef03e813313,,71.66598220396989,Male,,,Squamous,IIIA,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,6d991de7-8bfb-40a6-9070-edea041bd782,,47.71800136892539,Male,,,Squamous,IIA,,,,3.0,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUSC,6eae9623-b4f2-440c-8283-46c7016f953a,,64.95824777549623,Male,,,Squamous,IIIA,,,,1.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,74c4b266-a08d-4882-b96e-28d2a4db0a9b,,70.0561259411362,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,3b25aff2-9b5f-491a-8eff-d71a9cc8666b,,,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,b913d254-8307-4b8a-8313-d978e32bb38f,,54.247775496235455,Male,,,Squamous,IIIA,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,7b236171-2e7a-4018-b297-560ea8279ec0,,58.43668720054757,Male,,,Squamous,IIA,,,,1.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,3d1f4059-2220-45b4-a4d2-b14f76cec96a,,56.44900752908966,Male,,,Squamous,IIA,,,,4.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,ede3e359-bc49-4899-abe5-92dc65588286,,72.33401779603011,Male,,,Squamous,IIB,,,,,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUSC,7d905f8f-3967-4ea8-96c8-17b1b03fbec3,,70.23134839151267,Male,,,Squamous,IIA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,7fa49ecb-74a2-42cb-9bc9-1cbbfdde0d28,,60.96646132785763,Male,,,Squamous,IB,,,,4.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,aecd6689-f203-4519-afab-3f46ee9d3e2c,,53.034907597535934,Male,,,Squamous,IIB,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,d3f8c35d-5197-43fa-a243-2baf9c44cf74,,57.412731006160165,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,9b07ef0c-1329-4341-a5a4-42abe7a6737c,,,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,06b70dee-14d2-45c7-b6f0-4d1d29c575ea,,67.77823408624229,Male,,,Squamous,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,806e9c81-a76f-42d1-bc4d-8687b950b980,,66.66666666666667,Male,,,Squamous,IA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,81b7cbc1-c037-426f-95b0-d729a30697da,,70.3025325119781,Male,,,Squamous,,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,861d45aa-b15d-4e7e-b751-f55a64c4cac3,,73.38261464750171,Male,,,Squamous,IA,,,,,,,0.0,,,Exon19del,,1.0
+GDC,TCGA-LUSC,1535c8ab-100d-4886-8598-12a94483d010,,60.832306639288156,Male,,,Squamous,IIB,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,169b32f1-4371-464c-ac94-22b7d7389403,,68.55304585900069,Male,,,"Renal cell carcinoma, chromophobe type",I,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,8a0f8d00-86a0-4c63-a8d5-43bd2e13bd96,,57.333333333333336,Male,,,Squamous,IIA,,,,0.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,8ba2cf7b-e474-4aba-8c6d-9fd36f5c6759,,70.27789185489391,Male,,,Squamous,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,8bb3ed57-6e48-4c90-bcf2-baf9a843398f,,73.09787816563997,Male,,,Squamous,IIA,,,,,,,0.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUSC,2d25094f-dc1f-4013-bc6b-54c64a666faa,,,Male,,,Squamous,IA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,4eaf5d63-9b33-4c7f-871e-45daa735f972,,80.46817248459959,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,90648a49-997b-418c-9724-bd1d216eb861,,62.71594798083505,Male,,,Squamous,IA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,f1a1bbf9-4751-4fb4-8a2b-19f8d4ba57bd,,63.983572895277206,Male,,,Squamous,IIIA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,55bafaad-323b-4b92-813e-52d18d70fc3e,,65.6125941136208,Male,,,Squamous,IIB,,,,1.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,9293e197-e38a-4e19-a7d0-1b45d1ad48bd,,71.34565366187543,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,4fbf2497-0774-4599-8c90-1961612b8e3a,,70.66392881587953,Male,,,Squamous,IIIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,e7d1b042-5b1c-4c29-b501-a5ef4810ecd2,,73.19644079397673,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,9a874b64-d0d6-416e-97bc-e9071ed0b16b,,77.83709787816564,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,9af6ed4e-8cdc-4f49-84e9-ba1053b5b3ca,,68.75017111567419,Male,,,Squamous,IIIB,,,,,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,9b4c86f2-6811-4e11-8104-fc020edbe1e2,,73.347022587269,Male,,,Squamous,IA,,,,1.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,9eb9e06f-bdfd-47f0-b5be-472a1e276f2c,,80.22997946611909,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,9d841e6a-b292-45be-8a7a-50d54606592b,,64.74743326488706,Male,,,Squamous,IB,,,,,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,46f35964-bd43-47e6-83fe-40da33828c94,,66.34907597535934,Male,,,Squamous,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,9eb34055-0e33-4b3a-827b-d7108b5b0629,,71.15947980835044,Male,,,Squamous,IA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,f8733921-44bc-4c62-8b2d-33a9b82ef665,,72.62149212867898,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,9f55bb37-4211-4e91-88ea-7b1d4f286598,,59.657768651608485,Male,,,Squamous,IA,,,,0.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,a02932f3-5606-42a5-aee4-e5b9f5aa1aaa,,68.24366872005476,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,a2d7c06b-efa9-4b7e-9ea6-b47c9ad6ef38,,,Male,,,Squamous,IB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,8479ec58-f5e7-4d9d-a382-2688ed93ca8e,,65.85626283367556,Male,,,Squamous,IIIB,,,,,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,a3583ffc-adb9-40f5-8ec5-8a4f6f432220,,76.75838466803559,Male,,,Squamous,IIB,,,,,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,df7c9193-0bd2-4fd9-8ae1-1f9d341e92c5,,61.13347022587269,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,a57414a5-fcdb-47b5-b07e-edc7dc460783,,59.3429158110883,Male,,,Squamous,IA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,a8764401-d2a5-45dd-941d-2ffb2e7a4664,,70.69130732375086,Male,,,Squamous,IB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,aa00283a-4a9e-4600-8046-43adc6833218,,61.672826830937716,Male,,,Squamous,IA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,d38dbe20-bd5a-45d5-8db3-d5f777b454b6,,57.333333333333336,Male,,,Squamous,,,,,,,,0.0,,,Exon19del,,1.0
+GDC,TCGA-LUSC,aabc43bb-485a-49bc-b48a-d4e4ecd46d33,,68.66529774127311,Male,,,Squamous,IIIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,6467bc69-4e89-49f6-8912-fa86d513cf51,,69.65366187542779,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,adc853b1-b8bf-488c-a1e2-e95603459b55,,61.56605065023956,Male,,,Squamous,IA,,,,0.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,aeb67cc2-1573-4782-a6f8-baef7c2c5c47,,73.09514031485284,Male,,,Squamous,IIA,,,,0.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,df7cfd84-a36a-44a0-b39f-a9ea1e0fd500,,63.9233401779603,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,d3e604d1-f8e3-47f7-86fb-104035590af8,,67.61943874058863,Male,,,Squamous,IIB,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,9ed5c6fe-24d2-4ee6-88ba-7319c9cfa05e,,57.7741273100616,Male,,,Squamous,IIIA,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,d4bc755a-2585-4529-ae36-7e1d88bdecfe,,82.03696098562628,Male,,,Squamous,,,,,4.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,b162b3bf-8097-4466-b08f-6434f541038f,,75.77549623545517,Male,,,Not Reported,,,,,4.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,59b006b0-4a81-41c8-9574-29a732428e29,,57.541409993155376,Male,,,Squamous,,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUSC,b4dc4f02-ef59-4c23-bfea-815255bb6427,,49.74127310061601,Male,,,Squamous,IA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,b9a81947-0348-4fe6-a0ac-d674cd13aa99,,66.40109514031485,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,3d5a904a-3834-45bf-9212-c06d46d917f9,,56.662559890485966,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,bb2a7057-6df5-4eb9-ad0f-9ac47314889e,,62.50513347022587,Male,,,Squamous,,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,bcb6447f-3e4c-44fe-afc3-100d5dbe9ba2,,46.026009582477755,Male,,,Squamous,IIA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,02eb85cc-a597-4eaa-9614-c94c0f035929,,65.347022587269,Male,,,Squamous,IIA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,f03aacb8-5565-425f-a8d5-be1056f882e0,,74.12183436002738,Male,,,Squamous,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,fb2fc561-3870-439c-90e2-13ef9e47c013,,74.0561259411362,Male,,,Squamous,IIB,,,,0.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,c0bb1051-09b2-46f3-a22b-fe313b1a6a4e,,66.92676249144422,Male,,,Squamous,IB,,,,2.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,c1cac0d3-8074-4636-a0b9-47eeede6503b,,58.80082135523614,Male,,,Squamous,IA,,,,0.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUSC,8e6020a1-68df-4d57-ad4e-33acc0861fb3,,70.61738535249829,Male,,,Squamous,IIIA,,,,2.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,211bb982-16f4-4f07-b24f-e633703f24c4,,81.29500342231348,Male,,,Not Reported,,,,,4.0,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUSC,c32e04c5-2760-4a11-a7a9-ded1f4eb3a8c,,66.91581108829568,Male,,,Squamous,IB,,,,,,,0.0,,,,1.0,1.0
+GDC,TCGA-LUSC,c652350b-9e6c-421d-8027-8b8819e4ac6c,,52.4517453798768,Male,,,Squamous,IIA,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,c8802713-b814-4b55-993f-3ffebf8c3ab8,,52.83504449007529,Male,,,Squamous,,,,,4.0,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUSC,44c56277-37e5-47a9-b476-d8475ef477ca,,84.75838466803559,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,921daff1-65e7-4182-9822-04f48f0a178d,,53.91375770020534,Male,,,Squamous,IB,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,e88eb552-addc-4030-9c54-4bf7d381a703,,69.51403148528405,Male,,,Squamous,IB,,,,0.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,d11c4976-ba19-4616-be79-d1e321c26d07,,66.18480492813141,Male,,,Not Reported,,,,,4.0,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUSC,553f810b-e917-4935-a875-dc9b902d0789,,70.45037645448323,Male,,,Squamous,IIIA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,26556020-3daf-4b8b-a3de-c0532c96aca0,,66.2094455852156,Male,,,Squamous,IB,,,,1.0,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUSC,791f1b21-695e-4db1-b41d-80590c09d257,,69.41820670773443,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,b5865f1e-604d-487d-8a19-dc0c887203ed,,53.347022587268995,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,d598c429-6027-44a1-88a9-e0c396490942,,67.55373032169747,Male,,,Squamous,IA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,00fd9306-4a68-49ab-a768-e5fed126a765,,59.493497604380565,Male,,,Squamous,IIB,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,d856855f-3069-4169-a192-9113d8542cfb,,71.81930184804928,Male,,,Squamous,IB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,0425cb44-66af-4e25-afcb-cacccc2f1179,,72.15058179329226,Male,,,Squamous,,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,da61857a-b00e-4a19-ab02-8fbb2ee56bea,,76.85694729637235,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,06f36fce-f20f-4e37-8222-81a642c7bba0,,75.9069130732375,Male,,,Squamous,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,08ce6fee-2e8b-4398-8c99-aa426d03f523,,,Male,,,Not Reported,,,,,1.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,0c80ab20-7e33-4f1d-b136-07782b68e98b,,73.7905544147844,Male,,,Squamous,IIA,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,dc6ceece-efaa-4b9d-9e12-d35863d7a902,,58.63655030800821,Male,,,Squamous,,,,,1.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUSC,0d3c11b5-856e-4d41-b94a-b2e32f9c5792,,55.85763175906913,Male,,,Squamous,IA,,,,2.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUSC,dca4c540-897f-435b-9ee2-8f5b2e8734c6,,71.75633127994524,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,0df0d6b6-66aa-4e76-8675-aa93787b93e3,,78.08350444900753,Male,,,Squamous,I,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,ddac166a-425a-4fce-8df8-f945a2eaa198,,77.2375085557837,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUSC,0e2ee54a-51c9-4868-842d-a2a1c1cfb016,,61.57973990417522,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,dff43217-7857-42ca-b87b-058c774a6aa7,,64.75838466803559,Male,,,Squamous,IIB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,e1a2cccc-f0ce-4d23-bd58-e098009ebdac,,57.83436002737851,Male,,,Squamous,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,10d8e6ad-f7ef-4acf-a9c2-25834bea71c9,,71.57015742642027,Male,,,Squamous,IB,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,14b159f8-c31b-4e2a-a76d-fe32026e85bb,,68.80766598220397,Male,,,Squamous,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,e2e9a34a-8838-4e08-bb80-83f357704328,,77.07323750855578,Male,,,Squamous,IIA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,e487c72f-2cb4-4a88-bd69-cd006d5b4c1a,,56.50102669404517,Male,,,Squamous,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUSC,174cdc32-e94a-4829-b6b7-df560de55be2,,62.66392881587954,Male,,,Squamous,IIIB,,,,,,,0.0,,,,,1.0
+GDC,TCGA-LUSC,1a49a131-d714-40d7-85b6-c4822c0c6264,,63.397672826830934,Male,,,Squamous,I,,,,3.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUAD,2b68b51f-bd4c-4bbb-b4e6-2eead53da2a4,,70.94045174537987,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,7093024b-cf56-4783-b973-b72573ed7f2b,,49.14715947980835,Male,,,Acinar cell carcinoma,IA,,,,0.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,b256e065-c681-4f82-8b68-a8ef7c413791,,,Male,,,Adenocarcinoma,,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,75589307-f141-4d0d-b35d-adbbc77b3dec,,87.1129363449692,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,78a24c56-576c-4245-bb42-6603b3d19897,,65.4154688569473,Male,,,Adenocarcinoma,IIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,75dd635e-8e0c-4c0b-b21c-20f77770218d,,71.61943874058863,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,762dea8a-5b41-4058-979a-b7876ed13d7e,,76.58042436687201,Male,,,Adenocarcinoma,IIIB,,,,,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUAD,765ad5a5-134b-4680-a6d4-1dd113dc47cc,,51.85215605749487,Male,,,Adenocarcinoma,IIIA,,,,1.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,e1c55bac-bb41-4964-add5-ecd6ba04b58d,,42.6694045174538,Male,,,Adenocarcinoma,IIIA,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,7782ceaa-da49-4232-8b3f-534971adaad8,,81.26762491444217,Male,,,Adenocarcinoma,IB,,,,3.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,009be09b-f9f6-43b7-8f45-4a648f8123ce,,84.0684462696783,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,01e9888d-b5b9-48f1-8ba6-8a89af108a04,,49.6290212183436,Male,,,Adenocarcinoma,IIIA,,,,,,,0.0,,,,0.0,0.0
+GDC,TCGA-LUAD,028e99e9-5b9a-4954-bb6e-6d4709a3cea8,,,Male,,,"Bronchiolo-alveolar carcinoma, non-mucinous",IB,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,78ae716b-0ca5-4c01-a053-d41288385fcd,,,Male,,,Adenocarcinoma,IB,,,,4.0,,,1.0,,,Wild_type,,0.0
+GDC,TCGA-LUAD,03c3409a-9d16-41d0-9e26-f9fc2547a4c8,,74.96509240246407,Male,,,Adenocarcinoma,,,,,1.0,,,0.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,055e9a43-3c00-4110-a303-e4407676bec0,,54.52977412731006,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,7a111b4f-46e9-4e34-8024-0b9fdc5cbcd8,,70.5242984257358,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,7b89166e-c5b8-481b-aa70-495141499b91,,64.18343600273785,Male,,,Adenocarcinoma,IA,,,,0.0,,,1.0,,,,0.0,1.0
+GDC,TCGA-LUAD,7b9479ff-23d6-4689-91f0-02efc94300f9,,78.80082135523614,Male,,,Adenocarcinoma,IB,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,09078761-1c14-4d01-8e15-535c19a9b0f9,,59.26899383983573,Male,,,Adenocarcinoma,IB,,,,0.0,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,7c7d777b-bf00-4c24-97fc-922580d5605f,,67.72895277207392,Male,,,"Solid carcinoma, NOS",IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,7ca711ec-9ac0-4fa7-8a60-32ae84b8789a,,63.520876112251884,Male,,,Acinar cell carcinoma,IIA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,7cce924f-12a1-4895-9866-5d4b1869dde6,,67.82477754962355,Male,,,Adenocarcinoma,IIIA,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,7e7f089c-25f7-4e14-aed5-d741047b9e42,,52.26009582477755,Male,,,Adenocarcinoma,IIIA,,,,4.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,0d0d83d9-d558-4d38-977b-6f1b2471beda,,64.59137577002053,Male,,,Adenocarcinoma,,,,,1.0,,,1.0,,,,0.0,1.0
+GDC,TCGA-LUAD,7eb540b4-8dd3-4382-a488-e48b1c7213b3,,60.17522245037645,Male,,,Adenocarcinoma,IA,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,0df573ee-28f0-4244-b434-09e6ca59fbf0,,77.77138945927447,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,7fd03220-531e-4ef8-beca-e9703e8c0ae1,,65.19370294318959,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,0fe909ea-d52c-4b71-816f-57f62d4a5744,,61.831622176591374,Male,,,Acinar cell carcinoma,IIB,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,1070ff27-17c9-43dd-a4f6-daa643eb9123,,56.33401779603012,Male,,,Adenocarcinoma,IA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,81a0b2ff-a3d3-41bb-9ce6-765e6ae894af,,58.34360027378508,Male,,,Adenocarcinoma,IIIA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,82476d2d-e403-4f6b-8dd6-cc84e3329478,,74.46132785763176,Male,,,Adenocarcinoma,IIIA,,,,,,,1.0,,,Exon19del,1.0,0.0
+GDC,TCGA-LUAD,12c07138-e3fa-418a-89e3-628da12bc99e,,69.49760438056126,Male,,,Adenocarcinoma,IIA,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,83e38dbd-edab-47f2-b19f-6ea38fc6bece,,58.00958247775496,Male,,,Adenocarcinoma,IB,,,,0.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,12ccd581-a921-41bc-bcee-4e9be54532cc,,75.92881587953457,Male,,,Adenocarcinoma,IB,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,1427cd18-5ad3-491a-9981-908e31ae49db,,78.96235455167694,Male,,,"Bronchiolo-alveolar carcinoma, non-mucinous",IB,,,,3.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,851867cb-9ad0-4fdf-ac75-9bb0427ad440,,73.98767967145791,Male,,,Adenocarcinoma,IB,,,,0.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,86faf16c-56fd-4b7b-a6b2-b4c83bec93e1,,69.25119780971937,Male,,,Adenocarcinoma,IIB,,,,1.0,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,16d3c1c1-cf3a-44b6-b564-8ae5464b243d,,61.85352498288843,Male,,,Adenocarcinoma,,,,,2.0,,,1.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,87f1b3df-4bc7-4336-b658-f30ac1c5c796,,72.05201916495551,Male,,,Acinar cell carcinoma,IA,,,,0.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,8869000d-09d7-465a-ac32-54d1935c43e7,,66.80903490759754,Male,,,Adenocarcinoma,IB,,,,2.0,,,1.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,8981f0c9-7155-4c96-bf77-7d40fe404323,,73.31143052703628,Male,,,Adenocarcinoma,IIB,,,,,,,0.0,,,Exon19del,,1.0
+GDC,TCGA-LUAD,1ab7ad70-0f80-41d8-8efa-3baebc8223cc,,63.7015742642026,Male,,,Adenocarcinoma,IV,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,1b110eb4-a01d-4c50-ba18-77da4dedd549,,70.02874743326488,Male,,,"Bronchio-alveolar carcinoma, mucinous",IB,,,,,,,1.0,,,,0.0,1.0
+GDC,TCGA-LUAD,1c339545-c08a-4a77-b8e9-a7e49e53853f,,69.65092402464066,Male,,,Acinar cell carcinoma,IA,,,,,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,8d0736fe-261c-445c-bfd2-a3ea3ceaf367,,59.50444900752909,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,1d276b62-5e64-48fb-b2ce-5192b511fe37,,,Male,,,"Bronchiolo-alveolar carcinoma, non-mucinous",IB,,,,,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,8f04660a-2efb-4947-9eab-375066b9eb33,,76.70088980150582,Male,,,Adenocarcinoma,IB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,1f0a5312-0590-4230-9da9-fd0cfe693586,,70.48870636550308,Male,,,Adenocarcinoma,IA,,,,,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,8fdbd88f-19ae-4ab8-bcd7-6bfa1bbde742,,60.03285420944559,Male,,,"Bronchiolo-alveolar carcinoma, non-mucinous",IB,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,9240d5fc-de23-4436-8099-da9bd3054860,,70.43942505133471,Male,,,Adenocarcinoma,IIB,,,,0.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,205759a6-6391-491b-9857-0080c3a5871e,,,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,93766482-2f20-4c8f-bbd8-bdd203c37d5a,,,Male,,,Adenocarcinoma,IIIA,,,,1.0,,,1.0,,,Wild_type,,0.0
+GDC,TCGA-LUAD,22302e92-fdfa-462a-9249-efdaa26ee5ed,,59.36208076659822,Male,,,Adenocarcinoma,,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,243c6fd6-5516-46e5-bcef-292d93d7b7d3,,75.81930184804928,Male,,,Adenocarcinoma,IA,,,,0.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,95fa64b0-91e1-4427-b81a-53c47a053563,,,Male,,,"Basal cell carcinoma, NOS",,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,258a3a41-211b-4c66-bd3b-ef03014a6967,,80.85968514715948,Male,,,Acinar cell carcinoma,IB,,,,,,,0.0,,,,,1.0
+GDC,TCGA-LUAD,967d6548-5a84-4b7e-bc3f-2e522859fce6,,79.03901437371663,Male,,,Adenocarcinoma,IB,,,,0.0,,,0.0,,,,,1.0
+GDC,TCGA-LUAD,26a92e1b-08d8-45cd-af0c-eaf2514808a2,,67.43600273785079,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,96dfa373-4597-49a5-942e-d9b4dc5d28fc,,65.37713894592744,Male,,,Adenocarcinoma,,,,,1.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,27fceec1-3298-4cdd-a4e6-8f5cf34604f0,,53.1854893908282,Male,,,Adenocarcinoma,IIIA,,,,1.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,97831d28-ab41-4c18-bfc2-c4c6bc757d13,,64.70636550308008,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,2a394996-809f-459f-a647-d209921ccbd2,,41.51129363449692,Male,,,Adenocarcinoma,IIB,,,,1.0,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,2cd8ea73-cb3f-4b17-9b97-fa12eb03b85b,,61.946611909650926,Male,,,Adenocarcinoma,IA,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,996a0070-e9bf-4601-8ef7-60212108258d,,,Male,,,Adenocarcinoma,,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,9a2a226e-9605-4214-9320-469305e664e6,,41.24572210814511,Male,,,Adenocarcinoma,I,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,2efc156c-464a-4c2f-a854-39fefe32081c,,77.7056810403833,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,9b132e4f-7e35-4cc5-8711-43ad62b906d0,,63.15400410677618,Male,,,Adenocarcinoma,IV,,,,,,,0.0,,,Exon19del,1.0,0.0
+GDC,TCGA-LUAD,2f09479f-87fc-4c34-8e2c-333e970a3681,,81.82614647501711,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Exon19del,,1.0
+GDC,TCGA-LUAD,2f1a4b16-104c-40eb-8114-8245847bb716,,57.270362765229294,Male,,,"Solid carcinoma, NOS",IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,9c894668-88f5-4308-a1c0-6b8acc6aaaec,,70.41478439425052,Male,,,Adenocarcinoma,IIA,,,,2.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,30f276a8-3a4b-4de8-aea0-7f605d100401,,64.66803559206024,Male,,,Adenocarcinoma,IV,,,,1.0,,,1.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,9dda72ec-1698-44e2-b35c-11e9a2704380,,71.9315537303217,Male,,,Acinar cell carcinoma,IV,,,,1.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,31458638-e19c-43e5-ab13-9c64b3b3681d,,68.18069815195072,Male,,,"Bronchio-alveolar carcinoma, mucinous",IA,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,9e640ff7-996e-427b-b56c-519a1e23baab,,63.87405886379192,Male,,,Adenocarcinoma,IB,,,,0.0,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,9f4f2ff3-3c02-4281-a398-b0d0955e58eb,,77.7905544147844,Male,,,Adenocarcinoma,IIB,,,,1.0,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUAD,31ff69b5-9e58-44da-8326-bdfc7ee495c4,,45.89733059548254,Male,,,Adenocarcinoma,IA,,,,0.0,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,a0e57b39-960e-4e46-8aa0-d0ee2fd9a7cc,,59.93429158110883,Male,,,Adenocarcinoma,IIB,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,32a7b827-c3f9-4607-ae63-dae8caa2bc97,,48.40520191649555,Male,,,Adenocarcinoma,I,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,a214a959-3b21-4f25-a615-383cda7afdff,,56.64613278576318,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,33c71ead-4c2a-476d-85ef-885dbbfc2cbd,,56.02190280629706,Male,,,Adenocarcinoma,IIIA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,a250a369-e536-4a18-b7af-2911133d7bdc,,80.73100616016427,Male,,,Squamous,,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,a391d49f-a822-460b-981c-6fbe1868ee38,,81.60711841204655,Male,,,Adenocarcinoma,IIIA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,a3de401d-91fe-49a2-bb07-81c1a06506e6,,70.25325119780972,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,349e6f38-2c67-4a69-a777-b9173a2a27cf,,85.51403148528405,Male,,,Adenocarcinoma,IB,,,,3.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,a3fd20b2-e001-44ab-9716-754e5ae70808,,78.30527036276523,Male,,,Adenocarcinoma,,,,,2.0,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUAD,35cb7841-9b09-465a-90c5-e3b8a9faad49,,,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,362000e4-cf7c-48fc-93cc-8f5994b442ea,,88.85420944558521,Male,,,Squamous,IA,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,a5bd7d50-9c14-49e6-89cf-6bf440c42309,,71.67693360711841,Male,,,Acinar cell carcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,a65700c2-e58c-4fd4-aeb1-5686b8f4d212,,74.68856947296372,Male,,,Adenocarcinoma,IIB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,36ad7fc7-0cc1-4f01-aef1-f89b3cb4feac,,73.11156741957564,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,36bf02f8-c1c8-49f9-a417-adf88a205c70,,71.41409993155374,Male,,,Adenocarcinoma,IB,,,,,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,a816e355-be6f-4d16-b051-b6d86ed8cded,,63.290896646132786,Male,,,Adenocarcinoma,IIB,,,,2.0,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUAD,37c8d73a-45ae-40fc-ba9a-721b755c1160,,58.913073237508556,Male,,,"Bronchiolo-alveolar carcinoma, non-mucinous",IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,a8de1beb-6296-44eb-bd63-c603f70faaf3,,76.4517453798768,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,389f78a3-fa0b-406c-9434-aa0298341a8c,,,Male,,,Not Reported,,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,a9644274-13bb-4228-9b4f-14260ccc26eb,,83.03080082135524,Male,,,Adenocarcinoma,IIIA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,3a23cdb5-2327-45ac-b0b5-d4afe038c757,,59.9151266255989,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,3afa5045-a1ee-4a07-8aad-2e252b2f7d7a,,56.26830937713895,Male,,,Adenocarcinoma,,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,3b21b982-dba2-45f4-ad8d-21dc86fcaaa7,,80.63518138261465,Male,,,Adenocarcinoma,IA,,,,0.0,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,abab925c-bef3-4072-b9c4-40f808744593,,71.19233401779603,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,3bc7026f-73f2-418b-bd62-f4768582b790,,61.42915811088296,Male,,,Adenocarcinoma,IIB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,3bd6badb-27ff-4d8d-b206-4d28dc264862,,74.12183436002738,Male,,,Adenocarcinoma,IIIA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,3c4ff061-d214-4d1c-8d2e-3034f207c252,,74.19301848049281,Male,,,Adenocarcinoma,,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,aea68827-dc0f-484d-a00d-06deeaa4b3ce,,82.66666666666667,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,3d2aa654-1b5f-4eb4-a1c2-af31f5760069,,41.503080082135526,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,afe83af5-af22-49c0-88b4-f1d0dfcbe238,,60.94455852156057,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,3e1df30f-744a-41e9-a169-7dbbff66622e,,54.8145106091718,Male,,,Adenocarcinoma,IIIA,,,,1.0,,,0.0,,,Wild_type,,0.0
+GDC,TCGA-LUAD,3e34c7d9-90fa-41e2-ba6b-4bbc332adc4e,,71.30458590006845,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,b266cbf5-80de-4473-b16f-08c502d365ca,,72.0,Male,,,Acinar cell carcinoma,IA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,b36b7567-30d3-4d0c-84c4-b203986e0fdb,,59.611225188227245,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,41c4c704-825e-49f5-9d54-dbd7d30725e0,,55.619438740588635,Male,,,Not Reported,,,,,0.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,b87a5d92-4c09-48fe-bb08-b3c89a7c892e,,79.14579055441479,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,b89de053-d253-447f-952e-9a2edcf6bca5,,78.652977412731,Male,,,Adenocarcinoma,IIA,,,,1.0,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUAD,b8b5ed35-b299-4c1e-9226-5ca055dc7a43,,76.72005475701575,Male,,,Acinar cell carcinoma,IB,,,,,,,0.0,,,,,1.0
+GDC,TCGA-LUAD,42d208bd-cd77-4bfb-ad53-9fc072a87393,,51.676933607118414,Male,,,"Bronchiolo-alveolar carcinoma, non-mucinous",IIIB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,433a32d0-93d1-4897-8e36-beb1ec1d998e,,73.74127310061601,Male,,,Adenocarcinoma,IIIA,,,,0.0,,,1.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,44adf4cb-2829-4153-80fd-a8b7ee0e654a,,69.7905544147844,Male,,,Adenocarcinoma,IA,,,,1.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,44d8c859-4b7a-4e9d-bffc-0de0e6afdcc4,,59.605749486652975,Male,,,Adenocarcinoma,IIA,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,bc4c4079-b449-485d-84e4-a40496e563e8,,61.79603011635866,Male,,,"Bronchiolo-alveolar carcinoma, non-mucinous",IB,,,,,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,bd4e9a9f-17f3-4d33-92fc-fcc45dd0e7b4,,72.78028747433265,Male,,,Adenocarcinoma,IA,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,bebd0025-74e2-451b-93b3-86f82df43573,,57.09240246406571,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,bf755bc2-b7aa-4c3c-8b3c-58b089b5cab6,,78.01505817932923,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,c0c879f7-c332-4d31-9f7e-a3bf361b36ee,,52.76386036960986,Male,,,Adenocarcinoma,IA,,,,0.0,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,47b749e6-e060-4aa1-8f29-976e489ba789,,61.6290212183436,Male,,,Adenocarcinoma,IIB,,,,1.0,,,0.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,482eb2a7-6fed-4e4c-b1b6-14d6d869f855,,62.5927446954141,Male,,,Adenocarcinoma,IIA,,,,2.0,,,0.0,,,Exon19del,,1.0
+GDC,TCGA-LUAD,488646a1-0bdb-45f8-8c30-bef006924511,,,Male,,,Adenocarcinoma,IB,,,,0.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,497cc506-03fe-4ffa-860b-5a12adb1bc7d,,74.6611909650924,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,c4c1469d-752f-42b6-8686-714ad4a8ac97,,,Male,,,Adenocarcinoma,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,4ad63dac-76a7-4527-abce-d7a0184e8739,,75.65229295003422,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,4addf05f-3668-4b3f-a17f-c0227329ca52,,67.16495550992471,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,c6b680e3-d96e-4fc7-8053-77454b7a14fa,,74.09171800136893,Male,,,Adenocarcinoma,,,,,0.0,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,4b7cd595-e7f9-45a8-b736-a8c7c42d9539,,49.163586584531146,Male,,,Adenocarcinoma,,,,,2.0,,,1.0,,,,,0.0
+GDC,TCGA-LUAD,4b92fce2-3772-40eb-ab34-a27937b58590,,75.5564681724846,Male,,,Adenocarcinoma,IIB,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,c9c533ee-e154-4a56-bce9-b5af37574b2f,,62.4394250513347,Male,,,Adenocarcinoma,,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,4cd3d483-2283-4c6a-a57a-444216119d34,,56.12320328542094,Male,,,Not Reported,,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,cc3d9750-7ce0-489f-86d4-8017b7ebed29,,79.36481861738535,Male,,,Adenocarcinoma,IIA,,,,,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUAD,4e7b2af4-b158-41a7-be22-bea227a759e6,,77.91375770020534,Male,,,Adenocarcinoma,IIIA,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,cc68632c-b1e3-491b-b562-9468e2d1c101,,70.61190965092402,Male,,,Adenocarcinoma,IIA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,4efc2dac-6330-4b7a-a529-a27285f5fc23,,,Male,,,Adenocarcinoma,IB,,,,0.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,501c987e-d1eb-48a9-89eb-72a5062c90b4,,59.526351813826146,Male,,,Adenocarcinoma,IIIB,,,,1.0,,,1.0,,,Exon19del,1.0,0.0
+GDC,TCGA-LUAD,ccda26c1-a6d6-4317-8cf8-8a87e15ce12e,,66.41752224503765,Male,,,Not Reported,,,,,1.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,5202458b-c38a-47c0-a0ba-5f1a59a762a0,,39.77275838466804,Male,,,Adenocarcinoma,IA,,,,3.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,ccfdad76-cc45-447f-bed8-ede8f6a8844d,,76.5119780971937,Male,,,"Bronchiolo-alveolar carcinoma, non-mucinous",IIIA,,,,0.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,cd0dc947-b708-464e-beb7-954c9d4583e7,,66.40109514031485,Male,,,Adenocarcinoma,IIIA,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,532c1852-76dd-489f-9380-36766d6e3c34,,61.927446954141,Male,,,Adenocarcinoma,IIIA,,,,0.0,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,cd9e70e4-8622-4a07-8646-63f8275c1737,,52.78850102669404,Male,,,Adenocarcinoma,,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,54775a66-08cc-4f38-98f2-e7b2b5cec994,,69.30869267624914,Male,,,Adenocarcinoma,IA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,ceead734-1ce0-4385-b65a-a9c853b7308e,,57.18822724161533,Male,,,Adenocarcinoma,IA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,d15b7b29-c5c5-41d8-b83b-7cc12fe92820,,57.3305954825462,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,d2824e6d-3784-45c2-9b0f-52b17356b5da,,,Male,,,"Bronchiolo-alveolar carcinoma, non-mucinous",IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,d344dae0-adf4-4697-b703-7690c13d8331,,74.03148528405202,Male,,,Adenocarcinoma,IIIA,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,d3ff328c-2488-47bd-8663-366b6812c7b5,,76.72553045859,Male,,,Adenocarcinoma,IIA,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,562a562b-ca03-44ac-b282-b51b457d8dae,,71.78370978781656,Male,,,Adenocarcinoma,,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,d45aee46-838e-44af-8422-46710b3240a8,,63.121149897330596,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,575752f8-2788-43cd-afde-f0f600f39d18,,,Male,,,"Basal cell carcinoma, NOS",,,,,1.0,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,d63c028b-b6d3-49ce-b63e-261eed3b86df,,53.086926762491444,Male,,,Adenocarcinoma,IA,,,,3.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,d6e274a0-6425-437b-bc07-1225be7808d5,,52.75838466803559,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,5a2f8140-8f90-4e94-b703-5fa5aa96be7b,,65.49486652977413,Male,,,Adenocarcinoma,IIA,,,,,,,1.0,,,Wild_type,,0.0
+GDC,TCGA-LUAD,5abd6651-69be-42f8-bdc0-308e68136d31,,60.238193018480494,Male,,,Adenocarcinoma,IB,,,,1.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,5c06d97f-2aaa-43de-b085-09d7829356ba,,,Male,,,Adenocarcinoma,IA,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,5c266025-e590-457c-af86-4c2dc9797267,,81.61806981519507,Male,,,Adenocarcinoma,,,,,0.0,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUAD,da345947-498b-4272-a231-a987ed4fe151,,73.37440109514031,Male,,,Adenocarcinoma,IA,,,,0.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,5d5cc436-6e57-4d23-a164-7f5153c2e666,,59.4798083504449,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,5d7ec32a-049f-4997-9882-1b3ac157e02d,,75.04175222450377,Male,,,Adenocarcinoma,IA,,,,0.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,5f4934be-eee3-40e1-8838-38103badc898,,76.64065708418892,Male,,,Adenocarcinoma,IIIA,,,,,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,dbd5b0de-94c9-45dd-afb3-6820a7ecaca2,,52.86789869952088,Male,,,Adenocarcinoma,IB,,,,2.0,,,0.0,,,,,1.0
+GDC,TCGA-LUAD,dc9eaaa0-0bfd-46d0-994f-310826879da4,,42.039698836413415,Male,,,Adenocarcinoma,IB,,,,1.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,dcd066ba-5894-453e-b1da-82092858c3db,,52.84325804243669,Male,,,Adenocarcinoma,IIA,,,,4.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,6144d666-8f77-4efe-95f1-f9e5c4e5e056,,62.27241615331965,Male,,,Adenocarcinoma,IA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,61c655ec-52b5-453f-a6cc-b2aba445b027,,77.91923340177961,Male,,,Adenocarcinoma,,,,,2.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,62380447-3b94-4e7c-823a-72dd7b4ccf3a,,62.83915126625599,Male,,,Adenocarcinoma,IIIA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,63bd2175-4b7c-44c9-aef3-9efc8f79837b,,60.41341546885695,Male,,,Adenocarcinoma,IIIA,,,,,,,0.0,,,,1.0,1.0
+GDC,TCGA-LUAD,646910ee-5f5d-40ac-a21a-75790f89430a,,59.51540041067762,Male,,,Adenocarcinoma,IIIA,,,,0.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,656a5eb4-e4a5-4d21-a800-3586f4d6588b,,63.950718685831625,Male,,,"Bronchiolo-alveolar carcinoma, non-mucinous",IB,,,,0.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,659668e8-f0d9-4ff2-bbc8-9246f2ef49ab,,70.82819986310746,Male,,,Adenocarcinoma,IA,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,66763a0c-6cda-4832-a0cc-e7b496d78eaa,,70.33264887063655,Male,,,Adenocarcinoma,IIB,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,66ed89f6-8ba2-49d0-af0f-4b6ebf2381bf,,71.40588637919234,Male,,,Adenocarcinoma,IA,,,,2.0,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUAD,673493f6-975c-49e8-934c-001e9a0fff90,,82.10540725530458,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,67dbe286-edb3-4d07-8f74-9e5254f01945,,81.74674880219028,Male,,,Adenocarcinoma,IIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,67fa3e41-c7c6-44c5-9e67-6bcb2715aacc,,60.48733744010951,Male,,,Adenocarcinoma,IIB,,,,2.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,681b1176-9676-44d3-892c-1d5dba1ce25b,,,Male,,,Adenocarcinoma,,,,,0.0,,,1.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,6845099a-b2c9-48d8-b856-9903d39bb92e,,70.11088295687885,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,68b86559-38b2-41f2-b66e-c3c2b628b14d,,60.52292950034223,Male,,,Adenocarcinoma,IB,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,69584d55-18f7-4786-b3cc-cd528500be44,,51.75359342915811,Male,,,Adenocarcinoma,IV,,,,,,,0.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,6bffe800-ec2b-4638-9333-97fe85dcd91c,,46.83915126625599,Male,,,Adenocarcinoma,IIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,6c3655ca-8ae7-4ad7-b3e4-0c3ec293fba7,,45.541409993155376,Male,,,Adenocarcinoma,IIIA,,,,,,,0.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,6cf49cf0-de4c-4c90-8358-eae19c6206b0,,38.50513347022587,Male,,,Adenocarcinoma,IA,,,,1.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,6d96a298-be5a-4e14-afe8-ca4b6ca298d6,,54.36002737850787,Male,,,Adenocarcinoma,IB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,6e3b6b72-142d-4b8d-a462-28a205796e41,,60.878850102669404,Male,,,Adenocarcinoma,IA,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,dd46c83e-6551-485b-b935-f3beed891244,,78.60643394934976,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,dd63d0fd-e24b-40a5-88c5-7d3d4106631e,,60.79671457905544,Male,,,Adenocarcinoma,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,ddeacccf-0953-4952-8a4e-c2617f2e7bcc,,61.52224503764545,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,df576520-a6b6-4c9b-8d06-3f59cc5342fd,,,Male,,,Adenocarcinoma,IIB,,,,0.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,e00a60d7-4253-443d-a187-680ad0931349,,73.44284736481862,Male,,,Adenocarcinoma,IB,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,e01e4fb3-236a-4d16-9073-555876b688e9,,57.295003422313485,Male,,,Adenocarcinoma,,,,,4.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,e0a19099-5d25-40df-ad73-6260df3a1b32,,69.49486652977413,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,e10568fe-0436-43f2-9f0f-48f9903868c4,,49.6974674880219,Male,,,Adenocarcinoma,IIIA,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,e16ca88f-488b-40f0-9169-e5a62482a2ff,,43.723477070499655,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,e21e2af3-dc71-41fa-94ba-7a7929f47d90,,66.32169746748802,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,e254aaeb-012c-4d92-8a03-cce1f6a2bcd6,,59.28815879534565,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,e2b0d873-4942-4483-9a88-d5c6338d0382,,81.90280629705681,Male,,,Adenocarcinoma,IB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,e379cf55-68ef-4fbc-af3e-0a5040c27f0f,,74.25051334702259,Male,,,Adenocarcinoma,,,,,,,,1.0,,,,0.0,0.0
+GDC,TCGA-LUAD,e43a2b72-35c6-4466-9007-ce96caf77ea8,,54.83093771389459,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,e499069b-a16a-49e9-941a-e3e9ea62af25,,71.68514715947981,Male,,,Adenocarcinoma,,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,e5cb0c86-8fe2-4cfc-b32b-e8ec3839ffc4,,58.53798767967146,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,e5f956dd-f49f-435c-83c3-5b1b0a2050ed,,77.10609171800137,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,e60a8f8a-0fe6-40e5-9f30-bcff48ac73f4,,85.49760438056126,Male,,,Acinar cell carcinoma,,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,e68219b0-a9c2-49df-8f0d-db5ea97fd2dc,,,Male,,,"Bronchio-alveolar carcinoma, mucinous",IA,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,e6e75590-9520-4b1c-8a28-4a1d2b2218fc,,76.6050650239562,Male,,,"Bronchiolo-alveolar carcinoma, non-mucinous",IA,,,,,,,0.0,,,Wild_type,1.0,1.0
+GDC,TCGA-LUAD,e737f650-b72d-44e7-b750-558a56716803,,66.66666666666667,Male,,,Adenocarcinoma,IIB,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,e739b4f7-ae46-45c6-9013-9571cbadaf99,,75.17043121149898,Male,,,Adenocarcinoma,IA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,e7d30bc2-42e8-49c5-a5b3-9f58411b007a,,67.9233401779603,Male,,,Adenocarcinoma,IIB,,,,1.0,,,1.0,,,Exon19del,0.0,0.0
+GDC,TCGA-LUAD,e8b7a103-644f-4865-92f8-80b053bd5e17,,57.70294318959617,Male,,,Adenocarcinoma,IB,,,,,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,ef03654a-dcf1-41ff-a67e-4f3fbf9ba807,,76.5201916495551,Male,,,Adenocarcinoma,IA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,ef42ae4c-a108-468e-beed-437cf3cf2962,,58.55715263518138,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,f063ddbb-1668-40df-9ec2-b0a23ca2c389,,,Male,,,Adenocarcinoma,IIB,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,f0c94f68-bfd9-45cb-b4fd-8bb1ae4e9a2b,,85.24024640657085,Male,,,Adenocarcinoma,,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,f17d3463-af6c-42c2-a8e9-fae45f69286f,,,Male,,,Adenocarcinoma,IIA,,,,,,,0.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,f1f80dd2-891d-46dd-a3e0-f007628cb515,,52.114989733059545,Male,,,Adenocarcinoma,IA,,,,2.0,,,1.0,,,Wild_type,1.0,0.0
+GDC,TCGA-LUAD,f2d8b332-2f03-46e5-a9d5-f163972e5fa7,,61.281314168377826,Male,,,"Bronchio-alveolar carcinoma, mucinous",IA,,,,0.0,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,f327dea0-2d30-482f-809c-76a148a749b7,,72.73100616016427,Male,,,Adenocarcinoma,IIA,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,f3f024c2-52f1-400e-946c-398f5b72e6dc,,55.715263518138265,Male,,,Adenocarcinoma,IIIA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,f40301ba-831e-4afd-9ce8-5f3c1a05ff7e,,74.7378507871321,Male,,,Adenocarcinoma,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,f4350d9c-3f40-4829-bbc4-8acb2f3ff512,,55.32101300479124,Male,,,"Solid carcinoma, NOS",IB,,,,,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,f462cfef-f60a-4d3e-b92d-b8d8f50b6bb3,,59.644079397672826,Male,,,Adenocarcinoma,IIB,,,,,,,0.0,,,Wild_type,,0.0
+GDC,TCGA-LUAD,f59e5a76-f803-470b-910c-a897a149d939,,62.08350444900753,Male,,,Adenocarcinoma,IIIA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,f61d599a-43bd-4743-9568-678317e75955,,74.25598904859685,Male,,,Adenocarcinoma,IIB,,,,0.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,f77b6930-a1ce-446e-a15d-c018cbbecfee,,51.36755646817249,Male,,,Adenocarcinoma,IIB,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,f77cf4d3-9829-4fd3-95a1-b29aed9e94b8,,70.99520876112251,Male,,,Adenocarcinoma,,,,,,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,f7f9f522-de88-4f9c-8ba4-7be3726faaf8,,57.83983572895277,Male,,,Adenocarcinoma,,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,f809e21d-5f2e-4f3b-a1aa-d6b8d463552a,,78.01505817932923,Male,,,Adenocarcinoma,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,f809e7d9-a75e-41c9-ac2c-5bec6ffcb4a2,,64.2819986310746,Male,,,Acinar cell carcinoma,IB,,,,1.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,f934ed41-090e-4313-bbc5-d1a4a9ed9ad7,,73.89733059548254,Male,,,Adenocarcinoma,IA,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,fa0c7392-d485-41ac-bf7e-244a528209ae,,72.73648186173854,Male,,,Adenocarcinoma,IIIB,,,,,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,fb6b289c-aaf9-4d8e-b6e0-5d35bce1b6e1,,58.666666666666664,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,fb79c491-7b01-42ae-8369-8364e442e31b,,55.71252566735113,Male,,,Adenocarcinoma,IIB,,,,1.0,,,0.0,,,,0.0,1.0
+GDC,TCGA-LUAD,fcfe0b53-dfc1-42fa-9efc-2b2ff259297e,,65.48665297741273,Male,,,Invasive micropapillary carcinoma,IB,,,,0.0,,,0.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,fd3fc273-c035-40ea-a459-ff4806f5d592,,61.06776180698152,Male,,,Not Reported,,,,,,,,1.0,,,Wild_type,0.0,1.0
+GDC,TCGA-LUAD,fd5c44ef-ea50-4fba-9e8d-e371cf34ebdb,,54.78713210130048,Male,,,Not Reported,,,,,0.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,fe3eeeb6-0db4-46d7-a020-55604d474c12,,79.4551676933607,Male,,,Not Reported,,,,,1.0,,,1.0,,,Wild_type,0.0,0.0
+GDC,TCGA-LUAD,fe714ac0-f874-426a-924b-a2980232b5f7,,58.110882956878854,Male,,,Adenocarcinoma,IB,,,,0.0,,,0.0,,,Wild_type,,1.0
+GDC,TCGA-LUAD,ff07ea4b-4e50-410d-99d6-96a351dad7b1,,60.82956878850103,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,Exon19del,0.0,1.0
+GDC,TCGA-LUAD,ffb0c0b7-165e-4439-b3e6-62431f40b7fe,,77.73305954825462,Male,,,Adenocarcinoma,IA,,,,,,,0.0,,,,0.0,1.0

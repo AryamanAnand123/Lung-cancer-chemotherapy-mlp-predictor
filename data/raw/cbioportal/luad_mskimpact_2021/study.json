@@ -1,0 +1,35 @@
+﻿{
+    "name":  "Lung Adenocarcinoma (MSK, 2021)",
+    "description":  "Targeted sequencing of 186 matched normal samples from 186 lung adenocarcinoma patient via MSK-IMPACT.",
+    "publicStudy":  true,
+    "groups":  "",
+    "status":  0,
+    "importDate":  "2026-01-16 18:40:59",
+    "allSampleCount":  1,
+    "sequencedSampleCount":  186,
+    "cnaSampleCount":  186,
+    "mrnaRnaSeqSampleCount":  0,
+    "mrnaRnaSeqV2SampleCount":  0,
+    "mrnaMicroarraySampleCount":  0,
+    "miRnaSampleCount":  0,
+    "methylationHm27SampleCount":  0,
+    "rppaSampleCount":  0,
+    "massSpectrometrySampleCount":  0,
+    "completeSampleCount":  0,
+    "readPermission":  true,
+    "treatmentCount":  1,
+    "structuralVariantCount":  52,
+    "resourceCounts":  [
+
+                       ],
+    "studyId":  "luad_mskimpact_2021",
+    "cancerTypeId":  "luad",
+    "cancerType":  {
+                       "name":  "Lung Adenocarcinoma",
+                       "dedicatedColor":  "Gainsboro",
+                       "shortName":  "LUAD",
+                       "parent":  "nsclc",
+                       "cancerTypeId":  "luad"
+                   },
+    "referenceGenome":  "hg19"
+}

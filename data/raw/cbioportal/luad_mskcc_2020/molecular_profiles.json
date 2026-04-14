@@ -1,0 +1,32 @@
+﻿[
+    {
+        "molecularAlterationType":  "COPY_NUMBER_ALTERATION",
+        "datatype":  "DISCRETE",
+        "name":  "Copy Number Alterations (MSK-IMPACT)",
+        "description":  "Copy number alterations from targeted sequencing via MK-IMPACT on Illumina HiSeq sequencers.",
+        "showProfileInAnalysisTab":  true,
+        "patientLevel":  false,
+        "molecularProfileId":  "luad_mskcc_2020_cna",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "molecularAlterationType":  "MUTATION_EXTENDED",
+        "datatype":  "MAF",
+        "name":  "Mutations",
+        "description":  "Targeted sequencing of 604 lung adenocarcinoma tumor/normal pairs via MSK-IMPACT on Illumina HiSeq sequencers.",
+        "showProfileInAnalysisTab":  true,
+        "patientLevel":  false,
+        "molecularProfileId":  "luad_mskcc_2020_mutations",
+        "studyId":  "luad_mskcc_2020"
+    },
+    {
+        "molecularAlterationType":  "STRUCTURAL_VARIANT",
+        "datatype":  "SV",
+        "name":  "Structural variants",
+        "description":  "Structural Variant Data.",
+        "showProfileInAnalysisTab":  true,
+        "patientLevel":  false,
+        "molecularProfileId":  "luad_mskcc_2020_structural_variants",
+        "studyId":  "luad_mskcc_2020"
+    }
+]

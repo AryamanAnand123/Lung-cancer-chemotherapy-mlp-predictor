@@ -1,0 +1,47 @@
+﻿{
+    "name":  "Lung Adenocarcinoma (TCGA, PanCancer Atlas)",
+    "description":  "Lung Adenocarcinoma TCGA PanCancer data. The original data is \u003ca href=\"https://gdc.cancer.gov/about-data/publications/pancanatlas\"\u003ehere\u003c/a\u003e. The publications are \u003ca href=\"https://www.cell.com/pb-assets/consortium/pancanceratlas/pancani3/index.html\"\u003ehere\u003c/a\u003e.",
+    "publicStudy":  true,
+    "pmid":  "29625048,29596782,29622463,29617662,29625055,29625050,29617662,30643250,32214244,29625049,29850653,36334560",
+    "citation":  "TCGA, Cell 2018",
+    "groups":  "PUBLIC;PANCAN",
+    "status":  0,
+    "importDate":  "2026-01-16 16:17:23",
+    "allSampleCount":  1,
+    "sequencedSampleCount":  566,
+    "cnaSampleCount":  511,
+    "mrnaRnaSeqSampleCount":  0,
+    "mrnaRnaSeqV2SampleCount":  510,
+    "mrnaMicroarraySampleCount":  0,
+    "miRnaSampleCount":  0,
+    "methylationHm27SampleCount":  0,
+    "rppaSampleCount":  360,
+    "massSpectrometrySampleCount":  0,
+    "completeSampleCount":  503,
+    "readPermission":  true,
+    "treatmentCount":  202,
+    "structuralVariantCount":  403,
+    "resourceCounts":  [
+                           {
+                               "resourceId":  "IDC_OHIF_V2",
+                               "displayName":  "CT Scan",
+                               "description":  "CT Scan",
+                               "resourceType":  "PATIENT",
+                               "priority":  "1",
+                               "openByDefault":  true,
+                               "sampleCount":  546,
+                               "patientCount":  546,
+                               "studyId":  "luad_tcga_pan_can_atlas_2018"
+                           }
+                       ],
+    "studyId":  "luad_tcga_pan_can_atlas_2018",
+    "cancerTypeId":  "luad",
+    "cancerType":  {
+                       "name":  "Lung Adenocarcinoma",
+                       "dedicatedColor":  "Gainsboro",
+                       "shortName":  "LUAD",
+                       "parent":  "nsclc",
+                       "cancerTypeId":  "luad"
+                   },
+    "referenceGenome":  "hg19"
+}

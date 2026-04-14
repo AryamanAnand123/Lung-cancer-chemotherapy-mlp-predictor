@@ -1,0 +1,47 @@
+﻿{
+    "name":  "Lung Squamous Cell Carcinoma (TCGA, PanCancer Atlas)",
+    "description":  "Lung Squamous Cell Carcinoma TCGA PanCancer data. The original data is \u003ca href=\"https://gdc.cancer.gov/about-data/publications/pancanatlas\"\u003ehere\u003c/a\u003e. The publications are \u003ca href=\"https://www.cell.com/pb-assets/consortium/pancanceratlas/pancani3/index.html\"\u003ehere\u003c/a\u003e.",
+    "publicStudy":  true,
+    "pmid":  "29625048,29596782,29622463,29617662,29625055,29625050,29617662,30643250,32214244,29625049,29850653,36334560",
+    "citation":  "TCGA, Cell 2018",
+    "groups":  "PUBLIC;PANCAN",
+    "status":  0,
+    "importDate":  "2026-01-07 23:05:04",
+    "allSampleCount":  1,
+    "sequencedSampleCount":  484,
+    "cnaSampleCount":  487,
+    "mrnaRnaSeqSampleCount":  0,
+    "mrnaRnaSeqV2SampleCount":  484,
+    "mrnaMicroarraySampleCount":  0,
+    "miRnaSampleCount":  0,
+    "methylationHm27SampleCount":  0,
+    "rppaSampleCount":  317,
+    "massSpectrometrySampleCount":  0,
+    "completeSampleCount":  466,
+    "readPermission":  true,
+    "treatmentCount":  150,
+    "structuralVariantCount":  408,
+    "resourceCounts":  [
+                           {
+                               "resourceId":  "IDC_OHIF_V2",
+                               "displayName":  "CT Scan",
+                               "description":  "CT Scan",
+                               "resourceType":  "PATIENT",
+                               "priority":  "1",
+                               "openByDefault":  true,
+                               "sampleCount":  487,
+                               "patientCount":  487,
+                               "studyId":  "lusc_tcga_pan_can_atlas_2018"
+                           }
+                       ],
+    "studyId":  "lusc_tcga_pan_can_atlas_2018",
+    "cancerTypeId":  "lusc",
+    "cancerType":  {
+                       "name":  "Lung Squamous Cell Carcinoma",
+                       "dedicatedColor":  "Gainsboro",
+                       "shortName":  "LUSC",
+                       "parent":  "nsclc",
+                       "cancerTypeId":  "lusc"
+                   },
+    "referenceGenome":  "hg19"
+}

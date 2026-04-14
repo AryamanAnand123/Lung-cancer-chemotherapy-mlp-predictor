@@ -1,0 +1,140 @@
+:root {
+  --bg-1: #f3f5f7;
+  --bg-2: #e9eef3;
+  --ink: #17202a;
+  --ink-soft: #4c5b68;
+  --line: #d8e0e8;
+  --primary: #134b70;
+  --accent: #247ba0;
+  --card: rgba(255, 255, 255, 0.86);
+}
+
+body {
+  font-family: "Space Grotesk", sans-serif;
+  background: linear-gradient(165deg, var(--bg-1), var(--bg-2));
+  color: var(--ink);
+  min-height: 100vh;
+}
+
+.card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-1px);
+}
+
+.app-bg {
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background:
+    radial-gradient(circle at 8% 5%, rgba(19, 75, 112, 0.20), transparent 38%),
+    radial-gradient(circle at 94% 20%, rgba(36, 123, 160, 0.20), transparent 32%),
+    radial-gradient(circle at 25% 92%, rgba(19, 75, 112, 0.14), transparent 34%);
+}
+
+.top-nav {
+  background: rgba(19, 31, 43, 0.92);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.09);
+  backdrop-filter: blur(8px);
+}
+
+.navbar-brand {
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.nav-link {
+  font-weight: 600;
+  color: rgba(255, 255, 255, 0.82) !important;
+}
+
+.nav-link:hover {
+  color: #ffffff !important;
+}
+
+.glass-card {
+  border-radius: 20px;
+  background: var(--card);
+  border: 1px solid rgba(255, 255, 255, 0.62) !important;
+  box-shadow: 0 14px 36px rgba(18, 38, 56, 0.1);
+  backdrop-filter: blur(6px);
+}
+
+.page-title {
+  font-family: "Source Serif 4", serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.subtitle-copy {
+  max-width: 66ch;
+}
+
+.metric-card {
+  background: linear-gradient(180deg, #ffffff, #f6f9fc);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 16px;
+  height: 100%;
+}
+
+.form-label {
+  font-weight: 600;
+  color: #1d2f3f;
+}
+
+.metric-label {
+  font-size: 0.74rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-soft);
+  margin-bottom: 6px;
+}
+
+.metric-value {
+  font-size: 1.08rem;
+  font-weight: 700;
+  color: #0f1720;
+}
+
+.btn-primary {
+  background: linear-gradient(135deg, var(--primary), var(--accent));
+  border: none;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+}
+
+.btn-primary:hover {
+  filter: brightness(1.05);
+}
+
+.form-control,
+.form-select {
+  border-color: var(--line);
+  border-radius: 12px;
+  min-height: 42px;
+}
+
+.form-control:focus,
+.form-select:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 0.2rem rgba(36, 123, 160, 0.18);
+}
+
+table.table th {
+  white-space: nowrap;
+  color: #314657;
+}
+
+.table td,
+.table th {
+  vertical-align: middle;
+}
+
+@media (max-width: 992px) {
+  .page-title {
+    font-size: 1.45rem;
+  }
+}

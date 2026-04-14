@@ -1,0 +1,37 @@
+﻿{
+    "name":  "Non-Small Cell Lung Cancer (MSK, Cancer Cell 2018)",
+    "description":  "Whole-exome sequencing of 75 tumor/normal NSCLC pairs treated with PD-1 plus CTLA-4 blockade..",
+    "publicStudy":  true,
+    "pmid":  "29657128",
+    "citation":  "Hellmann et al. Cancer Cell 2018",
+    "groups":  "",
+    "status":  0,
+    "importDate":  "2026-01-12 13:56:27",
+    "allSampleCount":  1,
+    "sequencedSampleCount":  75,
+    "cnaSampleCount":  0,
+    "mrnaRnaSeqSampleCount":  0,
+    "mrnaRnaSeqV2SampleCount":  0,
+    "mrnaMicroarraySampleCount":  0,
+    "miRnaSampleCount":  0,
+    "methylationHm27SampleCount":  0,
+    "rppaSampleCount":  0,
+    "massSpectrometrySampleCount":  0,
+    "completeSampleCount":  0,
+    "readPermission":  true,
+    "treatmentCount":  0,
+    "structuralVariantCount":  0,
+    "resourceCounts":  [
+
+                       ],
+    "studyId":  "nsclc_mskcc_2018",
+    "cancerTypeId":  "nsclc",
+    "cancerType":  {
+                       "name":  "Non-Small Cell Lung Cancer",
+                       "dedicatedColor":  "Gainsboro",
+                       "shortName":  "NSCLC",
+                       "parent":  "lung",
+                       "cancerTypeId":  "nsclc"
+                   },
+    "referenceGenome":  "hg19"
+}

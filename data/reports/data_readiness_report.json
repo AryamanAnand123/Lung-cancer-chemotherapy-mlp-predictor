@@ -1,0 +1,24 @@
+{
+  "total_rows_harmonized": 585148,
+  "rows_mortality_ready": 552781,
+  "rows_response_ready": 901,
+  "source_counts": {
+    "SEER": 580328,
+    "cBio": 3754,
+    "GDC": 1066
+  },
+  "mortality_label_counts": {
+    "1.0": 312308,
+    "0.0": 240473
+  },
+  "response_label_counts": {
+    "1.0": 600,
+    "0.0": 301
+  },
+  "output_files": {
+    "harmonized": "C:\\Users\\aryam\\OneDrive\\Desktop\\c\\Cancerproject\\data\\processed\\harmonized_real_world.csv",
+    "mortality_ready": "C:\\Users\\aryam\\OneDrive\\Desktop\\c\\Cancerproject\\data\\processed\\mortality_training_ready.csv",
+    "response_ready": "C:\\Users\\aryam\\OneDrive\\Desktop\\c\\Cancerproject\\data\\processed\\response_training_ready.csv",
+    "feature_coverage": "C:\\Users\\aryam\\OneDrive\\Desktop\\c\\Cancerproject\\data\\reports\\feature_coverage_report.csv"
+  }
+}

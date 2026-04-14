@@ -1,0 +1,2522 @@
+﻿[
+    {
+        "uniquePatientKey":  "VENHQS0xOC0zNDA2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-18-3406",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0xOC0zNDA3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-18-3407",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0xOC0zNDA4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-18-3408",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0xOC0zNDEwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-18-3410",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0xOC0zNDExOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-18-3411",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0xOC0zNDEyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-18-3412",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0xOC0zNDE0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-18-3414",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0xOC0zNDE1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-18-3415",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0xOC0zNDE2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-18-3416",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0xOC0zNDE3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-18-3417",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0xOC0zNDE5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-18-3419",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0xOC0zNDIxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-18-3421",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0xOC00MDgzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-18-4083",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0xOC00MDg2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-18-4086",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0xOC00NzIxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-18-4721",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0xOC01NTkyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-18-5592",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMS0xMDcxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-21-1071",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMS0xMDcyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-21-1072",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMS0xMDc1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-21-1075",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMS0xMDc2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-21-1076",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMS0xMDc5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-21-1079",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMS0xMDgwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-21-1080",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMS0xMDgxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-21-1081",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMS0xMDgyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-21-1082",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMS01NzgyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-21-5782",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMS01NzgzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-21-5783",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMS01Nzg0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-21-5784",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMS01Nzg2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-21-5786",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMS01Nzg3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-21-5787",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi0xMDAwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-1000",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi0xMDAyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-1002",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi0xMDA1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-1005",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi0xMDExOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-1011",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi0xMDEyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-1012",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi0xMDE2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-1016",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi0xMDE3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-1017",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi00NTkxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-4591",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi00NTkzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-4593",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi00NTk0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-4594",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi00NTk1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-4595",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi00NTk2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-4596",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi00NTk5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-4599",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi00NjAxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-4601",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi00NjA0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-4604",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi00NjA1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-4605",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi00NjA3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-4607",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi00NjA5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-4609",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi00NjEzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-4613",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi01NDcxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-5471",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi01NDcyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-5472",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi01NDczOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-5473",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi01NDc0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-5474",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi01NDc3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-5477",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi01NDc4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-5478",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi01NDc5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-5479",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi01NDgwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-5480",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi01NDgxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-5481",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi01NDgyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-5482",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi01NDgzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-5483",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi01NDg1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-5485",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi01NDg5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-5489",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi01NDkxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-5491",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi01NDkyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-5492",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi1BNUM0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-A5C4",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy00NTMyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-4532",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy00NTMzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-4533",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy00NTM4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-4538",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy00NTQ3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-4547",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy00NTY2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-4566",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy00NTgyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-4582",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy00NTgzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-4583",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy00NTg2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-4586",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy00NTg3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-4587",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy00NTg5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-4589",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy02NzM4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-6738",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy1BNFdOOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-A4WN",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy1BNUdXOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-A5GW",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy1BQVM4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-AAS8",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy1BQVNCOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-AASB",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy1BQVNEOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-AASD",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy1BQVNJOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-AASI",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy1BQVNKOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-AASJ",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy1BQVNMOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-AASL",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC0yNTk2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-2596",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC0yNjAwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-2600",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC0yNjA0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-2604",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC0yNjA1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-2605",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC0yNjA4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-2608",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC0yNjA5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-2609",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC01MjMxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-5231",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC01MjMyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-5232",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC01MjM0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-5234",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC01MjM2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-5236",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC01MjM5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-5239",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC01MjQwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-5240",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC01MjQxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-5241",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC01OTI3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-5927",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC01OTI4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-5928",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC01OTI5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-5929",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC03MTA3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-7107",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC04NDU0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-8454",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC04NDU1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-8455",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC04NDU2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-8456",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNC1BNUlYOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-34-A5IX",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNy0zNzgzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-37-3783",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNy0zNzg5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-37-3789",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNy0zNzkyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-37-3792",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNy00MTI5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-37-4129",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNy00MTMwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-37-4130",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNy00MTMyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-37-4132",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNy00MTMzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-37-4133",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNy00MTM1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-37-4135",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNy00MTQxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-37-4141",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNy01ODE5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-37-5819",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNy1BNUVMOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-37-A5EL",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNy1BNUVOOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-37-A5EN",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zOS01MDExOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-39-5011",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zOS01MDE2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-39-5016",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zOS01MDE5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-39-5019",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zOS01MDIxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-39-5021",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zOS01MDIyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-39-5022",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zOS01MDI0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-39-5024",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zOS01MDI3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-39-5027",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zOS01MDI4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-39-5028",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zOS01MDI5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-39-5029",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zOS01MDMwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-39-5030",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zOS01MDMxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-39-5031",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zOS01MDM0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-39-5034",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zOS01MDM1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-39-5035",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zOS01MDM2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-39-5036",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zOS01MDM3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-39-5037",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zOS01MDM5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-39-5039",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zOS01MDQwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-39-5040",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My0yNTc2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-2576",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My0yNTc4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-2578",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My0yNTgxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-2581",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My0zMzk0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-3394",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My0zOTIwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-3920",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My01NjY4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-5668",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My01NjcwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-5670",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My02MTQzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-6143",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My02NjQ3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-6647",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My02NzcwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-6770",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My02NzcxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-6771",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My02NzczOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-6773",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My03NjU2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-7656",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My03NjU3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-7657",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My03NjU4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-7658",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My04MTE1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-8115",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My04MTE2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-8116",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My04MTE4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-8118",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My1BNDc0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-A474",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My1BNDc1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-A475",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My1BNTZVOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-A56U",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00My1BNTZWOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-43-A56V",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00Ni0zNzY1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-46-3765",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00Ni0zNzY2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-46-3766",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00Ni0zNzY3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-46-3767",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00Ni0zNzY4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-46-3768",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00Ni0zNzY5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-46-3769",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00Ni02MDI1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-46-6025",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS00Ni02MDI2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-46-6026",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01MS00MDc5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-51-4079",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01MS00MDgwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-51-4080",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01MS00MDgxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-51-4081",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Mi03NjIyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-52-7622",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Mi03ODA5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-52-7809",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Mi03ODEwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-52-7810",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Mi03ODExOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-52-7811",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Mi03ODEyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-52-7812",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni0xNjIyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-1622",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni01ODk3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-5897",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni01ODk4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-5898",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni02NTQ1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-6545",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni02NTQ2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-6546",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni03MjIxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-7221",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni03MjIyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-7222",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni03MjIzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-7223",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni03NTc5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-7579",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni03NTgwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-7580",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni03NTgyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-7582",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni03NzMwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-7730",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni03NzMxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-7731",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni03ODIyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-7822",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni03ODIzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-7823",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni04MDgyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-8082",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni04MDgzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-8083",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni04MjAxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-8201",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni04MzA0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-8304",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni04MzA1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-8305",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni04MzA3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-8307",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni04MzA4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-8308",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni04MzA5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-8309",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni04NTAzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-8503",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni04NTA0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-8504",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni04NjIyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-8622",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni04NjIzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-8623",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni04NjI0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-8624",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni04NjI1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-8625",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni04NjI2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-8626",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni04NjI4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-8628",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni04NjI5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-8629",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni1BNDlEOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-A49D",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni1BNEJXOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-A4BW",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni1BNEJYOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-A4BX",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni1BNEJZOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-A4BY",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni1BNFpKOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-A4ZJ",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni1BNFpLOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-A4ZK",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni1BNURSOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-A5DR",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni1BNURTOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-A5DS",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01Ni1BNjJUOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-56-A62T",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01OC04Mzg2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-58-8386",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01OC04Mzg3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-58-8387",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01OC04Mzg4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-58-8388",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01OC04MzkwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-58-8390",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01OC04MzkxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-58-8391",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01OC04MzkyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-58-8392",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01OC04MzkzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-58-8393",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01OC1BNDZKOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-58-A46J",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01OC1BNDZLOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-58-A46K",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01OC1BNDZMOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-58-A46L",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01OC1BNDZNOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-58-A46M",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01OC1BNDZOOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-58-A46N",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNjk1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2695",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNjk3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2697",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNjk4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2698",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzAzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2703",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzA0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2704",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzA2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2706",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzA3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2707",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzA4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2708",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzA5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2709",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzEwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2710",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzExOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2711",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzEzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2713",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzE0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2714",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzE2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2716",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzE5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2719",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzIwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2720",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzIxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2721",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzIyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2722",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzIzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2723",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzI0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2724",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzI1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2725",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzI2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2726",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My01MTI4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-5128",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My01MTMxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-5131",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My02MjAyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-6202",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My03MDIwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-7020",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My03MDIxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-7021",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My03MDIyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-7022",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My03MDIzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-7023",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My1BNU05Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-A5M9",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My1BNU1COmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-A5MB",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My1BNU1HOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-A5MG",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My1BNU1IOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-A5MH",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My1BNU1JOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-A5MI",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My1BNU1KOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-A5MJ",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My1BNU1MOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-A5ML",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My1BNU1NOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-A5MM",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My1BNU1OOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-A5MN",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My1BNU1QOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-A5MP",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My1BNU1SOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-A5MR",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My1BNU1TOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-A5MS",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My1BNU1UOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-A5MT",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My1BNU1VOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-A5MU",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My1BNU1WOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-A5MV",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My1BNU1XOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-A5MW",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02My1BNU1ZOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-63-A5MY",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzI3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2727",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzM0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2734",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzM3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2737",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzQyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2742",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzQ0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2744",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzUzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2753",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzU0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2754",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzU1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2755",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzU2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2756",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzU3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2757",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzU4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2758",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzU5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2759",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzYzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2763",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzY1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2765",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzY2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2766",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzY3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2767",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzY4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2768",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzY5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2769",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzcwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2770",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzcxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2771",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzczOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2773",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzc3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2777",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzc4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2778",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzgwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2780",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzgxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2781",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzgyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2782",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzgzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2783",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzg1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2785",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzg2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2786",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzg3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2787",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzg4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2788",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzg5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2789",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzkwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2790",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzkxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2791",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzkyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2792",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzkzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2793",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzk0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2794",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yNzk1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2795",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02Ni0yODAwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-66-2800",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02OC03NzU1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-68-7755",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02OC03NzU2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-68-7756",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02OC03NzU3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-68-7757",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02OC04MjUwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-68-8250",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02OC04MjUxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-68-8251",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02OC1BNTlJOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-68-A59I",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02OC1BNTlKOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-68-A59J",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02QS1BQjQ5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-6A-AB49",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03MC02NzIyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-70-6722",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03MC02NzIzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-70-6723",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny02ODQyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-6842",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny02ODQzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-6843",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny02ODQ0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-6844",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny02ODQ1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-6845",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny03MTM4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-7138",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny03MTM5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-7139",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny03MTQwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-7140",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny03MTQxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-7141",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny03MTQyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-7142",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny03MzM1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-7335",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny03MzM3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-7337",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny03MzM4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-7338",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny03NDYzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-7463",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny03NDY1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-7465",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MDA3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8007",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MDA4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8008",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MDA5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8009",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MTI4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8128",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MTMwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8130",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MTMxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8131",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MTMzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8133",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MTM2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8136",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MTM4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8138",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MTM5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8139",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MTQwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8140",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MTQzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8143",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MTQ0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8144",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MTQ1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8145",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MTQ4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8148",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MTUwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8150",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MTUzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8153",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MTU0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8154",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MTU2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8156",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny1BNUZaOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-A5FZ",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny1BNUcxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-A5G1",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny1BNUczOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-A5G3",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny1BNUc2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-A5G6",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny1BNUc3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-A5G7",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny1BNUc4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-A5G8",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny1BNUdCOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-A5GB",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny1BNUdGOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-A5GF",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny1BNUdIOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-A5GH",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03OS01NTk2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-79-5596",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS02MTc1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-6175",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS02NTYwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-6560",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS02NTYxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-6561",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS02Nzk4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-6798",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS03Njk2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-7696",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS03Njk3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-7697",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS03Njk4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-7698",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS03Njk5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-7699",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS03NzEwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-7710",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS03ODQzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-7843",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS03ODQ0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-7844",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS03OTUwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-7950",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04MDQ4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8048",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04MDQ5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8049",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04MDUyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8052",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04MDcwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8070",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04MDcxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8071",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04MDcyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8072",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04Mjc2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8276",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04Mjc3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8277",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04Mjg3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8287",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04Mjg4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8288",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04MzUwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8350",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04MzUxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8351",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04MzUyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8352",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04MzUzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8353",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04MzU0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8354",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04MzU1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8355",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04NDc5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8479",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04NDgxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8481",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04NTgwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8580",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04NTgyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8582",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04NTg0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8584",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04NjY0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8664",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS04NjY2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-8666",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS1BNENMOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-A4CL",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS1BNENOOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-A4CN",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS1BNEpCOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-A4JB",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS1BNEpDOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-A4JC",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS1BNFBBOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-A4PA",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS1BNFFROmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-A4QQ",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS1BNFFSOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-A4QR",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS1BNTBNOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-A50M",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS1BNTBaOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-A50Z",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS1BNTEwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-A510",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS1BNTExOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-A511",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS1BNTEyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-A512",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS1BNTEzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-A513",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS1BNTNMOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-A53L",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS04NS1BNUI1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-85-A5B5",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05MC02ODM3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-90-6837",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05MC03NzY2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-90-7766",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05MC03NzY3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-90-7767",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05MC03NzY5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-90-7769",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05MC03OTY0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-90-7964",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05MC1BNEVEOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-90-A4ED",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05MC1BNEVFOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-90-A4EE",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05MC1BNTlROmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-90-A59Q",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05Mi03MzQwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-92-7340",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05Mi03MzQxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-92-7341",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05Mi04MDYzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-92-8063",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05Mi04MDY0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-92-8064",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05Mi04MDY1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-92-8065",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05NC03MDMzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-94-7033",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05NC03NTU3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-94-7557",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05NC03OTQzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-94-7943",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05NC04MDM1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-94-8035",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05NC04NDkwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-94-8490",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05NC04NDkxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-94-8491",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05NC1BNFZKOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-94-A4VJ",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05NC1BNUk0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-94-A5I4",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05NC1BNUk2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-94-A5I6",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05Ni03NTQ0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-96-7544",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05Ni03NTQ1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-96-7545",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05Ni04MTY5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-96-8169",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05Ni04MTcwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-96-8170",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05Ni1BNEpMOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-96-A4JL",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05OC03NDU0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-98-7454",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05OC04MDIwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-98-8020",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05OC04MDIxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-98-8021",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05OC04MDIyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-98-8022",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05OC04MDIzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-98-8023",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05OC1BNTM4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-98-A538",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05OC1BNTM5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-98-A539",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05OC1BNTNBOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-98-A53A",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05OC1BNTNCOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-98-A53B",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05OC1BNTNDOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-98-A53C",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05OC1BNTNEOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-98-A53D",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05OC1BNTNIOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-98-A53H",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05OC1BNTNJOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-98-A53I",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05OC1BNTNKOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-98-A53J",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1KMS1BNEFIOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-J1-A4AH",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1MMy1BNEU3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-L3-A4E7",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1MMy1BNTI0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-L3-A524",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1MQS1BNDQ2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-LA-A446",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1MQS1BN1NXOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-LA-A7SW",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1NRi1BNTIyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-MF-A522",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OQy1BNUhEOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NC-A5HD",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OQy1BNUhFOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NC-A5HE",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OQy1BNUhGOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NC-A5HF",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OQy1BNUhHOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NC-A5HG",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OQy1BNUhIOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NC-A5HH",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OQy1BNUhJOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NC-A5HI",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OQy1BNUhKOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NC-A5HJ",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OQy1BNUhLOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NC-A5HK",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OQy1BNUhMOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NC-A5HL",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OQy1BNUhNOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NC-A5HM",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OQy1BNUhOOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NC-A5HN",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OQy1BNUhPOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NC-A5HO",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OQy1BNUhQOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NC-A5HP",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OQy1BNUhROmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NC-A5HQ",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OQy1BNUhSOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NC-A5HR",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OQy1BNUhUOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NC-A5HT",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OSy1BNUNSOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NK-A5CR",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OSy1BNUNUOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NK-A5CT",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OSy1BNUNYOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NK-A5CX",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OSy1BN1hFOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NK-A7XE",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1PMi1BNTJOOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-O2-A52N",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1PMi1BNTJROmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-O2-A52Q",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1PMi1BNTJTOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-O2-A52S",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1PMi1BNTJWOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-O2-A52V",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1PMi1BNTJXOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-O2-A52W",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1PMi1BNUlCOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-O2-A5IB",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1YQy1BQTBYOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-XC-AA0X",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi0wOTQwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-0940",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMi0wOTQ0Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-22-0944",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0xOC0zNDA5Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-18-3409",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0xOC01NTk1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-18-5595",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMS0xMDcwOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-21-1070",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMS0xMDc3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-21-1077",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMS0xMDc4Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-21-1078",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMS0xMDgzOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-21-1083",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0yMS1BNURJOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-21-A5DI",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zMy02NzM3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-33-6737",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS0zNy1BNUVNOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-37-A5EM",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS01MS02ODY3Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-51-6867",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNjk2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2696",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzEyOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2712",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS02MC0yNzE1Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-60-2715",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny04MTQ2Omx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-8146",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS03Ny1BNUdBOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-77-A5GA",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS05Ni1BNEpLOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-96-A4JK",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    },
+    {
+        "uniquePatientKey":  "VENHQS1OSy1BNUQxOmx1c2NfdGNnYV9wYW5fY2FuX2F0bGFzXzIwMTg",
+        "patientId":  "TCGA-NK-A5D1",
+        "studyId":  "lusc_tcga_pan_can_atlas_2018"
+    }
+]

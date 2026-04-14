@@ -1,0 +1,10 @@
+﻿{
+    "molecularAlterationType":  "MUTATION_EXTENDED",
+    "datatype":  "MAF",
+    "name":  "Mutations",
+    "description":  "Mutation data from Whole exome sequencing of 73 tumor/normal pairs with non-small-cell lung cancer (NSCLC) treated with PD-1 plus CTLA-4 blockade.",
+    "showProfileInAnalysisTab":  true,
+    "patientLevel":  false,
+    "molecularProfileId":  "nsclc_mskcc_2018_mutations",
+    "studyId":  "nsclc_mskcc_2018"
+}

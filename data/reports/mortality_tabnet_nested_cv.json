@@ -1,0 +1,100 @@
+{
+  "task": "mortality",
+  "algorithm": "tabnet",
+  "n_rows": 150000,
+  "label_col": "mortality_1yr",
+  "notes": [
+    "dropped_features=egfr_mutation,performance_status"
+  ],
+  "outer_fold_metrics": [
+    {
+      "accuracy": 0.70658,
+      "balanced_accuracy": 0.7157061713886224,
+      "precision": 0.7965835117305256,
+      "recall": 0.6454616256018125,
+      "f1": 0.7131040147055948,
+      "auc": 0.7961441852265996,
+      "brier": 0.1923302322007325,
+      "fold": 1.0
+    },
+    {
+      "accuracy": 0.68878,
+      "balanced_accuracy": 0.7012608198652128,
+      "precision": 0.7949874453640844,
+      "recall": 0.6052249637155298,
+      "f1": 0.6872475128127826,
+      "auc": 0.7856944412927696,
+      "brier": 0.20003601164202559,
+      "fold": 2.0
+    },
+    {
+      "accuracy": 0.71808,
+      "balanced_accuracy": 0.7182335651714942,
+      "precision": 0.7684661785348458,
+      "recall": 0.7170519310418068,
+      "f1": 0.7418693231760914,
+      "auc": 0.794457370882387,
+      "brier": 0.1850186719361422,
+      "fold": 3.0
+    }
+  ],
+  "outer_mean": {
+    "accuracy": 0.7044799999999999,
+    "balanced_accuracy": 0.711733518808443,
+    "precision": 0.7866790452098186,
+    "recall": 0.6559128401197164,
+    "f1": 0.7140736168981564,
+    "auc": 0.7920986658005854,
+    "brier": 0.19246163859296675,
+    "fold": 2.0
+  },
+  "outer_std": {
+    "accuracy": 0.014762452370795359,
+    "balanced_accuracy": 0.009157237421847129,
+    "precision": 0.01579298076209086,
+    "recall": 0.05664131503613317,
+    "f1": 0.02732381082774112,
+    "auc": 0.0056099825594953445,
+    "brier": 0.007509532188519837,
+    "fold": 1.0
+  },
+  "outer_auc_ci_95": {
+    "method": "normal_approx_over_outer_folds",
+    "n_folds": 3,
+    "mean": 0.7920986658005854,
+    "lower": 0.7857503729164729,
+    "upper": 0.798446958684698
+  },
+  "calibration_metrics": {
+    "accuracy": 0.7259,
+    "balanced_accuracy": 0.7191356303311627,
+    "precision": 0.7505167661920074,
+    "recall": 0.7711959407634669,
+    "f1": 0.7607158446093409,
+    "auc": 0.7987024960000366,
+    "brier": 0.18096866867133132
+  },
+  "best_threshold": {
+    "threshold": 0.34,
+    "target_metric": "f1",
+    "metrics": {
+      "accuracy": 0.7157333333333333,
+      "balanced_accuracy": 0.687643630138162,
+      "precision": 0.6895170365035783,
+      "recall": 0.9038291344622101,
+      "f1": 0.7822601235765715,
+      "auc": 0.7987024960000366,
+      "brier": 0.18096866867133132
+    }
+  },
+  "artifacts": {
+    "model": "C:\\Users\\aryam\\OneDrive\\Desktop\\c\\Cancerproject\\data\\models\\mortality_tabnet_model.joblib",
+    "mapie": null,
+    "shap": null,
+    "shap_plot": null,
+    "calibration_plot": "C:\\Users\\aryam\\OneDrive\\Desktop\\c\\Cancerproject\\data\\reports\\mortality_tabnet_calibration_curve.png",
+    "roc_plot": "C:\\Users\\aryam\\OneDrive\\Desktop\\c\\Cancerproject\\data\\reports\\mortality_tabnet_roc_curve.png",
+    "probability_hist_plot": "C:\\Users\\aryam\\OneDrive\\Desktop\\c\\Cancerproject\\data\\reports\\mortality_tabnet_probability_hist.png",
+    "survival": null
+  }
+}

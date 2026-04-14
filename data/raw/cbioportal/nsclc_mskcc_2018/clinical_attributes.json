@@ -1,0 +1,227 @@
+﻿[
+    {
+        "displayName":  "Age (yrs)",
+        "description":  "Age (yrs)",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "AGE_YRS",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "Best Overall Response",
+        "description":  "Best Overall Response",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "BEST_OVERALL_RESPONSE",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "Cancer Type",
+        "description":  "Cancer Type",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "CANCER_TYPE",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "Cancer Type Detailed",
+        "description":  "Cancer Type Detailed",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "CANCER_TYPE_DETAILED",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "Durable Clinical Benefit",
+        "description":  "Durable Clinical Benefit",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "DURABLE_CLINICAL_BENEFIT",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "ECOG performance status",
+        "description":  "ECOG performance status",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "ECOG_PERFORMANCE_STATUS",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "Histology",
+        "description":  "Histology",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "HISTOLOGY",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "HLA_A1 allele",
+        "description":  "HLA_A1 allele",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "HLA_A1_ALLELE",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "HLA_A2 alleles",
+        "description":  "HLA_A2 alleles",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "HLA_A2_ALLELES",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "HLA_B1 alleles",
+        "description":  "HLA_B1 alleles",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "HLA_B1_ALLELES",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "HLA_B2 alleles",
+        "description":  "HLA_B2 alleles",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "HLA_B2_ALLELES",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "HLA_C1 alleles",
+        "description":  "HLA_C1 alleles",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "HLA_C1_ALLELES",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "HLA_C2 alleles",
+        "description":  "HLA_C2 alleles",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "HLA_C2_ALLELES",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "Mutation Count",
+        "description":  "Mutation Count",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "30",
+        "clinicalAttributeId":  "MUTATION_COUNT",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "Nonsynonymous Mutation Burden",
+        "description":  "Nonsynonymous Mutation Burden",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "NONSYNONYMOUS_MUTATION_BURDEN",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "Oncotree Code",
+        "description":  "Oncotree Code",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "ONCOTREE_CODE",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "PD-L1 expression (Percentage)",
+        "description":  "PD-L1 expression (Percentage)",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "PDL1_EXP",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "Progress Free Survival (Months)",
+        "description":  "Progress Free Survival (Months)",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "PFS_MONTHS",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "Progression Free Status",
+        "description":  "Progression Free Status",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "PFS_STATUS",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "Predicted neoantigen burden",
+        "description":  "Predicted neoantigen burden",
+        "datatype":  "NUMBER",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "PREDICTED_NEOANTIGEN_BURDEN",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "Number of Samples Per Patient",
+        "description":  "Number of Samples Per Patient",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "SAMPLE_COUNT",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "Sex",
+        "description":  "Sex",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "SEX",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "Smoking Status",
+        "description":  "Smoking Status (cigarettes only)",
+        "datatype":  "STRING",
+        "patientAttribute":  true,
+        "priority":  "1",
+        "clinicalAttributeId":  "SMOKING_STATUS",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "Somatic Status",
+        "description":  "Somatic Status.",
+        "datatype":  "STRING",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "SOMATIC_STATUS",
+        "studyId":  "nsclc_mskcc_2018"
+    },
+    {
+        "displayName":  "TMB (nonsynonymous)",
+        "description":  "TMB (nonsynonymous)",
+        "datatype":  "NUMBER",
+        "patientAttribute":  false,
+        "priority":  "1",
+        "clinicalAttributeId":  "TMB_NONSYNONYMOUS",
+        "studyId":  "nsclc_mskcc_2018"
+    }
+]

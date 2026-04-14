@@ -1,0 +1,403 @@
+PROJECT REPORT MASTER COPY (WORD-READY)
+
+========================================
+FORMATTING GUIDELINES (APPLY IN MS WORD)
+========================================
+1) Font:
+- Style: Times New Roman
+- Chapter Number + Chapter Title: 16, Bold, Center
+- Heading: 14, Bold, Left
+- Sub-heading: 13, Bold, Left, Indent 1.27 cm
+- Sub-sub heading: 12, Bold, Left, Indent 2.54 cm (max 3 levels only)
+- Normal paragraph text: 12, Normal
+
+2) Line spacing:
+- 1.15
+
+3) Page numbers:
+- Bottom center
+- Front matter: Roman numerals (i, ii, iii...)
+- Main chapters onward: Arabic numerals (1, 2, 3...)
+
+4) Page setup:
+- A4
+- Margins: Left 3 cm, Right 2 cm, Top 2 cm, Bottom 2 cm
+
+5) Figures and tables:
+- Tables: caption ABOVE
+- Figures: caption BELOW
+- Number all as chapter-wise (e.g., Figure 3.1, Table 5.2)
+
+6) Figure quality:
+- Minimum 400 DPI, no blurred images
+
+7) Typing quality:
+- Remove all spelling/grammar/spacing issues (red/blue underlines)
+
+8) Equations:
+- Use Equation Editor (no pasted equation images)
+- Number all equations and cite in text
+
+9) Tables:
+- Use editable tables (not screenshots)
+
+10) References:
+- IEEE style with in-text citations
+
+========================================
+INDEX
+========================================
+1. Introduction
+  1.1 Background
+  1.2 Project Overview
+  1.3 Motivation
+  1.4 Problem Statement
+  1.5 Objectives
+
+2. Literature Review
+  2.1 Machine Learning for Lung Cancer Mortality and Survival Prediction
+  2.2 Machine Learning for Chemotherapy Response and Complication Prediction
+  2.3 Explainability, Calibration, and Deployment in Clinical ML
+
+3. System Architecture and Methodology
+  3.1 Overview
+  3.2 Data Collection
+  3.3 Data Preprocessing and Cleaning
+  3.4 Feature Engineering
+  3.5 Model Selection and Training
+  3.6 Dual-Task Prediction Framework for Mortality and Response
+  3.7 Visualization and Explainability Pipeline
+  3.8 System Evaluation and Deployment
+
+4. System Requirements
+  4.1 Software Requirements
+  4.2 Hardware Requirements
+
+5. Preliminary Results
+  5.1 Dataset Preparation
+  5.2 Data Preprocessing Outcomes
+  5.3 Baseline Model Performance
+  5.4 Explainability and Calibration Outputs
+  5.5 Challenges Encountered
+
+6. Expected Outcomes and Contributions
+  6.1 Expected System Outcomes
+  6.2 Research Contributions
+
+References
+
+========================================
+LIST OF FIGURES
+========================================
+Figure 3.1 End-to-End System Architecture for Dual-Task Prediction
+Figure 3.2 Data Harmonization and Preprocessing Workflow
+Figure 3.3 Model Training and Nested Cross-Validation Pipeline
+Figure 3.4 Deployment and Auto-Selection Workflow
+Figure 5.1 Mortality ROC Curve (LightGBM)
+Figure 5.2 Mortality Calibration Curve (LightGBM)
+Figure 5.3 Mortality SHAP Summary (LightGBM)
+Figure 5.4 Response ROC Curve (XGBoost)
+Figure 5.5 Response Calibration Curve (XGBoost)
+Figure 5.6 Response SHAP Summary (XGBoost)
+Figure 5.7 Mortality Probability Histogram (LightGBM)
+Figure 5.8 Response Probability Histogram (XGBoost)
+
+========================================
+LIST OF TABLES
+========================================
+Table 3.1 Integrated Data Sources and Record Counts
+Table 3.2 Core Feature Set Used in the Project
+Table 3.3 Task Definitions and Label Availability
+Table 3.4 Model Families and Roles
+Table 4.1 Software Requirements
+Table 4.2 Hardware Requirements
+Table 5.1 Mortality Task Performance Summary
+Table 5.2 Response Task Performance Summary
+Table 5.3 Threshold Optimization Summary
+Table 5.4 Artifact Availability Matrix
+Table 5.5 Challenges and Mitigation Strategies
+Table 6.1 Expected Outcomes and Measurable Indicators
+Table 6.2 Key Contributions of the Project
+
+========================================
+CHAPTER 1
+INTRODUCTION
+========================================
+
+1.1 Background
+Lung cancer remains one of the leading causes of cancer mortality worldwide. In many clinical settings, chemotherapy is still a primary treatment option, especially for patients without accessible targetable molecular markers. In this context, early prediction of mortality risk and treatment response can improve care planning, patient monitoring, and decision support.
+
+1.2 Project Overview
+This project presents a dual-task machine learning framework for:
+(1) one-year mortality prediction, and
+(2) binary chemotherapy treatment-response prediction.
+The system compares LightGBM, XGBoost, and TabNet under nested cross-validation and produces calibrated, explainable, and deployment-ready outputs.
+
+1.3 Motivation
+Many published models rely on proprietary institutional biomarkers and are hard to reproduce in practical settings. This work is motivated by the need for a reproducible and auditable approach using public-data-compatible variables while maintaining strong predictive quality.
+
+1.4 Problem Statement
+Current clinical ML pipelines often show:
+- weak reproducibility,
+- overreliance on AUC only,
+- limited calibration and threshold analysis,
+- poor train-to-deployment continuity.
+This project addresses these issues using traceable report artifacts, uncertainty-aware metrics, and deployment auto-selection logic.
+
+1.5 Objectives
+- Build a unified dual-task prediction framework.
+- Train and compare LightGBM, XGBoost, and TabNet.
+- Evaluate with AUC, F1, Brier score, CI, calibration, and threshold optimization.
+- Generate explainability artifacts (SHAP for tree models).
+- Implement report-driven model deployment selection.
+
+========================================
+CHAPTER 2
+LITERATURE REVIEW
+========================================
+
+2.1 Machine Learning for Lung Cancer Mortality and Survival Prediction
+Literature shows that ML can improve prognosis modeling in lung cancer, but many studies rely on private clinical variables and limited cohort generalizability. Some studies report strong AUC/C-index but include methodological caveats such as aggressive model search and possible performance optimism.
+
+2.2 Machine Learning for Chemotherapy Response and Complication Prediction
+Response and post-chemotherapy complication studies demonstrate potential for ML-based triage support. However, endpoint definitions vary significantly across papers, making direct comparison difficult. Small labeled response cohorts further increase model instability risk.
+
+2.3 Explainability, Calibration, and Deployment in Clinical ML
+Recent clinical AI practice emphasizes that discrimination alone is insufficient. Reliable systems should include calibration checks, uncertainty reporting, threshold analysis, and explainability. This project aligns with that direction by integrating SHAP, reliability diagnostics, and deployment logic tied to validated report outputs.
+
+========================================
+CHAPTER 3
+SYSTEM ARCHITECTURE AND METHODOLOGY
+========================================
+
+3.1 Overview
+The system pipeline includes:
+- multi-source data ingestion,
+- harmonization and preprocessing,
+- feature preparation,
+- model training under nested CV,
+- metric and artifact generation,
+- report-based model deployment.
+
+[INSERT Figure 3.1 HERE]
+Caption: End-to-End System Architecture for Dual-Task Prediction
+
+3.2 Data Collection
+Integrated dataset:
+- SEER: 580,328
+- cBioPortal: 3,754
+- GDC: 1,066
+Total: 585,148 records
+
+Labeled records:
+- Mortality: 552,781
+- Response: 901
+
+Table 3.1 Integrated Data Sources and Record Counts
+SEER | 580,328
+cBioPortal | 3,754
+GDC | 1,066
+Total | 585,148
+
+3.3 Data Preprocessing and Cleaning
+Main operations:
+- schema alignment,
+- data type normalization,
+- missing/sparse value handling,
+- task-specific filtering,
+- model-ready matrix generation.
+
+[INSERT Figure 3.2 HERE]
+Caption: Data Harmonization and Preprocessing Workflow
+
+3.4 Feature Engineering
+Feature groups include demographics, histology, tumor size/grade, staging, metastasis indicators, and chemotherapy coding.
+Task-specific pruning is applied to reduce instability from low-coverage features.
+
+Table 3.2 Core Feature Set Used in the Project
+Demographics | age, sex, race, marital status
+Tumor profile | histology, grade, size
+Disease extent | T/N/M stage, metastasis flags
+Treatment | chemotherapy recode
+
+3.5 Model Selection and Training
+Models:
+- LightGBM
+- XGBoost
+- TabNet
+
+Validation:
+Nested CV with outer fold evaluation and inner selection.
+
+Equation (3.1):
+CI95 = mean AUC +/- 1.96 x (AUC std / sqrt(K))
+
+[INSERT Figure 3.3 HERE]
+Caption: Model Training and Nested Cross-Validation Pipeline
+
+3.6 Dual-Task Prediction Framework for Mortality and Response
+Task A: One-year mortality (binary)
+Task B: Treatment response (binary)
+
+Table 3.3 Task Definitions and Label Availability
+Mortality | Binary | 552,781
+Response | Binary | 901
+
+3.7 Visualization and Explainability Pipeline
+Generated artifacts:
+- ROC curve
+- calibration curve
+- probability histogram
+- SHAP summary (tree models)
+
+3.8 System Evaluation and Deployment
+Evaluation metrics include accuracy, balanced accuracy, precision, recall, F1, AUC, Brier, confidence intervals, and optimized thresholds.
+Deployment auto-selects the best report-ranked model per task.
+
+[INSERT Figure 3.4 HERE]
+Caption: Deployment and Auto-Selection Workflow
+
+========================================
+CHAPTER 4
+SYSTEM REQUIREMENTS
+========================================
+
+4.1 Software Requirements
+
+Table 4.1 Software Requirements
+OS | Windows 10/11
+Language | Python 3.x
+ML libraries | LightGBM, XGBoost, TabNet stack
+Data stack | pandas, numpy, scikit-learn
+Explainability | SHAP
+Visualization | matplotlib/seaborn
+Serving | Flask
+Documentation | MS Word
+
+4.2 Hardware Requirements
+
+Table 4.2 Hardware Requirements
+CPU | Quad-core minimum | 8+ core recommended
+RAM | 8 GB minimum | 16+ GB recommended
+Storage | 20 GB free minimum | 50+ GB SSD recommended
+GPU | Optional | Optional
+
+========================================
+CHAPTER 5
+PRELIMINARY RESULTS
+========================================
+
+5.1 Dataset Preparation
+Harmonized total records: 585,148
+Mortality-labeled: 552,781
+Response-labeled: 901
+
+5.2 Data Preprocessing Outcomes
+Preprocessing completed successfully for all model-task runs with valid evaluation and artifact outputs.
+
+5.3 Baseline Model Performance
+
+Table 5.1 Mortality Task Performance Summary
+LightGBM | AUC 0.8115 | Brier 0.1740 | F1 0.7758 | Best Thr 0.38
+XGBoost  | AUC 0.8105 | Brier 0.1744 | F1 0.7765 | Best Thr 0.41
+TabNet   | AUC 0.7921 | Brier 0.1925 | F1 0.7141 | Best Thr 0.34
+
+Table 5.2 Response Task Performance Summary
+XGBoost  | AUC 0.9004 | Brier 0.1083 | F1 0.9021 | Best Thr 0.51
+LightGBM | AUC 0.8943 | Brier 0.1153 | F1 0.8949 | Best Thr 0.58
+TabNet   | AUC 0.7306 | Brier 0.3264 | F1 0.4990 | Best Thr 0.20
+
+[INSERT Figure 5.1 HERE]
+Caption: Mortality ROC Curve (LightGBM)
+
+[INSERT Figure 5.2 HERE]
+Caption: Mortality Calibration Curve (LightGBM)
+
+[INSERT Figure 5.4 HERE]
+Caption: Response ROC Curve (XGBoost)
+
+[INSERT Figure 5.5 HERE]
+Caption: Response Calibration Curve (XGBoost)
+
+5.4 Explainability and Calibration Outputs
+SHAP summaries are available for LightGBM and XGBoost. Calibration and probability distributions are generated for all runs.
+
+[INSERT Figure 5.3 HERE]
+Caption: Mortality SHAP Summary (LightGBM)
+
+[INSERT Figure 5.6 HERE]
+Caption: Response SHAP Summary (XGBoost)
+
+[INSERT Figure 5.7 HERE]
+Caption: Mortality Probability Histogram (LightGBM)
+
+[INSERT Figure 5.8 HERE]
+Caption: Response Probability Histogram (XGBoost)
+
+Table 5.3 Threshold Optimization Summary
+Mortality LightGBM | default F1 0.7750 | optimized thr 0.38 | optimized F1 0.7902
+Response XGBoost   | default F1 0.9150 | optimized thr 0.51 | optimized F1 0.9187
+
+Table 5.4 Artifact Availability Matrix
+Mortality-LightGBM | ROC Yes | Cal Yes | Hist Yes | SHAP Yes
+Mortality-XGBoost  | ROC Yes | Cal Yes | Hist Yes | SHAP Yes
+Mortality-TabNet   | ROC Yes | Cal Yes | Hist Yes | SHAP No
+Response-LightGBM  | ROC Yes | Cal Yes | Hist Yes | SHAP Yes
+Response-XGBoost   | ROC Yes | Cal Yes | Hist Yes | SHAP Yes
+Response-TabNet    | ROC Yes | Cal Yes | Hist Yes | SHAP No
+
+5.5 Challenges Encountered
+
+Table 5.5 Challenges and Mitigation Strategies
+Small response cohort | high variance | nested CV + CI + threshold analysis
+Schema heterogeneity | integration complexity | harmonization pipeline
+Model stability variation | inconsistent behavior | multi-model benchmark
+Explainability parity | uneven outputs | SHAP on tree models + documented limitation
+Train-serve mismatch risk | deployment inconsistency | report-driven auto-selection
+
+========================================
+CHAPTER 6
+EXPECTED OUTCOMES AND CONTRIBUTIONS
+========================================
+
+6.1 Expected System Outcomes
+- Reproducible dual-task clinical prediction workflow
+- Calibration-aware and threshold-aware evaluation
+- Explainability artifacts for interpretable model behavior
+- Deployment-ready auto-selection based on verified reports
+
+Table 6.1 Expected Outcomes and Measurable Indicators
+Reliable mortality prediction | stable AUC/Brier across folds
+Reliable response prediction  | high AUC with uncertainty transparency
+Transparent predictions       | SHAP + calibration + ROC diagnostics
+Operational deployment        | auto-selection from validated reports
+
+6.2 Research Contributions
+- Unified architecture for mortality + response modeling
+- Practical public-data-compatible baseline
+- Evaluation framework beyond single-metric reporting
+- Artifact-backed reproducibility and deployment continuity
+
+Table 6.2 Key Contributions of the Project
+Architecture | dual-task pipeline
+Modeling | LightGBM/XGBoost/TabNet comparison
+Evaluation | nested CV + CI + calibration + threshold optimization
+Explainability | SHAP integration for tree models
+Deployment | report-driven best-model auto-selection
+Reproducibility | auditable artifacts and traceable outputs
+
+========================================
+REFERENCES (IEEE STYLE)
+========================================
+[1] F. Bray et al., "Global cancer statistics 2022...," CA Cancer J Clin, 2024.
+[2] J. Zou et al., "A machine learning approach to predicting mortality risk...," JMIR Med Inform, 2025.
+[3] T. Sun et al., "Construction of a risk prediction model for lung infection...," Front Oncol, 2024.
+[4] R. Qureshi et al., "Machine learning based personalized drug response prediction...," Sci Rep, 2022.
+[5] Y. Li et al., "Machine learning for lung cancer diagnosis, treatment, and prognosis," GPB, 2022.
+[6] T. Chen and C. Guestrin, "XGBoost...," KDD, 2016.
+[7] G. Ke et al., "LightGBM...," NeurIPS, 2017.
+[8] S. O. Arik and T. Pfister, "TabNet...," AAAI, 2021.
+[9] S. M. Lundberg and S.-I. Lee, "A unified approach to interpreting model predictions," NeurIPS, 2017.
+[10] G. W. Brier, "Verification of forecasts expressed in terms of probability," Monthly Weather Review, 1950.
+
+END OF REPORT MASTER COPY

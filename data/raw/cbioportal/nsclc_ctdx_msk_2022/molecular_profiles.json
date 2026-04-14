@@ -1,0 +1,42 @@
+﻿[
+    {
+        "molecularAlterationType":  "COPY_NUMBER_ALTERATION",
+        "datatype":  "DISCRETE",
+        "name":  "Copy Number Alterations (MSK-IMPACT, HEME)",
+        "description":  "Copy number alterations from targeted sequencing via MK-IMPACT, HEME on Illumina HiSeq sequencers.",
+        "showProfileInAnalysisTab":  true,
+        "patientLevel":  false,
+        "molecularProfileId":  "nsclc_ctdx_msk_2022_cna",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "molecularAlterationType":  "COPY_NUMBER_ALTERATION",
+        "datatype":  "CONTINUOUS",
+        "name":  "Copy Number Alterations (Resbio Lung ctDx)",
+        "description":  "Copy number changes called by Resbio Lung ctDx",
+        "showProfileInAnalysisTab":  false,
+        "patientLevel":  false,
+        "molecularProfileId":  "nsclc_ctdx_msk_2022_linear_CNA",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "molecularAlterationType":  "MUTATION_EXTENDED",
+        "datatype":  "MAF",
+        "name":  "Mutations",
+        "description":  "Mutation data",
+        "showProfileInAnalysisTab":  true,
+        "patientLevel":  false,
+        "molecularProfileId":  "nsclc_ctdx_msk_2022_mutations",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    },
+    {
+        "molecularAlterationType":  "STRUCTURAL_VARIANT",
+        "datatype":  "SV",
+        "name":  "SV data",
+        "description":  "Structural variants data.",
+        "showProfileInAnalysisTab":  true,
+        "patientLevel":  false,
+        "molecularProfileId":  "nsclc_ctdx_msk_2022_structural_variants",
+        "studyId":  "nsclc_ctdx_msk_2022"
+    }
+]

@@ -1,0 +1,117 @@
+{% extends "base.html" %} {% block title %}Prediction Result | Lung Cancer
+Clinical AI{% endblock %} {% block content %}
+<div class="row g-4">
+  <div class="col-12 col-xl-7">
+    <div class="card glass-card border-0">
+      <div class="card-body p-4">
+        <h1 class="h4 mb-3">Prediction result</h1>
+        <div class="row g-3">
+          <div class="col-md-4">
+            <div class="metric-card">
+              <div class="metric-label">Response probability</div>
+              <div class="metric-value">
+                {{ 'N/A' if result.probability is none else ('%.1f%%' %
+                (result.probability * 100)) }}
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="metric-card">
+              <div class="metric-label">Prediction</div>
+              <div class="metric-value">{{ result.label }}</div>
+            </div>
+          </div>
+          <div class="col-md-4">
+            <div class="metric-card">
+              <div class="metric-label">Confidence</div>
+              <div class="metric-value">
+                {{ result.confidence }} ({{ result.confidence_level }})
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="metric-card">
+              <div class="metric-label">Mortality probability</div>
+              <div class="metric-value">
+                {{ 'N/A' if result.mortality_probability is none else ('%.1f%%'
+                % (result.mortality_probability * 100)) }}
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <div class="metric-card">
+              <div class="metric-label">Mortality risk</div>
+              <div class="metric-value">{{ result.mortality_label }}</div>
+            </div>
+          </div>
+        </div>
+
+        <hr />
+        <p class="mb-1"><strong>Drug:</strong> {{ drug_name }}</p>
+        <p class="mb-1"><strong>Model:</strong> {{ result.model_type }}</p>
+        <p class="mb-1">
+          <strong>Selected algorithms:</strong>
+          response={{ result.response_algorithm or 'N/A' }}, mortality={{
+          result.mortality_algorithm or 'N/A' }}
+        </p>
+        <p class="mb-0">
+          <strong>Mortality:</strong> {{ result.mortality_message }}
+        </p>
+
+        {% if result.response_conformal or result.mortality_conformal %}
+        <hr />
+        <p class="mb-1"><strong>Conformal output:</strong></p>
+        {% if result.response_conformal %}
+        <p class="mb-1 small text-muted">
+          Response set contains class 0: {{
+          result.response_conformal.set_contains_0 }}; class 1: {{
+          result.response_conformal.set_contains_1 }}
+        </p>
+        {% endif %} {% if result.mortality_conformal %}
+        <p class="mb-0 small text-muted">
+          Mortality set contains class 0: {{
+          result.mortality_conformal.set_contains_0 }}; class 1: {{
+          result.mortality_conformal.set_contains_1 }}
+        </p>
+        {% endif %} {% endif %} {% if result.drug_info %}
+        <hr />
+        <p class="mb-1"><strong>Drug API:</strong> OpenFDA data available</p>
+        {% if result.drug_info.warnings %}
+        <p class="mb-1">
+          <strong>Warning:</strong> {{ result.drug_info.warnings[0] }}
+        </p>
+        {% endif %} {% if result.drug_info.indications_and_usage %}
+        <p class="mb-0">
+          <strong>Indication:</strong> {{
+          result.drug_info.indications_and_usage[0] }}
+        </p>
+        {% endif %} {% endif %}
+      </div>
+    </div>
+  </div>
+
+  <div class="col-12 col-xl-5">
+    <div class="card glass-card border-0">
+      <div class="card-body p-4">
+        <h2 class="h6 text-uppercase text-secondary">Submitted features</h2>
+        <table class="table table-sm mb-0">
+          <tbody>
+            {% for key, value in features.items() %}
+            <tr>
+              <th class="text-capitalize">{{ key.replace('_', ' ') }}</th>
+              <td>{{ value }}</td>
+            </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="mt-4">
+  <a class="btn btn-outline-secondary" href="{{ url_for('index') }}"
+    >Back to form</a
+  >
+</div>
+{% endblock %}

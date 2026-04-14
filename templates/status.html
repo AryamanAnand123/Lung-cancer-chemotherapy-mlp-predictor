@@ -1,0 +1,67 @@
+{% extends "base.html" %} {% block title %}Status | Lung Cancer Clinical AI{%
+endblock %} {% block content %}
+<div class="row g-4">
+  <div class="col-12 col-lg-8">
+    <div class="card glass-card border-0">
+      <div class="card-body p-4">
+        <h1 class="h4 mb-3">System status</h1>
+        <table class="table table-sm">
+          <tbody>
+            <tr>
+              <th>Response model ready</th>
+              <td>{{ status.response_model_ready }}</td>
+            </tr>
+            <tr>
+              <th>Mortality model ready</th>
+              <td>{{ status.mortality_model_ready }}</td>
+            </tr>
+            <tr>
+              <th>Feature count</th>
+              <td>{{ status.feature_count }}</td>
+            </tr>
+            <tr>
+              <th>Mode</th>
+              <td>{{ status.mode }}</td>
+            </tr>
+            <tr>
+              <th>Response algorithm</th>
+              <td>{{ status.response_algorithm or 'N/A' }}</td>
+            </tr>
+            <tr>
+              <th>Mortality algorithm</th>
+              <td>{{ status.mortality_algorithm or 'N/A' }}</td>
+            </tr>
+            <tr>
+              <th>Response threshold</th>
+              <td>
+                {{ '%.3f' % status.response_threshold if
+                status.response_threshold is not none else 'N/A' }}
+              </td>
+            </tr>
+            <tr>
+              <th>Mortality threshold</th>
+              <td>
+                {{ '%.3f' % status.mortality_threshold if
+                status.mortality_threshold is not none else 'N/A' }}
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-12 col-lg-4">
+    <div class="card glass-card border-0">
+      <div class="card-body p-4">
+        <h2 class="h6 text-uppercase text-secondary">Current deployment</h2>
+        <p class="mb-0">
+          Flask is running tree-stack split deployment. The service auto-picks
+          the best model per task from LightGBM, XGBoost, and TabNet using
+          latest nested-CV report metrics.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}

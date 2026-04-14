@@ -609,12 +609,23 @@ class TreePredictor:
                     if len(transformer) >= 2:
                         _visit(transformer[1])
 
+            if hasattr(node, "transformers_") and isinstance(getattr(node, "transformers_"), list):
+                for transformer in node.transformers_:
+                    if len(transformer) >= 2:
+                        _visit(transformer[1])
+
             if hasattr(node, "named_steps"):
                 try:
                     for step in node.named_steps.values():
                         _visit(step)
                 except Exception:
                     pass
+
+            if hasattr(node, "estimator"):
+                _visit(getattr(node, "estimator"))
+
+            if hasattr(node, "estimator_"):
+                _visit(getattr(node, "estimator_"))
 
     @classmethod
     def load(cls, task: str, algorithm: str, strict: bool = False) -> "TreePredictor | None":

@@ -118,7 +118,26 @@ def predict():
     active_specs = _active_feature_specs()
     features = _form_payload(request.form, active_specs)
     drug_name = request.form.get("drug_name", "Cisplatin").strip() or "Cisplatin"
-    result = service.predict_response(features, drug_name=drug_name)
+    try:
+        result = service.predict_response(features, drug_name=drug_name)
+    except Exception:
+        app.logger.exception("Prediction request failed")
+        result = {
+            "probability": None,
+            "label": "Prediction unavailable",
+            "confidence": "0.0%",
+            "confidence_level": "Low",
+            "mortality_probability": None,
+            "mortality_label": "Prediction unavailable",
+            "drug_name": drug_name,
+            "model_type": "runtime-error",
+            "response_algorithm": None,
+            "mortality_algorithm": None,
+            "mortality_message": "An internal prediction error occurred. Please retry shortly.",
+            "response_conformal": None,
+            "mortality_conformal": None,
+            "drug_info": None,
+        }
     return render_template(
         "result.html",
         result=result,

@@ -47,13 +47,7 @@ AI{% endblock %} {% block content %}
               {% for choice in spec.choices %}
               <option
                 value="{{ choice }}"
-                {%
-                if
-                choice=""
-                ="defaults[spec.name]"
-                %}selected{%
-                endif
-                %}
+                {% if choice == defaults[spec.name] %}selected{% endif %}
               >
                 {{ choice }}
               </option>

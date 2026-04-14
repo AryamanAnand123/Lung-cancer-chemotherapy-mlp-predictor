@@ -100,7 +100,10 @@ class PredictionService:
             ranked_algorithms.append((auc, -brier, algorithm))
 
         for _, _, algorithm in sorted(ranked_algorithms, reverse=True):
-            predictor = TreePredictor.load(task=task, algorithm=algorithm)
+            try:
+                predictor = TreePredictor.load(task=task, algorithm=algorithm)
+            except Exception:
+                predictor = None
             if predictor is not None:
                 return predictor, algorithm
         return None, None

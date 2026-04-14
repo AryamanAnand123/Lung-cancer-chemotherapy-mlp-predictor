@@ -583,9 +583,14 @@ class TreePredictor:
         if not model_path.exists():
             return None
         mapie_path = MODELS_DIR / f"{task}_{algorithm}_mapie.joblib"
-        model = joblib.load(model_path)
-        mapie = joblib.load(mapie_path) if mapie_path.exists() else None
-        return cls(model=model, mapie=mapie)
+        try:
+            model = joblib.load(model_path)
+            mapie = joblib.load(mapie_path) if mapie_path.exists() else None
+            return cls(model=model, mapie=mapie)
+        except Exception:
+            # Keep inference service available even if one serialized model
+            # cannot be loaded on the current runtime environment.
+            return None
 
     def predict_probability(self, payload: Dict[str, Any]) -> float:
         normalized = normalize_payload(payload)
